@@ -1,6 +1,6 @@
 window.__ceti_receive({
   "ok": true,
-  "updatedAt": "2025-08-20T17:51:16.510Z",
+  "updatedAt": "2025-08-20T18:14:22.967Z",
   "categorias": {
     "melhor-filme": {
       "display": "Melhor Filme",
@@ -192,8 +192,8 @@ window.__ceti_receive({
           "historico": [
             {
               "semana": "26/01/2026",
-              "percent": 42,
-              "posicao": 5
+              "percent": 91,
+              "posicao": 1
             },
             {
               "semana": "23/01/2026",
@@ -210,7 +210,7 @@ window.__ceti_receive({
             {
               "semana": "26/01/2026",
               "percent": 79,
-              "posicao": 3
+              "posicao": 4
             },
             {
               "semana": "23/01/2026",
@@ -244,7 +244,7 @@ window.__ceti_receive({
             {
               "semana": "26/01/2026",
               "percent": 44,
-              "posicao": 4
+              "posicao": 5
             },
             {
               "semana": "23/01/2026",
@@ -295,7 +295,7 @@ window.__ceti_receive({
             {
               "semana": "26/01/2026",
               "percent": 80,
-              "posicao": 2
+              "posicao": 3
             },
             {
               "semana": "23/01/2026",
@@ -312,7 +312,7 @@ window.__ceti_receive({
             {
               "semana": "26/01/2026",
               "percent": 81,
-              "posicao": 1
+              "posicao": 2
             },
             {
               "semana": "23/01/2026",
@@ -368,28 +368,28 @@ window.__ceti_receive({
         "26/01/2026": [
           {
             "posicao": 1,
+            "nome": "Tessa Thompson",
+            "percent": 91
+          },
+          {
+            "posicao": 2,
             "nome": "teste 18",
             "percent": 81
           },
           {
-            "posicao": 2,
+            "posicao": 3,
             "nome": "teste 2 horas",
             "percent": 80
           },
           {
-            "posicao": 3,
+            "posicao": 4,
             "nome": "Tarika",
             "percent": 79
           },
           {
-            "posicao": 4,
+            "posicao": 5,
             "nome": "Absurdo",
             "percent": 44
-          },
-          {
-            "posicao": 5,
-            "nome": "Tessa Thompson",
-            "percent": 42
           },
           {
             "posicao": 6,
