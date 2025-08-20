@@ -1,6 +1,6 @@
 window.__ceti_receive({
   "ok": true,
-  "updatedAt": "2025-08-20T19:55:16.661Z",
+  "updatedAt": "2025-08-20T19:59:26.994Z",
   "categorias": {
     "melhor-filme": {
       "display": "Melhor Filme",
@@ -181,6 +181,7 @@ window.__ceti_receive({
       "display": "Teste Novo Categoria",
       "url": "https://www.termometrooscar.com/testecategorianovo.html",
       "semanas": [
+        "30/01/2026",
         "26/01/2026",
         "23/01/2026"
       ],
@@ -190,6 +191,11 @@ window.__ceti_receive({
           "descricao": "Hedda",
           "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg",
           "historico": [
+            {
+              "semana": "30/01/2026",
+              "percent": 83,
+              "posicao": 1
+            },
             {
               "semana": "26/01/2026",
               "percent": 90,
@@ -208,6 +214,11 @@ window.__ceti_receive({
           "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p583_i9_w2000.jpeg",
           "historico": [
             {
+              "semana": "30/01/2026",
+              "percent": 60,
+              "posicao": 2
+            },
+            {
               "semana": "26/01/2026",
               "percent": 79,
               "posicao": 4
@@ -224,6 +235,11 @@ window.__ceti_receive({
           "descricao": "O Maio Filme de Todos os Tempos com titulo",
           "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg",
           "historico": [
+            {
+              "semana": "30/01/2026",
+              "percent": 3,
+              "posicao": 8
+            },
             {
               "semana": "26/01/2026",
               "percent": 2,
@@ -242,6 +258,11 @@ window.__ceti_receive({
           "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg",
           "historico": [
             {
+              "semana": "30/01/2026",
+              "percent": 23,
+              "posicao": 5
+            },
+            {
               "semana": "26/01/2026",
               "percent": 44,
               "posicao": 5
@@ -258,6 +279,11 @@ window.__ceti_receive({
           "descricao": "",
           "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg",
           "historico": [
+            {
+              "semana": "30/01/2026",
+              "percent": 44,
+              "posicao": 3
+            },
             {
               "semana": "26/01/2026",
               "percent": 31,
@@ -276,6 +302,11 @@ window.__ceti_receive({
           "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg",
           "historico": [
             {
+              "semana": "30/01/2026",
+              "percent": 21,
+              "posicao": 6
+            },
+            {
               "semana": "26/01/2026",
               "percent": 2,
               "posicao": 7
@@ -293,6 +324,11 @@ window.__ceti_receive({
           "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg",
           "historico": [
             {
+              "semana": "30/01/2026",
+              "percent": 11,
+              "posicao": 7
+            },
+            {
               "semana": "26/01/2026",
               "percent": 80,
               "posicao": 3
@@ -309,6 +345,11 @@ window.__ceti_receive({
           "descricao": "",
           "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg",
           "historico": [
+            {
+              "semana": "30/01/2026",
+              "percent": 30,
+              "posicao": 4
+            },
             {
               "semana": "26/01/2026",
               "percent": 81,
@@ -405,6 +446,48 @@ window.__ceti_receive({
             "posicao": 7,
             "nome": "Teste agora",
             "percent": 2
+          }
+        ],
+        "30/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Tessa Thompson",
+            "percent": 83
+          },
+          {
+            "posicao": 2,
+            "nome": "Tarika",
+            "percent": 60
+          },
+          {
+            "posicao": 3,
+            "nome": "Teste",
+            "percent": 44
+          },
+          {
+            "posicao": 4,
+            "nome": "teste 18",
+            "percent": 30
+          },
+          {
+            "posicao": 5,
+            "nome": "Absurdo",
+            "percent": 23
+          },
+          {
+            "posicao": 6,
+            "nome": "Teste agora",
+            "percent": 21
+          },
+          {
+            "posicao": 7,
+            "nome": "teste 2 horas",
+            "percent": 11
+          },
+          {
+            "posicao": 8,
+            "nome": "Ana Paula",
+            "percent": 3
           }
         ]
       }
