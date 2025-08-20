@@ -1,6 +1,6 @@
 window.__ceti_receive({
   "ok": true,
-  "updatedAt": "2025-08-20T19:49:09.033Z",
+  "updatedAt": "2025-08-20T19:55:16.661Z",
   "categorias": {
     "melhor-filme": {
       "display": "Melhor Filme",
@@ -192,7 +192,7 @@ window.__ceti_receive({
           "historico": [
             {
               "semana": "26/01/2026",
-              "percent": 86,
+              "percent": 90,
               "posicao": 1
             },
             {
@@ -369,7 +369,7 @@ window.__ceti_receive({
           {
             "posicao": 1,
             "nome": "Tessa Thompson",
-            "percent": 86
+            "percent": 90
           },
           {
             "posicao": 2,
