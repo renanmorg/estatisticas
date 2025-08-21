@@ -1,55 +1,15 @@
 {
-  "updated": "2025-08-21T07:34:36.601Z",
+  "updated": "2025-08-21T08:09:18.389Z",
   "items": [
     {
       "rank": 1,
-      "url": "https://www.termometrooscar.com/store/p138/Emma_Stone.html",
-      "pct_adj": 52.9,
-      "arrow": "same",
-      "title": "Emma Stone",
-      "short": "\"Bugonia\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p138_i15_w800.jpeg"
-    },
-    {
-      "rank": 2,
-      "url": "https://www.termometrooscar.com/store/p137/Emma_Mackey.html",
-      "pct_adj": 51.6,
-      "arrow": "same",
-      "title": "Emma Mackey",
-      "short": "\"Ella McCay\"",
-      "category": "INDICADOS 2025",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p137_i20_w800.jpeg"
-    },
-    {
-      "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p136/Zoey_Deutch.html",
-      "pct_adj": 51.5,
-      "arrow": "same",
-      "title": "Zoey Deutch",
-      "short": "\"Nouvelle Vague\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p136_i14_w800.jpeg"
-    },
-    {
-      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p135/Tessa_Thompson.html",
-      "pct_adj": 50,
-      "arrow": "same",
+      "pct_adj": 51.6,
+      "arrow": "up",
       "title": "Tessa Thompson",
       "short": "\"Hedda\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg"
-    },
-    {
-      "rank": 5,
-      "url": "https://www.termometrooscar.com/testecategorianovo.html",
-      "pct_adj": 48.4,
-      "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
     }
   ]
 }
