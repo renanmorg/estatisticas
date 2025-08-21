@@ -1,6 +1,6 @@
 window.__ceti_receive({
   "ok": true,
-  "updatedAt": "2025-08-21T05:50:12.125Z",
+  "updatedAt": "2025-08-21T09:56:57.685Z",
   "categorias": {
     "melhor-filme": {
       "display": "Melhor Filme",
@@ -194,7 +194,7 @@ window.__ceti_receive({
             {
               "semana": "30/01/2026",
               "percent": 83,
-              "posicao": 1
+              "posicao": 2
             },
             {
               "semana": "26/01/2026",
@@ -216,7 +216,7 @@ window.__ceti_receive({
             {
               "semana": "30/01/2026",
               "percent": 60,
-              "posicao": 2
+              "posicao": 3
             },
             {
               "semana": "26/01/2026",
@@ -238,7 +238,7 @@ window.__ceti_receive({
             {
               "semana": "30/01/2026",
               "percent": 3,
-              "posicao": 8
+              "posicao": 9
             },
             {
               "semana": "26/01/2026",
@@ -260,7 +260,7 @@ window.__ceti_receive({
             {
               "semana": "30/01/2026",
               "percent": 23,
-              "posicao": 5
+              "posicao": 6
             },
             {
               "semana": "26/01/2026",
@@ -282,7 +282,7 @@ window.__ceti_receive({
             {
               "semana": "30/01/2026",
               "percent": 44,
-              "posicao": 3
+              "posicao": 4
             },
             {
               "semana": "26/01/2026",
@@ -304,7 +304,7 @@ window.__ceti_receive({
             {
               "semana": "30/01/2026",
               "percent": 21,
-              "posicao": 6
+              "posicao": 7
             },
             {
               "semana": "26/01/2026",
@@ -326,7 +326,7 @@ window.__ceti_receive({
             {
               "semana": "30/01/2026",
               "percent": 11,
-              "posicao": 7
+              "posicao": 8
             },
             {
               "semana": "26/01/2026",
@@ -348,7 +348,29 @@ window.__ceti_receive({
             {
               "semana": "30/01/2026",
               "percent": 30,
-              "posicao": 4
+              "posicao": 5
+            },
+            {
+              "semana": "26/01/2026",
+              "percent": 81,
+              "posicao": 2
+            },
+            {
+              "semana": "23/01/2026",
+              "percent": 55,
+              "posicao": 2
+            }
+          ]
+        },
+        {
+          "nome": "FINAL",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg",
+          "historico": [
+            {
+              "semana": "30/01/2026",
+              "percent": 99,
+              "posicao": 1
             },
             {
               "semana": "26/01/2026",
@@ -369,6 +391,11 @@ window.__ceti_receive({
             "posicao": 1,
             "nome": "teste 2 horas",
             "percent": 60
+          },
+          {
+            "posicao": 2,
+            "nome": "FINAL",
+            "percent": 55
           },
           {
             "posicao": 2,
@@ -414,6 +441,11 @@ window.__ceti_receive({
           },
           {
             "posicao": 2,
+            "nome": "FINAL",
+            "percent": 81
+          },
+          {
+            "posicao": 2,
             "nome": "teste 18",
             "percent": 81
           },
@@ -451,41 +483,46 @@ window.__ceti_receive({
         "30/01/2026": [
           {
             "posicao": 1,
+            "nome": "FINAL",
+            "percent": 99
+          },
+          {
+            "posicao": 2,
             "nome": "Tessa Thompson",
             "percent": 83
           },
           {
-            "posicao": 2,
+            "posicao": 3,
             "nome": "Tarika",
             "percent": 60
           },
           {
-            "posicao": 3,
+            "posicao": 4,
             "nome": "Teste",
             "percent": 44
           },
           {
-            "posicao": 4,
+            "posicao": 5,
             "nome": "teste 18",
             "percent": 30
           },
           {
-            "posicao": 5,
+            "posicao": 6,
             "nome": "Absurdo",
             "percent": 23
           },
           {
-            "posicao": 6,
+            "posicao": 7,
             "nome": "Teste agora",
             "percent": 21
           },
           {
-            "posicao": 7,
+            "posicao": 8,
             "nome": "teste 2 horas",
             "percent": 11
           },
           {
-            "posicao": 8,
+            "posicao": 9,
             "nome": "Ana Paula",
             "percent": 3
           }
