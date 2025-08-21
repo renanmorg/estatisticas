@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-21T06:34:35.254Z",
+  "updated": "2025-08-21T07:07:39.305Z",
   "items": [
     {
       "rank": 1,
@@ -40,6 +40,16 @@
       "short": "\"Hedda\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg"
+    },
+    {
+      "rank": 5,
+      "url": "https://www.termometrooscar.com/testecategorianovo.html",
+      "pct_adj": 48.4,
+      "arrow": "same",
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     }
   ]
 }
