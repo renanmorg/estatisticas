@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2025-08-23T09:58:44.605Z",
-  "totals": [
+  "updatedAt": "2025-08-23T10:08:51.952Z",
+  "indicados": [
     {
       "film": "Emilia Pérez",
       "count": 2,
@@ -22,7 +22,7 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p427_i10_w800.jpeg?width=320"
     },
     {
-      "film": "I&rsquo;m Not Everything I Want to Be",
+      "film": "I'm Not Everything I Want to Be",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p576_i10_w533.jpeg?width=320"
     },
@@ -50,6 +50,23 @@
       "film": "Sing Sing",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p433_i5_w800.jpeg?width=320"
+    },
+    {
+      "film": "Sound of Falling",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p564_i12_w1000.jpeg?width=320"
+    }
+  ],
+  "vencedores": [
+    {
+      "film": "Emilia Pérez",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p423_i9_w800.png?width=320"
+    },
+    {
+      "film": "Klara and the Sun",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p412_i11_w800.jpeg?width=320"
     },
     {
       "film": "Sound of Falling",
