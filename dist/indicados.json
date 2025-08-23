@@ -1,335 +1,15 @@
 {
-  "updatedAt": "2025-08-23T09:42:39.226Z",
+  "updatedAt": "2025-08-23T09:48:08.413Z",
   "totals": [
     {
-      "film": "Pecadores",
-      "count": 14,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p95_i13_w800.jpeg?width=320"
-    },
-    {
-      "film": "Wicked: For Good",
-      "count": 14,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p109_i13_w800.jpeg?width=320"
-    },
-    {
-      "film": "Frankenstein",
-      "count": 12,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p99_i14_w800.jpeg?width=320"
-    },
-    {
-      "film": "The Testament of Ann Lee",
-      "count": 12,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p110_i17_w800.jpeg?width=320"
-    },
-    {
-      "film": "Hamnet",
-      "count": 11,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i11_w800.jpeg?width=320"
-    },
-    {
-      "film": "One Battle After Another",
-      "count": 11,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i16_w800.jpeg?width=320"
-    },
-    {
-      "film": "Bugonia",
-      "count": 10,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p100_i12_w800.jpeg?width=320"
-    },
-    {
-      "film": "F1",
-      "count": 10,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p107_i11_w800.jpeg?width=320"
-    },
-    {
-      "film": "Highest 2 Lowest",
-      "count": 8,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p96_i17_w800.jpeg?width=320"
-    },
-    {
-      "film": "Marty Supreme",
-      "count": 8,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p104_i17_w800.jpeg?width=320"
-    },
-    {
-      "film": "Nouvelle Vague",
-      "count": 8,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p136_i14_w800.jpeg?width=320"
-    },
-    {
-      "film": "Sentimental Value",
-      "count": 8,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p113_i14_w800.jpeg?width=320"
-    },
-    {
-      "film": "The Ballad of a Small Player",
-      "count": 8,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p114_i11_w800.jpeg?width=320"
-    },
-    {
-      "film": "Blue Moon",
-      "count": 7,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p117_i16_w800.jpeg?width=320"
-    },
-    {
-      "film": "Jay Kelly",
-      "count": 7,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p98_i12_w800.jpeg?width=320"
-    },
-    {
-      "film": "Klara and the Sun",
-      "count": 7,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p77_i16_w800.jpeg?width=320"
-    },
-    {
-      "film": "The Phoenician Scheme",
-      "count": 7,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p79_i14_w961.jpeg?width=320"
-    },
-    {
-      "film": "The Rivals of Amziah King",
-      "count": 7,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i19_w800.jpeg?width=320"
-    },
-    {
-      "film": "A Vida de Chuck",
-      "count": 6,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p97_i13_w800.jpeg?width=320"
-    },
-    {
-      "film": "After the Hunt",
-      "count": 6,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p106_i16_w800.jpeg?width=320"
-    },
-    {
-      "film": "Deliver Me From Nowhere",
-      "count": 6,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p224_i13_w800.jpeg?width=320"
-    },
-    {
-      "film": "The Smashing Machine",
-      "count": 6,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p131_i15_w800.jpeg?width=320"
-    },
-    {
-      "film": "A House of Dynamite",
-      "count": 5,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p71_i13_w800.jpeg?width=320"
-    },
-    {
-      "film": "Avatar: Fogo e Cinzas",
-      "count": 5,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p111_i15_w800.jpeg?width=320"
-    },
-    {
-      "film": "Die, My Love",
-      "count": 5,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p148_i17_w800.jpeg?width=320"
-    },
-    {
-      "film": "Is This Thing On?",
-      "count": 5,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p102_i15_w800.jpeg?width=320"
-    },
-    {
-      "film": "Mickey 17",
-      "count": 5,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p89_i19_w509.jpeg?width=320"
-    },
-    {
-      "film": "Morro dos Ventos Uivantes",
-      "count": 5,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p64_i11_w800.jpeg?width=320"
-    },
-    {
-      "film": "O Agente Secreto",
-      "count": 5,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i13_w800.jpeg?width=320"
-    },
-    {
-      "film": "The History of Sound",
-      "count": 5,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p124_i18_w800.jpeg?width=320"
-    },
-    {
-      "film": "The Lost Bus",
-      "count": 5,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p66_i20_w800.jpeg?width=320"
-    },
-    {
-      "film": "Train Dreams",
-      "count": 5,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p191_i15_w800.png?width=320"
-    },
-    {
-      "film": "Deliver Me from Nowhere",
-      "count": 4,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p119_i18_w800.jpeg?width=320"
-    },
-    {
-      "film": "It Was Just an Accident",
-      "count": 4,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p105_i15_w800.jpeg?width=320"
-    },
-    {
-      "film": "Quarteto Fant&aacute;stico: Primeiros Passos",
-      "count": 4,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p290_i15_w800.jpeg?width=320"
-    },
-    {
-      "film": "Rental Family",
-      "count": 4,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p123_i13_w800.jpeg?width=320"
-    },
-    {
-      "film": "Superman",
-      "count": 4,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p655_i13_w800.jpeg?width=320"
+      "film": "Emilia P&eacute;rez",
+      "count": 2,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p423_i9_w800.png?width=320"
     },
     {
       "film": "A Longa Marcha - Caminhe ou Morra",
-      "count": 3,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p654_i9_w800.jpeg?width=320"
-    },
-    {
-      "film": "Caught Stealing",
-      "count": 3,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p58_i16_w503.jpeg?width=320"
-    },
-    {
-      "film": "Exterm&iacute;nio: A Evolu&ccedil;&atilde;o",
-      "count": 3,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p539_i11_w800.jpeg?width=320"
-    },
-    {
-      "film": "Jurassic World: Recome&ccedil;o",
-      "count": 3,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p397_i11_w800.jpeg?width=320"
-    },
-    {
-      "film": "Mother Mary",
-      "count": 3,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p149_i14_w800.jpeg?width=320"
-    },
-    {
-      "film": "Nuremberg",
-      "count": 3,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p217_i12_w800.jpeg?width=320"
-    },
-    {
-      "film": "O Beijo da Mulher Aranha",
-      "count": 3,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p192_i19_w800.jpeg?width=320"
-    },
-    {
-      "film": "Se Eu Tivesse Pernas, Te Chutaria",
-      "count": 3,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p151_i14_w800.jpeg?width=320"
-    },
-    {
-      "film": "The Drama",
-      "count": 3,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p153_i13_w800.jpeg?width=320"
-    },
-    {
-      "film": "Tron: Ares",
-      "count": 3,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p406_i9_w800.jpeg?width=320"
-    },
-    {
-      "film": "Amores Materialistas",
-      "count": 2,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p74_i17_w964.jpeg?width=320"
-    },
-    {
-      "film": "At the Sea",
-      "count": 2,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p152_i19_w800.jpeg?width=320"
-    },
-    {
-      "film": "Branca de Neve",
-      "count": 2,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p295_i10_w800.jpeg?width=320"
-    },
-    {
-      "film": "Dracula: A Love Tale",
-      "count": 2,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p306_i10_w800.jpeg?width=320"
-    },
-    {
-      "film": "Eddington",
-      "count": 2,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p87_i20_w2000.jpeg?width=320"
-    },
-    {
-      "film": "Hedda",
-      "count": 2,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg?width=320"
-    },
-    {
-      "film": "Late Fame",
-      "count": 2,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p147_i10_w800.jpeg?width=320"
-    },
-    {
-      "film": "Miss&atilde;o: Imposs&iacute;vel - O Acerto Final",
-      "count": 2,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p395_i12_w800.jpeg?width=320"
-    },
-    {
-      "film": "Sorry, Baby",
-      "count": 2,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p93_i18_w1080.jpeg?width=320"
-    },
-    {
-      "film": "Tempo de Guerra",
-      "count": 2,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p549_i13_w800.jpeg?width=320"
-    },
-    {
-      "film": "The Electric State",
-      "count": 2,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p396_i12_w800.jpeg?width=320"
-    },
-    {
-      "film": "Wake Up Dead Man: A Knives Out Mystery",
-      "count": 2,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p194_i17_w800.jpeg?width=320"
-    },
-    {
-      "film": "A Grande Viagem da Sua Vida",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p450_i12_w800.jpeg?width=320"
-    },
-    {
-      "film": "A Hora do Mal",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i22_w800.jpeg?width=320"
-    },
-    {
-      "film": "A Magnifica Vida De Marcel Pagnol",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p247_i9_w1174.jpeg?width=320"
-    },
-    {
-      "film": "Alpha",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p546_i13_w800.jpeg?width=320"
-    },
-    {
-      "film": "Anemone",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p133_i15_w800.jpeg?width=320"
-    },
-    {
-      "film": "Animal Farm",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p243_i11_w900.jpeg?width=320"
-    },
-    {
-      "film": "Arco",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p244_i12_w194.jpeg"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p405_i11_w800.jpeg?width=320"
     },
     {
       "film": "Batalh&atilde;o 6888",
@@ -337,64 +17,9 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p429_i6_w800.jpeg?width=320"
     },
     {
-      "film": "Caos e Destrui&ccedil;&atilde;o",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p355_i11_w800.jpeg?width=320"
-    },
-    {
-      "film": "Christy",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p144_i18_w800.jpeg?width=320"
-    },
-    {
-      "film": "Como Treinar o Seu Drag&atilde;o",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p410_i9_w800.jpeg?width=320"
-    },
-    {
-      "film": "David",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i9_w1000.jpeg?width=320"
-    },
-    {
-      "film": "Eleanor the Great",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p141_i19_w800.jpeg?width=320"
-    },
-    {
-      "film": "Elio",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p239_i7_w1013.jpeg?width=320"
-    },
-    {
-      "film": "Ella McCay",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p137_i20_w800.jpeg?width=320"
-    },
-    {
       "film": "Elton John: Never Too Late",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p427_i10_w800.jpeg?width=320"
-    },
-    {
-      "film": "Emilia P&eacute;rez",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p423_i9_w800.png?width=320"
-    },
-    {
-      "film": "Endless Cookie",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p246_i10_w1000.jpeg?width=320"
-    },
-    {
-      "film": "Grand Prix of Europe",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p240_i12_w800.jpeg?width=320"
-    },
-    {
-      "film": "Honey Don't",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p214_i10_w800.jpeg?width=320"
     },
     {
       "film": "I&rsquo;m Not Everything I Want to Be",
@@ -402,49 +27,14 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p576_i10_w533.jpeg?width=320"
     },
     {
+      "film": "Klara and the Sun",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p412_i11_w800.jpeg?width=320"
+    },
+    {
       "film": "Late Shift",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p554_i9_w1944.jpeg?width=320"
-    },
-    {
-      "film": "Lilo &amp; Stitch",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p408_i13_w800.jpeg?width=320"
-    },
-    {
-      "film": "Little Am&eacute;lie or the Character of Rain",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p241_i10_w1000.jpeg?width=320"
-    },
-    {
-      "film": "Lobisomem",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p653_i13_w800.jpeg?width=320"
-    },
-    {
-      "film": "Nezha: O Renascimento da Alma",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p238_i9_w2000.jpeg?width=320"
-    },
-    {
-      "film": "No Other Choice",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p226_i10_w800.jpeg?width=320"
-    },
-    {
-      "film": "O Homem-C&atilde;o",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i10_w477.jpeg?width=320"
-    },
-    {
-      "film": "O Reino das Esta&ccedil;&otilde;es",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p250_i10_w5442.jpeg?width=320"
-    },
-    {
-      "film": "O Sobrevivente",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p370_i13_w800.jpeg?width=320"
     },
     {
       "film": "One of Those Days When Hemme Dies",
@@ -452,54 +42,9 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p555_i9_w705.jpeg?width=320"
     },
     {
-      "film": "Os Caras Malvados 2",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p252_i9_w477.jpeg?width=320"
-    },
-    {
       "film": "Palestine 36",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p558_i11_w1081.jpeg?width=320"
-    },
-    {
-      "film": "Pillion",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p166_i22_w800.jpeg?width=320"
-    },
-    {
-      "film": "Pookoo",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p235_i9_w800.jpeg?width=320"
-    },
-    {
-      "film": "Power Ballad",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p366_i16_w800.jpeg?width=320"
-    },
-    {
-      "film": "Predador: Assassino de Assassinos",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p237_i9_w800.jpeg?width=320"
-    },
-    {
-      "film": "Rosemead",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p142_i14_w800.jpeg?width=320"
-    },
-    {
-      "film": "Sanatorium",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p663_i9_w960.jpeg?width=320"
-    },
-    {
-      "film": "Scarlet",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p253_i10_w1000.jpeg?width=320"
-    },
-    {
-      "film": "Separados pelas Estrelas",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p251_i10_w1383.jpeg?width=320"
     },
     {
       "film": "Sing Sing",
@@ -507,54 +52,9 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p433_i5_w800.jpeg?width=320"
     },
     {
-      "film": "Smurfs",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p245_i9_w510.jpeg?width=320"
-    },
-    {
       "film": "Sound of Falling",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p564_i12_w1000.jpeg?width=320"
-    },
-    {
-      "film": "Springsteen: Deliver Me from Nowhere",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p86_i15_w1182.jpeg?width=320"
-    },
-    {
-      "film": "Tarika",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p583_i9_w2000.jpeg?width=320"
-    },
-    {
-      "film": "The Choral",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p128_i24_w800.jpeg?width=320"
-    },
-    {
-      "film": "The Chronology of Water",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p139_i18_w800.jpeg?width=320"
-    },
-    {
-      "film": "The Roses",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p216_i12_w800.jpeg?width=320"
-    },
-    {
-      "film": "The Twits",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p242_i12_w718.jpeg?width=320"
-    },
-    {
-      "film": "Thunderbolts",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p413_i9_w800.jpeg?width=320"
-    },
-    {
-      "film": "Zootopia 2",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p248_i8_w554.jpeg?width=320"
     }
   ]
 }
