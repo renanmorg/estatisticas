@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-30T22:34:36.902Z",
+  "updated": "2025-08-30T23:21:36.108Z",
   "items": [
     {
       "rank": 1,
@@ -40,6 +40,16 @@
       "short": "\"One Battle After Another\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p116_i15_w800.jpeg"
+    },
+    {
+      "rank": 5,
+      "url": "https://www.termometrooscar.com/store/p122/Timothee_Chalamet.html",
+      "pct_adj": 48.4,
+      "arrow": "same",
+      "title": "Timothee Chalamet",
+      "short": "\"Marty Supreme\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p122_i13_w800.jpeg"
     }
   ]
 }
