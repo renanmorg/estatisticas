@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-30T21:34:36.120Z",
+  "updated": "2025-08-30T22:25:24.934Z",
   "items": [
     {
       "rank": 1,
@@ -23,23 +23,23 @@
     },
     {
       "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p116/Leonardo_DiCaprio.html",
-      "pct_adj": 48.4,
-      "arrow": "same",
-      "title": "Leonardo DiCaprio",
-      "short": "\"One Battle After Another\"",
-      "category": "MELHOR ATOR",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p116_i15_w800.jpeg"
-    },
-    {
-      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p138/Emma_Stone.html",
-      "pct_adj": 48.4,
-      "arrow": "same",
+      "pct_adj": 50,
+      "arrow": "up",
       "title": "Emma Stone",
       "short": "\"Bugonia\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p138_i15_w800.jpeg"
+    },
+    {
+      "rank": 4,
+      "url": "https://www.termometrooscar.com/store/p116/Leonardo_DiCaprio.html",
+      "pct_adj": 48.4,
+      "arrow": "down",
+      "title": "Leonardo DiCaprio",
+      "short": "\"One Battle After Another\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p116_i15_w800.jpeg"
     }
   ]
 }
