@@ -1,11 +1,23 @@
 {
-  "updated": "2025-09-15T20:38:21.872Z",
+  "updated": "2025-09-15T21:34:40.143Z",
   "items": [
     {
       "rank": 1,
+      "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
+      "pct_adj": 54.3,
+      "arrow": "up",
+      "title": "O Agente Secreto",
+      "short": "Brasil",
+      "category": "MELHOR FILME INTERNACIONAL",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i10_w800.jpeg",
+      "rankScore": 37.6,
+      "total": 5
+    },
+    {
+      "rank": 2,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 53.1,
-      "arrow": "up",
+      "arrow": "down",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -14,10 +26,10 @@
       "total": 2
     },
     {
-      "rank": 2,
+      "rank": 3,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 53.1,
-      "arrow": "up",
+      "arrow": "down",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
@@ -26,10 +38,10 @@
       "total": 2
     },
     {
-      "rank": 3,
+      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p75/Hamnet.html",
       "pct_adj": 53.1,
-      "arrow": "up",
+      "arrow": "down",
       "title": "Hamnet",
       "short": "Chloe Zhao, Sam Mendes e Steven Spielberg",
       "category": "MELHOR FILME",
@@ -38,34 +50,34 @@
       "total": 2
     },
     {
-      "rank": 4,
-      "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 52.9,
-      "arrow": "down",
-      "title": "O Agente Secreto",
-      "short": "Brasil",
-      "category": "MELHOR FILME INTERNACIONAL",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i10_w800.jpeg",
-      "rankScore": 30.1,
-      "total": 4
-    },
-    {
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p138/Emma_Stone.html",
-      "pct_adj": 51.5,
+      "pct_adj": 52.9,
       "arrow": "up",
       "title": "Emma Stone",
       "short": "\"Bugonia\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p138_i16_w800.png",
+      "rankScore": 30.1,
+      "total": 4
+    },
+    {
+      "rank": 6,
+      "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
+      "pct_adj": 51.5,
+      "arrow": "up",
+      "title": "Jessie Buckley",
+      "short": "\"Hamnet\"",
+      "category": "MELHOR ATRIZ",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png",
       "rankScore": 20.8,
       "total": 3
     },
     {
-      "rank": 6,
+      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p103/Chloe_Zhao.html",
       "pct_adj": 51.6,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Chloe Zhao",
       "short": "\"Hamnet\"",
       "category": "MELHOR DIREÇÃO",
@@ -74,7 +86,7 @@
       "total": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
       "pct_adj": 51.6,
       "arrow": "down",
@@ -86,7 +98,7 @@
       "total": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/store/p121/Michael_B._Jordan.html",
       "pct_adj": 51.6,
       "arrow": "down",
@@ -98,7 +110,7 @@
       "total": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p124/Paul_Mescal.html",
       "pct_adj": 51.6,
       "arrow": "down",
@@ -106,18 +118,6 @@
       "short": "\"A História Do Som\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p124_i19_w800.png",
-      "rankScore": 20.7,
-      "total": 1
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p135/Tessa_Thompson.html",
-      "pct_adj": 51.6,
-      "arrow": "down",
-      "title": "Tessa Thompson",
-      "short": "\"Hedda\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i19_w800.png",
       "rankScore": 20.7,
       "total": 1
     }
