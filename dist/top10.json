@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-15T16:34:41.723Z",
+  "updated": "2025-09-15T17:12:03.501Z",
   "items": [
     {
       "rank": 1,
@@ -13,6 +13,16 @@
     },
     {
       "rank": 2,
+      "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
+      "pct_adj": 51.6,
+      "arrow": "same",
+      "title": "Kleber Mendonça Filho",
+      "short": "\"O Agente Secreto\"",
+      "category": "MELHOR DIREÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
+    },
+    {
+      "rank": 3,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 51.6,
       "arrow": "down",
@@ -22,7 +32,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p121/Michael_B._Jordan.html",
       "pct_adj": 51.6,
       "arrow": "down",
@@ -32,7 +42,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p121_i20_w800.png"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "url": "https://www.termometrooscar.com/store/p124/Paul_Mescal.html",
       "pct_adj": 51.6,
       "arrow": "down",
@@ -42,7 +52,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p124_i19_w800.png"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "url": "https://www.termometrooscar.com/store/p135/Tessa_Thompson.html",
       "pct_adj": 51.6,
       "arrow": "down",
@@ -52,7 +62,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i19_w800.png"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p577/Sem_Outra_Escolha.html",
       "pct_adj": 51.6,
       "arrow": "same",
@@ -62,7 +72,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p577_i9_w1116.jpeg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p578/Sentimental_Value.html",
       "pct_adj": 51.6,
       "arrow": "same",
@@ -72,7 +82,17 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p578_i10_w534.jpeg"
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "url": "https://www.termometrooscar.com/store/p75/Hamnet.html",
+      "pct_adj": 51.6,
+      "arrow": "same",
+      "title": "Hamnet",
+      "short": "Chloe Zhao, Sam Mendes e Steven Spielberg",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i17_w660.jpeg"
+    },
+    {
+      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p138/Emma_Stone.html",
       "pct_adj": 50,
       "arrow": "down",
@@ -80,26 +100,6 @@
       "short": "\"Bugonia\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p138_i16_w800.png"
-    },
-    {
-      "rank": 9,
-      "url": "https://www.termometrooscar.com/store/p116/Leonardo_DiCaprio.html",
-      "pct_adj": 48.4,
-      "arrow": "down",
-      "title": "Leonardo DiCaprio",
-      "short": "\"Uma Batalha Após a Outra\"",
-      "category": "MELHOR ATOR",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p116_i16_w800.png"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p122/Timothee_Chalamet.html",
-      "pct_adj": 48.4,
-      "arrow": "down",
-      "title": "Timothee Chalamet",
-      "short": "\"Marty Supreme\"",
-      "category": "MELHOR ATOR",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p122_i14_w800.png"
     }
   ]
 }
