@@ -1,77 +1,192 @@
 {
-  "updatedAt": "2025-08-23T11:52:52.147Z",
+  "updatedAt": "2025-09-16T16:00:10.391Z",
   "indicados": [
     {
-      "film": "Emilia Pérez",
+      "film": "Frankenstein",
+      "count": 11,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p99_i15_w800.png?width=320"
+    },
+    {
+      "film": "Pecadores",
+      "count": 11,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p95_i14_w800.png?width=320"
+    },
+    {
+      "film": "Hamnet",
+      "count": 10,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png?width=320"
+    },
+    {
+      "film": "Wicked: Parte 2",
+      "count": 8,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p146_i14_w800.png?width=320"
+    },
+    {
+      "film": "Sentimental Value",
+      "count": 7,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p113_i15_w800.png?width=320"
+    },
+    {
+      "film": "Bugonia",
+      "count": 6,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p120_i18_w800.png?width=320"
+    },
+    {
+      "film": "Uma Batalha Após a Outra",
+      "count": 6,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png?width=320"
+    },
+    {
+      "film": "Coração de Lutador - The Smashing Machine",
+      "count": 4,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p131_i16_w800.png?width=320"
+    },
+    {
+      "film": "Marty Supreme",
+      "count": 4,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p122_i14_w800.png?width=320"
+    },
+    {
+      "film": "F1",
+      "count": 3,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p330_i13_w800.jpeg?width=320"
+    },
+    {
+      "film": "Jay Kelly",
+      "count": 3,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p156_i22_w800.png?width=320"
+    },
+    {
+      "film": "Nouvelle Vague",
+      "count": 3,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p179_i19_w800.png?width=320"
+    },
+    {
+      "film": "O Agente Secreto",
+      "count": 3,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png?width=320"
+    },
+    {
+      "film": "Vivo ou Morto: Um Mistério Knives Out",
+      "count": 3,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p173_i19_w800.png?width=320"
+    },
+    {
+      "film": "Avatar: Fogo e Cinzas",
       "count": 2,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p423_i9_w800.png?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p409_i13_w800.jpeg?width=320"
     },
     {
-      "film": "A Longa Marcha - Caminhe ou Morra",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p405_i11_w800.jpeg?width=320"
+      "film": "The Testament of Ann Lee",
+      "count": 2,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p145_i16_w800.png?width=320"
     },
     {
-      "film": "Batalhão 6888",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p429_i6_w800.jpeg?width=320"
+      "film": "Tron: Ares",
+      "count": 2,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p406_i9_w800.jpeg?width=320"
     },
     {
-      "film": "Elton John: Never Too Late",
+      "film": "A Hora do Mal",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p427_i10_w800.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320"
     },
     {
-      "film": "I'm Not Everything I Want to Be",
+      "film": "A Magnifica Vida De Marcel Pagnol",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p576_i10_w533.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p247_i9_w1174.jpeg?width=320"
     },
     {
-      "film": "Klara and the Sun",
+      "film": "Arco",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p412_i11_w800.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p244_i12_w194.jpeg"
     },
     {
-      "film": "Late Shift",
+      "film": "Depois da Caçada",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p554_i9_w1944.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p441_i17_w800.jpeg?width=320"
     },
     {
-      "film": "One of Those Days When Hemme Dies",
+      "film": "Guerreiras do K-Pop",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p555_i9_w705.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320"
     },
     {
-      "film": "Palestine 36",
+      "film": "Ne Zha 2: O Renascer da Alma",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p558_i11_w1081.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p238_i9_w2000.jpeg?width=320"
     },
     {
-      "film": "Sing Sing",
+      "film": "Sem Outra Escolha",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p433_i5_w800.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p577_i9_w1116.jpeg?width=320"
     },
     {
       "film": "Sound of Falling",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p564_i12_w1000.jpeg?width=320"
+    },
+    {
+      "film": "Springsteen: Salve-me do Desconhecido",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p363_i11_w800.jpeg?width=320"
+    },
+    {
+      "film": "Superman",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p407_i11_w800.jpeg?width=320"
+    },
+    {
+      "film": "The Voice of Hind Rajab",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p606_i9_w800.jpeg?width=320"
+    },
+    {
+      "film": "Zootopia 2",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p248_i8_w554.jpeg?width=320"
     }
   ],
   "vencedores": [
     {
-      "film": "Emilia Pérez",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p423_i9_w800.png?width=320"
+      "film": "Hamnet",
+      "count": 5,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png?width=320"
     },
     {
-      "film": "Klara and the Sun",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p412_i11_w800.jpeg?width=320"
+      "film": "Frankenstein",
+      "count": 4,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg?width=320"
     },
     {
-      "film": "Sound of Falling",
+      "film": "Sentimental Value",
+      "count": 4,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png?width=320"
+    },
+    {
+      "film": "Pecadores",
+      "count": 2,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p319_i18_w800.jpeg?width=320"
+    },
+    {
+      "film": "Avatar: Fogo e Cinzas",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p564_i12_w1000.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p409_i13_w800.jpeg?width=320"
+    },
+    {
+      "film": "F1",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p368_i9_w800.jpeg?width=320"
+    },
+    {
+      "film": "Marty Supreme",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p122_i14_w800.png?width=320"
+    },
+    {
+      "film": "Zootopia 2",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p248_i8_w554.jpeg?width=320"
     }
   ]
 }
