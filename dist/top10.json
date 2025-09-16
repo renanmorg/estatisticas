@@ -1,31 +1,31 @@
 {
-  "updated": "2025-09-16T19:34:43.487Z",
+  "updated": "2025-09-16T20:34:44.143Z",
   "items": [
     {
       "rank": 1,
-      "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 55.2,
-      "arrow": "same",
-      "title": "Wagner Moura",
-      "short": "\"O Agente Secreto\"",
-      "category": "MELHOR ATOR",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
-    },
-    {
-      "rank": 2,
       "url": "https://www.termometrooscar.com/store/p138/Emma_Stone.html",
       "pct_adj": 52.9,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Emma Stone",
       "short": "\"Bugonia\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p138_i16_w800.png"
     },
     {
+      "rank": 2,
+      "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
+      "pct_adj": 49.7,
+      "arrow": "down",
+      "title": "Wagner Moura",
+      "short": "\"O Agente Secreto\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
+    },
+    {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 46.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p174/Stellan_Skarsg%C3%A5rd.html",
       "pct_adj": 43.8,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Stellan Skarsgård",
       "short": "\"Sentimental Value\"",
       "category": "MELHOR ATOR COADJUVANTE",
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p180/Amy_Madigan.html",
       "pct_adj": 43.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Amy Madigan",
       "short": "\"A Hora do Mal\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
       "pct_adj": 37.6,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Kleber Mendonça Filho",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR DIREÇÃO",
@@ -63,6 +63,16 @@
     },
     {
       "rank": 7,
+      "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
+      "pct_adj": 37.6,
+      "arrow": "up",
+      "title": "Jessie Buckley",
+      "short": "\"Hamnet\"",
+      "category": "MELHOR ATRIZ",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png"
+    },
+    {
+      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 37.6,
       "arrow": "down",
@@ -72,7 +82,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i13_w800.jpeg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/store/p62/Pecadores.html",
       "pct_adj": 37.6,
       "arrow": "down",
@@ -82,7 +92,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p75/Hamnet.html",
       "pct_adj": 37.6,
       "arrow": "down",
@@ -90,16 +100,6 @@
       "short": "Chloe Zhao, Sam Mendes e Steven Spielberg",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i17_w660.jpeg"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p103/Chloe_Zhao.html",
-      "pct_adj": 34.2,
-      "arrow": "down",
-      "title": "Chloe Zhao",
-      "short": "\"Hamnet\"",
-      "category": "MELHOR DIREÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png"
     }
   ]
 }
