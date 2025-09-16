@@ -1,11 +1,11 @@
 {
-  "updated": "2025-09-16T18:34:45.656Z",
+  "updated": "2025-09-16T19:34:43.487Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 55.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -15,7 +15,7 @@
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p138/Emma_Stone.html",
       "pct_adj": 52.9,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Emma Stone",
       "short": "\"Bugonia\"",
       "category": "MELHOR ATRIZ",
@@ -23,18 +23,8 @@
     },
     {
       "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p174/Stellan_Skarsg%C3%A5rd.html",
-      "pct_adj": 43.8,
-      "arrow": "same",
-      "title": "Stellan Skarsgård",
-      "short": "\"Sentimental Value\"",
-      "category": "MELHOR ATOR COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png"
-    },
-    {
-      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 43.4,
+      "pct_adj": 46.8,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
@@ -42,17 +32,37 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i10_w800.jpeg"
     },
     {
+      "rank": 4,
+      "url": "https://www.termometrooscar.com/store/p174/Stellan_Skarsg%C3%A5rd.html",
+      "pct_adj": 43.8,
+      "arrow": "down",
+      "title": "Stellan Skarsgård",
+      "short": "\"Sentimental Value\"",
+      "category": "MELHOR ATOR COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png"
+    },
+    {
       "rank": 5,
+      "url": "https://www.termometrooscar.com/store/p180/Amy_Madigan.html",
+      "pct_adj": 43.8,
+      "arrow": "up",
+      "title": "Amy Madigan",
+      "short": "\"A Hora do Mal\"",
+      "category": "MELHOR ATRIZ COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png"
+    },
+    {
+      "rank": 6,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
       "pct_adj": 37.6,
-      "arrow": "up",
+      "arrow": "down",
       "title": "Kleber Mendonça Filho",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 37.6,
       "arrow": "down",
@@ -62,17 +72,17 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i13_w800.jpeg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p62/Pecadores.html",
       "pct_adj": 37.6,
-      "arrow": "up",
+      "arrow": "down",
       "title": "Pecadores",
       "short": "Ryan Coogler",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/store/p75/Hamnet.html",
       "pct_adj": 37.6,
       "arrow": "down",
@@ -82,24 +92,14 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i17_w660.jpeg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p103/Chloe_Zhao.html",
       "pct_adj": 34.2,
-      "arrow": "up",
+      "arrow": "down",
       "title": "Chloe Zhao",
       "short": "\"Hamnet\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p180/Amy_Madigan.html",
-      "pct_adj": 34.2,
-      "arrow": "down",
-      "title": "Amy Madigan",
-      "short": "\"A Hora do Mal\"",
-      "category": "MELHOR ATRIZ COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png"
     }
   ]
 }
