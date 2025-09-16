@@ -1,6 +1,6 @@
 window.__ceti_receive({
   "ok": true,
-  "updatedAt": "2025-09-16T01:01:32.777Z",
+  "updatedAt": "2025-09-16T18:01:12.885Z",
   "categorias": {
     "melhor-filme": {
       "display": "Melhor Filme",
@@ -187,14 +187,14 @@ window.__ceti_receive({
       ],
       "candidatos": [
         {
-          "nome": "Tessa Thompson",
-          "descricao": "Hedda",
-          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg",
+          "nome": "Ainda Não Divulgado",
+          "descricao": "Em Breve",
+          "imagem": "https://i.imgur.com/EMHKIoy.png",
           "historico": [
             {
               "semana": "30/01/2026",
               "percent": 83,
-              "posicao": 2
+              "posicao": 1
             },
             {
               "semana": "26/01/2026",
@@ -204,134 +204,134 @@ window.__ceti_receive({
             {
               "semana": "23/01/2026",
               "percent": 30.3,
-              "posicao": 3
+              "posicao": 1
             }
           ]
         },
         {
-          "nome": "Tarika",
-          "descricao": "",
-          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p583_i9_w2000.jpeg",
+          "nome": "Ainda Não Divulgado",
+          "descricao": "Em Breve",
+          "imagem": "https://i.imgur.com/EMHKIoy.png",
           "historico": [
             {
               "semana": "30/01/2026",
               "percent": 60,
-              "posicao": 3
+              "posicao": 1
             },
             {
               "semana": "26/01/2026",
               "percent": 79,
-              "posicao": 4
+              "posicao": 1
             },
             {
               "semana": "23/01/2026",
               "percent": 23,
-              "posicao": 4
+              "posicao": 1
             }
           ]
         },
         {
-          "nome": "Ana Paula",
-          "descricao": "O Maio Filme de Todos os Tempos com titulo",
-          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg",
+          "nome": "Ainda Não Divulgado",
+          "descricao": "Em Breve",
+          "imagem": "https://i.imgur.com/EMHKIoy.png",
           "historico": [
             {
               "semana": "30/01/2026",
               "percent": 3,
-              "posicao": 9
+              "posicao": 1
             },
             {
               "semana": "26/01/2026",
               "percent": 2,
-              "posicao": 7
+              "posicao": 1
             },
             {
               "semana": "23/01/2026",
               "percent": 10,
-              "posicao": 5
+              "posicao": 1
             }
           ]
         },
         {
-          "nome": "Absurdo",
-          "descricao": "Turquia",
-          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg",
+          "nome": "Ainda Não Divulgado",
+          "descricao": "Em Breve",
+          "imagem": "https://i.imgur.com/EMHKIoy.png",
           "historico": [
             {
               "semana": "30/01/2026",
               "percent": 23,
-              "posicao": 6
+              "posicao": 1
             },
             {
               "semana": "26/01/2026",
               "percent": 44,
-              "posicao": 5
+              "posicao": 1
             },
             {
               "semana": "23/01/2026",
               "percent": 3,
-              "posicao": 7
+              "posicao": 1
             }
           ]
         },
         {
-          "nome": "Teste",
-          "descricao": "",
-          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg",
+          "nome": "Ainda Não Divulgado",
+          "descricao": "Em Breve",
+          "imagem": "https://i.imgur.com/EMHKIoy.png",
           "historico": [
             {
               "semana": "30/01/2026",
               "percent": 44,
-              "posicao": 4
+              "posicao": 1
             },
             {
               "semana": "26/01/2026",
               "percent": 31,
-              "posicao": 6
+              "posicao": 1
             },
             {
               "semana": "23/01/2026",
               "percent": 4,
-              "posicao": 6
+              "posicao": 1
             }
           ]
         },
         {
-          "nome": "Teste agora",
-          "descricao": "agota",
-          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg",
+          "nome": "Ainda Não Divulgado",
+          "descricao": "Em Breve",
+          "imagem": "https://i.imgur.com/EMHKIoy.png",
           "historico": [
             {
               "semana": "30/01/2026",
               "percent": 21,
-              "posicao": 7
+              "posicao": 1
             },
             {
               "semana": "26/01/2026",
               "percent": 2,
-              "posicao": 7
+              "posicao": 1
             },
             {
               "semana": "23/01/2026",
               "percent": 3,
-              "posicao": 7
+              "posicao": 1
             }
           ]
         },
         {
-          "nome": "teste 2 horas",
-          "descricao": "filme novo",
-          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg",
+          "nome": "Ainda Não Divulgado",
+          "descricao": "Em Breve",
+          "imagem": "https://i.imgur.com/EMHKIoy.png",
           "historico": [
             {
               "semana": "30/01/2026",
               "percent": 11,
-              "posicao": 8
+              "posicao": 1
             },
             {
               "semana": "26/01/2026",
               "percent": 80,
-              "posicao": 3
+              "posicao": 1
             },
             {
               "semana": "23/01/2026",
@@ -341,31 +341,31 @@ window.__ceti_receive({
           ]
         },
         {
-          "nome": "teste 18",
-          "descricao": "",
-          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg",
+          "nome": "Ainda Não Divulgado",
+          "descricao": "Em Breve",
+          "imagem": "https://i.imgur.com/EMHKIoy.png",
           "historico": [
             {
               "semana": "30/01/2026",
               "percent": 30,
-              "posicao": 5
+              "posicao": 1
             },
             {
               "semana": "26/01/2026",
               "percent": 81,
-              "posicao": 2
+              "posicao": 1
             },
             {
               "semana": "23/01/2026",
               "percent": 55,
-              "posicao": 2
+              "posicao": 1
             }
           ]
         },
         {
-          "nome": "FINAL",
-          "descricao": "",
-          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p135_i18_w800.jpeg",
+          "nome": "Ainda Não Divulgado",
+          "descricao": "Em Breve",
+          "imagem": "https://i.imgur.com/EMHKIoy.png",
           "historico": [
             {
               "semana": "30/01/2026",
@@ -375,12 +375,12 @@ window.__ceti_receive({
             {
               "semana": "26/01/2026",
               "percent": 81,
-              "posicao": 2
+              "posicao": 1
             },
             {
               "semana": "23/01/2026",
               "percent": 55,
-              "posicao": 2
+              "posicao": 1
             }
           ]
         }
@@ -389,141 +389,141 @@ window.__ceti_receive({
         "23/01/2026": [
           {
             "posicao": 1,
-            "nome": "teste 2 horas",
+            "nome": "Ainda Não Divulgado",
             "percent": 60
           },
           {
             "posicao": 2,
-            "nome": "FINAL",
+            "nome": "Ainda Não Divulgado",
             "percent": 55
           },
           {
             "posicao": 2,
-            "nome": "teste 18",
+            "nome": "Ainda Não Divulgado",
             "percent": 55
           },
           {
             "posicao": 3,
-            "nome": "Tessa Thompson",
+            "nome": "Ainda Não Divulgado",
             "percent": 30.3
           },
           {
             "posicao": 4,
-            "nome": "Tarika",
+            "nome": "Ainda Não Divulgado",
             "percent": 23
           },
           {
             "posicao": 5,
-            "nome": "Ana Paula",
+            "nome": "Ainda Não Divulgado",
             "percent": 10
           },
           {
             "posicao": 6,
-            "nome": "Teste",
+            "nome": "Ainda Não Divulgado",
             "percent": 4
           },
           {
             "posicao": 7,
-            "nome": "Absurdo",
+            "nome": "Ainda Não Divulgado",
             "percent": 3
           },
           {
             "posicao": 7,
-            "nome": "Teste agora",
+            "nome": "Ainda Não Divulgado",
             "percent": 3
           }
         ],
         "26/01/2026": [
           {
             "posicao": 1,
-            "nome": "Tessa Thompson",
+            "nome": "Ainda Não Divulgado",
             "percent": 90
           },
           {
             "posicao": 2,
-            "nome": "FINAL",
+            "nome": "Ainda Não Divulgado",
             "percent": 81
           },
           {
             "posicao": 2,
-            "nome": "teste 18",
+            "nome": "Ainda Não Divulgado",
             "percent": 81
           },
           {
             "posicao": 3,
-            "nome": "teste 2 horas",
+            "nome": "Ainda Não Divulgado",
             "percent": 80
           },
           {
             "posicao": 4,
-            "nome": "Tarika",
+            "nome": "Ainda Não Divulgado",
             "percent": 79
           },
           {
             "posicao": 5,
-            "nome": "Absurdo",
+            "nome": "Ainda Não Divulgado",
             "percent": 44
           },
           {
             "posicao": 6,
-            "nome": "Teste",
+            "nome": "Ainda Não Divulgado",
             "percent": 31
           },
           {
             "posicao": 7,
-            "nome": "Ana Paula",
+            "nome": "Ainda Não Divulgado",
             "percent": 2
           },
           {
             "posicao": 7,
-            "nome": "Teste agora",
+            "nome": "Ainda Não Divulgado",
             "percent": 2
           }
         ],
         "30/01/2026": [
           {
             "posicao": 1,
-            "nome": "FINAL",
+            "nome": "Ainda Não Divulgado",
             "percent": 99
           },
           {
             "posicao": 2,
-            "nome": "Tessa Thompson",
+            "nome": "Ainda Não Divulgado",
             "percent": 83
           },
           {
             "posicao": 3,
-            "nome": "Tarika",
+            "nome": "Ainda Não Divulgado",
             "percent": 60
           },
           {
             "posicao": 4,
-            "nome": "Teste",
+            "nome": "Ainda Não Divulgado",
             "percent": 44
           },
           {
             "posicao": 5,
-            "nome": "teste 18",
+            "nome": "Ainda Não Divulgado",
             "percent": 30
           },
           {
             "posicao": 6,
-            "nome": "Absurdo",
+            "nome": "Ainda Não Divulgado",
             "percent": 23
           },
           {
             "posicao": 7,
-            "nome": "Teste agora",
+            "nome": "Ainda Não Divulgado",
             "percent": 21
           },
           {
             "posicao": 8,
-            "nome": "teste 2 horas",
+            "nome": "Ainda Não Divulgado",
             "percent": 11
           },
           {
             "posicao": 9,
-            "nome": "Ana Paula",
+            "nome": "Ainda Não Divulgado",
             "percent": 3
           }
         ]
