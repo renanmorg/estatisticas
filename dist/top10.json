@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-15T23:34:48.612Z",
+  "updated": "2025-09-16T00:34:41.932Z",
   "items": [
     {
       "rank": 1,
@@ -15,18 +15,6 @@
     },
     {
       "rank": 2,
-      "url": "https://www.termometrooscar.com/store/p75/Hamnet.html",
-      "pct_adj": 54.5,
-      "arrow": "same",
-      "title": "Hamnet",
-      "short": "Chloe Zhao, Sam Mendes e Steven Spielberg",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i17_w660.jpeg",
-      "rankScore": 43.8,
-      "total": 3
-    },
-    {
-      "rank": 3,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 55.6,
       "arrow": "up",
@@ -36,6 +24,18 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i10_w800.jpeg",
       "rankScore": 43.6,
       "total": 6
+    },
+    {
+      "rank": 3,
+      "url": "https://www.termometrooscar.com/store/p138/Emma_Stone.html",
+      "pct_adj": 54.3,
+      "arrow": "up",
+      "title": "Emma Stone",
+      "short": "\"Bugonia\"",
+      "category": "MELHOR ATRIZ",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p138_i16_w800.png",
+      "rankScore": 37.6,
+      "total": 5
     },
     {
       "rank": 4,
@@ -63,21 +63,33 @@
     },
     {
       "rank": 6,
-      "url": "https://www.termometrooscar.com/store/p138/Emma_Stone.html",
+      "url": "https://www.termometrooscar.com/store/p62/Pecadores.html",
       "pct_adj": 52.9,
-      "arrow": "same",
-      "title": "Emma Stone",
-      "short": "\"Bugonia\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p138_i16_w800.png",
+      "arrow": "up",
+      "title": "Pecadores",
+      "short": "Ryan Coogler",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg",
       "rankScore": 30.1,
       "total": 4
     },
     {
       "rank": 7,
+      "url": "https://www.termometrooscar.com/store/p75/Hamnet.html",
+      "pct_adj": 52.9,
+      "arrow": "down",
+      "title": "Hamnet",
+      "short": "Chloe Zhao, Sam Mendes e Steven Spielberg",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i17_w660.jpeg",
+      "rankScore": 30.1,
+      "total": 4
+    },
+    {
+      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
       "pct_adj": 51.5,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Jessie Buckley",
       "short": "\"Hamnet\"",
       "category": "MELHOR ATRIZ",
@@ -86,10 +98,10 @@
       "total": 3
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/store/p578/Sentimental_Value.html",
       "pct_adj": 51.5,
-      "arrow": "up",
+      "arrow": "down",
       "title": "Sentimental Value",
       "short": "Noruega",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -98,22 +110,10 @@
       "total": 3
     },
     {
-      "rank": 9,
-      "url": "https://www.termometrooscar.com/store/p62/Pecadores.html",
-      "pct_adj": 51.5,
-      "arrow": "down",
-      "title": "Pecadores",
-      "short": "Ryan Coogler",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg",
-      "rankScore": 20.8,
-      "total": 3
-    },
-    {
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p103/Chloe_Zhao.html",
       "pct_adj": 51.6,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Chloe Zhao",
       "short": "\"Hamnet\"",
       "category": "MELHOR DIREÇÃO",
