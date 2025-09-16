@@ -1,59 +1,71 @@
 {
-  "updated": "2025-09-16T00:34:41.932Z",
+  "updated": "2025-09-16T01:34:45.775Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 54.5,
-      "arrow": "same",
+      "pct_adj": 55.9,
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png",
-      "rankScore": 43.8,
-      "total": 3
+      "rankScore": 51,
+      "total": 4
     },
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 55.6,
+      "pct_adj": 56.8,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i10_w800.jpeg",
-      "rankScore": 43.6,
-      "total": 6
+      "rankScore": 48.7,
+      "total": 7
     },
     {
       "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p138/Emma_Stone.html",
-      "pct_adj": 54.3,
-      "arrow": "up",
-      "title": "Emma Stone",
-      "short": "\"Bugonia\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p138_i16_w800.png",
-      "rankScore": 37.6,
-      "total": 5
-    },
-    {
-      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 53.1,
-      "arrow": "same",
+      "pct_adj": 54.5,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i13_w800.jpeg",
+      "rankScore": 43.8,
+      "total": 3
+    },
+    {
+      "rank": 4,
+      "url": "https://www.termometrooscar.com/store/p138/Emma_Stone.html",
+      "pct_adj": 55.6,
+      "arrow": "down",
+      "title": "Emma Stone",
+      "short": "\"Bugonia\"",
+      "category": "MELHOR ATRIZ",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p138_i16_w800.png",
+      "rankScore": 43.6,
+      "total": 6
+    },
+    {
+      "rank": 5,
+      "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
+      "pct_adj": 53.1,
+      "arrow": "up",
+      "title": "Kleber Mendonça Filho",
+      "short": "\"O Agente Secreto\"",
+      "category": "MELHOR DIREÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png",
       "rankScore": 34.2,
       "total": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
       "url": "https://www.termometrooscar.com/store/p63/Sentimental_Value.html",
       "pct_adj": 53.1,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Sentimental Value",
       "short": "Joachim Trier e Maria Ekerhovd",
       "category": "MELHOR FILME",
@@ -62,10 +74,10 @@
       "total": 2
     },
     {
-      "rank": 6,
+      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p62/Pecadores.html",
       "pct_adj": 52.9,
-      "arrow": "up",
+      "arrow": "down",
       "title": "Pecadores",
       "short": "Ryan Coogler",
       "category": "MELHOR FILME",
@@ -74,7 +86,7 @@
       "total": 4
     },
     {
-      "rank": 7,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p75/Hamnet.html",
       "pct_adj": 52.9,
       "arrow": "down",
@@ -86,7 +98,7 @@
       "total": 4
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
       "pct_adj": 51.5,
       "arrow": "down",
@@ -94,18 +106,6 @@
       "short": "\"Hamnet\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png",
-      "rankScore": 20.8,
-      "total": 3
-    },
-    {
-      "rank": 9,
-      "url": "https://www.termometrooscar.com/store/p578/Sentimental_Value.html",
-      "pct_adj": 51.5,
-      "arrow": "down",
-      "title": "Sentimental Value",
-      "short": "Noruega",
-      "category": "MELHOR FILME INTERNACIONAL",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p578_i10_w534.jpeg",
       "rankScore": 20.8,
       "total": 3
     },
