@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-17T20:34:55.996Z",
+  "updated": "2025-09-17T21:34:46.517Z",
   "items": [
     {
       "rank": 1,
@@ -13,38 +13,8 @@
     },
     {
       "rank": 2,
-      "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 56.6,
-      "arrow": "up",
-      "title": "O Agente Secreto",
-      "short": "Brasil",
-      "category": "MELHOR FILME INTERNACIONAL",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i10_w800.jpeg"
-    },
-    {
-      "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
-      "pct_adj": 56.5,
-      "arrow": "same",
-      "title": "Kleber Mendonça Filho",
-      "short": "\"O Agente Secreto\"",
-      "category": "MELHOR DIREÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
-    },
-    {
-      "rank": 4,
-      "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 52.4,
-      "arrow": "down",
-      "title": "Wagner Moura",
-      "short": "\"O Agente Secreto\"",
-      "category": "MELHOR ATOR",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
-    },
-    {
-      "rank": 5,
       "url": "https://www.termometrooscar.com/store/p196/O_Agente_Secreto.html",
-      "pct_adj": 51,
+      "pct_adj": 61,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
@@ -52,10 +22,40 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p196_i10_w800.jpeg"
     },
     {
+      "rank": 3,
+      "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
+      "pct_adj": 58.1,
+      "arrow": "down",
+      "title": "O Agente Secreto",
+      "short": "Brasil",
+      "category": "MELHOR FILME INTERNACIONAL",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i10_w800.jpeg"
+    },
+    {
+      "rank": 4,
+      "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
+      "pct_adj": 56.5,
+      "arrow": "down",
+      "title": "Kleber Mendonça Filho",
+      "short": "\"O Agente Secreto\"",
+      "category": "MELHOR DIREÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
+    },
+    {
+      "rank": 5,
+      "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
+      "pct_adj": 53.9,
+      "arrow": "down",
+      "title": "Wagner Moura",
+      "short": "\"O Agente Secreto\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
+    },
+    {
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 46.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p151/Rose_Byrne.html",
       "pct_adj": 43.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Rose Byrne",
       "short": "\"Se Eu Tivesse Pernas, Te Chutaria\"",
       "category": "MELHOR ATRIZ",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p63/Sentimental_Value.html",
       "pct_adj": 43.6,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Sentimental Value",
       "short": "Joachim Trier e Maria Ekerhovd",
       "category": "MELHOR FILME",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p180/Amy_Madigan.html",
       "pct_adj": 43.4,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Amy Madigan",
       "short": "\"A Hora do Mal\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p75/Hamnet.html",
       "pct_adj": 43.4,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Hamnet",
       "short": "Chloe Zhao, Sam Mendes e Steven Spielberg",
       "category": "MELHOR FILME",
