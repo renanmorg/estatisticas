@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-20T22:34:56.384Z",
+  "updated": "2025-09-20T23:34:47.449Z",
   "items": [
     {
       "rank": 1,
@@ -14,8 +14,8 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p75/Hamnet.html",
-      "pct_adj": 60,
-      "arrow": "down",
+      "pct_adj": 61.5,
+      "arrow": "up",
       "title": "Hamnet",
       "short": "Chloe Zhao, Sam Mendes e Steven Spielberg",
       "category": "MELHOR FILME",
@@ -23,16 +23,26 @@
     },
     {
       "rank": 3,
+      "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
+      "pct_adj": 55.8,
+      "arrow": "up",
+      "title": "O Agente Secreto",
+      "short": "Brasil",
+      "category": "MELHOR FILME INTERNACIONAL",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i10_w800.jpeg"
+    },
+    {
+      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p63/Sentimental_Value.html",
       "pct_adj": 55.2,
-      "arrow": "up",
+      "arrow": "down",
       "title": "Sentimental Value",
       "short": "Joachim Trier e Maria Ekerhovd",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 54.9,
       "arrow": "down",
@@ -42,20 +52,10 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
     },
     {
-      "rank": 5,
-      "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 54.6,
-      "arrow": "down",
-      "title": "O Agente Secreto",
-      "short": "Brasil",
-      "category": "MELHOR FILME INTERNACIONAL",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i10_w800.jpeg"
-    },
-    {
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p150/Renate_Reinsve.html",
       "pct_adj": 52.7,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Renate Reinsve",
       "short": "\"Sentimental Value\"",
       "category": "MELHOR ATRIZ",
@@ -83,23 +83,23 @@
     },
     {
       "rank": 9,
+      "url": "https://www.termometrooscar.com/store/p196/O_Agente_Secreto.html",
+      "pct_adj": 45.4,
+      "arrow": "up",
+      "title": "O Agente Secreto",
+      "short": "Kleber Mendonça Filho",
+      "category": "MELHOR ROTEIRO ORIGINAL",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p196_i10_w800.jpeg"
+    },
+    {
+      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p103/Chloe_Zhao.html",
       "pct_adj": 45.3,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Chloe Zhao",
       "short": "\"Hamnet\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p156/Adam_Sandler.html",
-      "pct_adj": 45.3,
-      "arrow": "same",
-      "title": "Adam Sandler",
-      "short": "\"Jay Kelly\"",
-      "category": "MELHOR ATOR COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p156_i22_w800.png"
     }
   ]
 }
