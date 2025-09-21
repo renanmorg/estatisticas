@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-21T05:34:51.866Z",
+  "updated": "2025-09-21T06:35:03.565Z",
   "items": [
     {
       "rank": 1,
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
       "pct_adj": 46.9,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p103/Chloe_Zhao.html",
       "pct_adj": 45.3,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Chloe Zhao",
       "short": "\"Hamnet\"",
       "category": "MELHOR DIREÇÃO",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p156/Adam_Sandler.html",
       "pct_adj": 45.3,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Adam Sandler",
       "short": "\"Jay Kelly\"",
       "category": "MELHOR ATOR COADJUVANTE",
