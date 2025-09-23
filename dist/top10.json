@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-23T07:34:57.358Z",
+  "updated": "2025-09-23T08:34:47.982Z",
   "items": [
     {
       "rank": 1,
@@ -23,33 +23,33 @@
     },
     {
       "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p63/Sentimental_Value.html",
-      "pct_adj": 55.2,
-      "arrow": "same",
-      "title": "Sentimental Value",
-      "short": "Joachim Trier e Maria Ekerhovd",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
-    },
-    {
-      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 55.2,
-      "arrow": "same",
+      "pct_adj": 56,
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 54.2,
-      "arrow": "same",
+      "pct_adj": 55.2,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i10_w800.jpeg"
+    },
+    {
+      "rank": 5,
+      "url": "https://www.termometrooscar.com/store/p63/Sentimental_Value.html",
+      "pct_adj": 55.2,
+      "arrow": "down",
+      "title": "Sentimental Value",
+      "short": "Joachim Trier e Maria Ekerhovd",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
     },
     {
       "rank": 6,
