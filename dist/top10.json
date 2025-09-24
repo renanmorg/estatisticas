@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-24T22:34:52.351Z",
+  "updated": "2025-09-24T23:35:02.837Z",
   "items": [
     {
       "rank": 1,
@@ -23,16 +23,6 @@
     },
     {
       "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
-      "pct_adj": 60.5,
-      "arrow": "up",
-      "title": "Ariana Grande",
-      "short": "\"Wicked: Parte 2\"",
-      "category": "MELHOR ATRIZ COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p187_i17_w800.png"
-    },
-    {
-      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 59.1,
       "arrow": "up",
@@ -42,7 +32,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 58.1,
       "arrow": "up",
@@ -50,6 +40,16 @@
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i10_w800.jpeg"
+    },
+    {
+      "rank": 5,
+      "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
+      "pct_adj": 57.9,
+      "arrow": "down",
+      "title": "Ariana Grande",
+      "short": "\"Wicked: Parte 2\"",
+      "category": "MELHOR ATRIZ COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p187_i17_w800.png"
     },
     {
       "rank": 6,
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p150/Renate_Reinsve.html",
       "pct_adj": 53.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Renate Reinsve",
       "short": "\"Sentimental Value\"",
       "category": "MELHOR ATRIZ",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
       "pct_adj": 51.2,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Kleber Mendonça Filho",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR DIREÇÃO",
