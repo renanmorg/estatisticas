@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-24T21:34:58.675Z",
+  "updated": "2025-09-24T22:34:52.351Z",
   "items": [
     {
       "rank": 1,
@@ -24,8 +24,8 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
-      "pct_adj": 59.2,
-      "arrow": "same",
+      "pct_adj": 60.5,
+      "arrow": "up",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
@@ -34,8 +34,8 @@
     {
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 58.3,
-      "arrow": "same",
+      "pct_adj": 59.1,
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -44,8 +44,8 @@
     {
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 57.2,
-      "arrow": "same",
+      "pct_adj": 58.1,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -73,23 +73,23 @@
     },
     {
       "rank": 8,
-      "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
-      "pct_adj": 51.2,
-      "arrow": "same",
-      "title": "Kleber Mendonça Filho",
-      "short": "\"O Agente Secreto\"",
-      "category": "MELHOR DIREÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
-    },
-    {
-      "rank": 9,
       "url": "https://www.termometrooscar.com/store/p150/Renate_Reinsve.html",
-      "pct_adj": 51.2,
-      "arrow": "same",
+      "pct_adj": 53.1,
+      "arrow": "up",
       "title": "Renate Reinsve",
       "short": "\"Sentimental Value\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p150_i19_w800.png"
+    },
+    {
+      "rank": 9,
+      "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
+      "pct_adj": 51.2,
+      "arrow": "down",
+      "title": "Kleber Mendonça Filho",
+      "short": "\"O Agente Secreto\"",
+      "category": "MELHOR DIREÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
     },
     {
       "rank": 10,
