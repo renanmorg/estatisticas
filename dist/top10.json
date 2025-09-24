@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-24T10:34:48.695Z",
+  "updated": "2025-09-24T11:34:51.014Z",
   "items": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p62/Pecadores.html",
       "pct_adj": 53.5,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Pecadores",
       "short": "Ryan Coogler",
       "category": "MELHOR FILME",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
       "pct_adj": 51.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Kleber Mendonça Filho",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR DIREÇÃO",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p150/Renate_Reinsve.html",
       "pct_adj": 51.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Renate Reinsve",
       "short": "\"Sentimental Value\"",
       "category": "MELHOR ATRIZ",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
       "pct_adj": 50.8,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Jessie Buckley",
       "short": "\"Hamnet\"",
       "category": "MELHOR ATRIZ",
