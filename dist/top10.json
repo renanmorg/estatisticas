@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-25T01:34:56.098Z",
+  "updated": "2025-09-25T02:34:50.336Z",
   "items": [
     {
       "rank": 1,
@@ -23,23 +23,23 @@
     },
     {
       "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 59.1,
-      "arrow": "same",
-      "title": "Wagner Moura",
-      "short": "\"O Agente Secreto\"",
-      "category": "MELHOR ATOR",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
-    },
-    {
-      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 58.9,
+      "pct_adj": 59.8,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i10_w800.jpeg"
+    },
+    {
+      "rank": 4,
+      "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
+      "pct_adj": 59.1,
+      "arrow": "down",
+      "title": "Wagner Moura",
+      "short": "\"O Agente Secreto\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
     },
     {
       "rank": 5,
@@ -93,13 +93,13 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
-      "pct_adj": 50.8,
-      "arrow": "same",
-      "title": "Jessie Buckley",
-      "short": "\"Hamnet\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png"
+      "url": "https://www.termometrooscar.com/store/p227/Hamnet.html",
+      "pct_adj": 51,
+      "arrow": "up",
+      "title": "Hamnet",
+      "short": "Maggie O'Farrell e Chloe Zhao",
+      "category": "MELHOR ROTEIRO ADAPTADO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p227_i17_w800.jpeg"
     }
   ]
 }
