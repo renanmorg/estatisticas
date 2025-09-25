@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-25T11:34:59.836Z",
+  "updated": "2025-09-25T12:34:51.527Z",
   "items": [
     {
       "rank": 1,
@@ -24,8 +24,8 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
-      "pct_adj": 60.2,
-      "arrow": "same",
+      "pct_adj": 61.2,
+      "arrow": "up",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
@@ -34,8 +34,8 @@
     {
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 59.8,
-      "arrow": "same",
+      "pct_adj": 60.6,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -44,8 +44,8 @@
     {
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 59.7,
-      "arrow": "same",
+      "pct_adj": 60.4,
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -74,8 +74,8 @@
     {
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
-      "pct_adj": 52.4,
-      "arrow": "same",
+      "pct_adj": 53.9,
+      "arrow": "up",
       "title": "Jessie Buckley",
       "short": "\"Hamnet\"",
       "category": "MELHOR ATRIZ",
@@ -83,23 +83,23 @@
     },
     {
       "rank": 9,
-      "url": "https://www.termometrooscar.com/store/p103/Chloe_Zhao.html",
-      "pct_adj": 52.3,
-      "arrow": "same",
-      "title": "Chloe Zhao",
-      "short": "\"Hamnet\"",
-      "category": "MELHOR DIREÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png"
-    },
-    {
-      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
-      "pct_adj": 51.2,
-      "arrow": "same",
+      "pct_adj": 53.1,
+      "arrow": "up",
       "title": "Kleber Mendonça Filho",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
+    },
+    {
+      "rank": 10,
+      "url": "https://www.termometrooscar.com/melhor-filme.html",
+      "pct_adj": 52.4,
+      "arrow": "up",
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     }
   ]
 }
