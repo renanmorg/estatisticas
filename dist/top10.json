@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-25T07:34:56.485Z",
+  "updated": "2025-09-25T08:34:49.726Z",
   "items": [
     {
       "rank": 1,
@@ -23,33 +23,33 @@
     },
     {
       "rank": 3,
+      "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
+      "pct_adj": 60.2,
+      "arrow": "up",
+      "title": "Ariana Grande",
+      "short": "\"Wicked: Parte 2\"",
+      "category": "MELHOR ATRIZ COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p187_i17_w800.png"
+    },
+    {
+      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 59.8,
-      "arrow": "same",
+      "arrow": "down",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i10_w800.jpeg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 59.7,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
-    },
-    {
-      "rank": 5,
-      "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
-      "pct_adj": 59.1,
-      "arrow": "same",
-      "title": "Ariana Grande",
-      "short": "\"Wicked: Parte 2\"",
-      "category": "MELHOR ATRIZ COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p187_i17_w800.png"
     },
     {
       "rank": 6,
