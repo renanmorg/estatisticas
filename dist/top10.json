@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-25T22:34:53.494Z",
+  "updated": "2025-09-25T23:34:51.208Z",
   "items": [
     {
       "rank": 1,
@@ -43,13 +43,13 @@
     },
     {
       "rank": 5,
-      "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
+      "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
       "pct_adj": 61.9,
       "arrow": "same",
-      "title": "Ariana Grande",
-      "short": "\"Wicked: Parte 2\"",
-      "category": "MELHOR ATRIZ COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p187_i17_w800.png"
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     },
     {
       "rank": 6,
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p196/O_Agente_Secreto.html",
       "pct_adj": 53.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR ROTEIRO ORIGINAL",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
       "pct_adj": 52.9,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Jessie Buckley",
       "short": "\"Hamnet\"",
       "category": "MELHOR ATRIZ",
