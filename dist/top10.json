@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-26T17:34:58.057Z",
+  "updated": "2025-09-26T18:34:56.925Z",
   "items": [
     {
       "rank": 1,
@@ -33,33 +33,33 @@
     },
     {
       "rank": 4,
-      "url": "https://www.termometrooscar.com/store/p174/Stellan_Skarsg%C3%A5rd.html",
-      "pct_adj": 62.1,
-      "arrow": "same",
-      "title": "Stellan Skarsgård",
-      "short": "\"Sentimental Value\"",
-      "category": "MELHOR ATOR COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png"
-    },
-    {
-      "rank": 5,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
       "pct_adj": 61.9,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p187_i17_w800.png"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "url": "https://www.termometrooscar.com/store/p63/Sentimental_Value.html",
       "pct_adj": 57.8,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Sentimental Value",
       "short": "Joachim Trier e Maria Ekerhovd",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
+    },
+    {
+      "rank": 6,
+      "url": "https://www.termometrooscar.com/store/p174/Stellan_Skarsg%C3%A5rd.html",
+      "pct_adj": 57,
+      "arrow": "down",
+      "title": "Stellan Skarsgård",
+      "short": "\"Sentimental Value\"",
+      "category": "MELHOR ATOR COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png"
     },
     {
       "rank": 7,
