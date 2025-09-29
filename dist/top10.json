@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-29T13:34:51.501Z",
+  "updated": "2025-09-29T14:34:54.852Z",
   "items": [
     {
       "rank": 1,
@@ -13,23 +13,23 @@
     },
     {
       "rank": 2,
-      "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 63.9,
-      "arrow": "up",
-      "title": "O Agente Secreto",
-      "short": "Brasil",
-      "category": "MELHOR FILME INTERNACIONAL",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i10_w800.jpeg"
-    },
-    {
-      "rank": 3,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 63.6,
+      "pct_adj": 64,
       "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
+    },
+    {
+      "rank": 3,
+      "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
+      "pct_adj": 63.9,
+      "arrow": "down",
+      "title": "O Agente Secreto",
+      "short": "Brasil",
+      "category": "MELHOR FILME INTERNACIONAL",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i10_w800.jpeg"
     },
     {
       "rank": 4,
