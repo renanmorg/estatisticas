@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-29T04:34:52.667Z",
+  "updated": "2025-09-29T05:34:50.587Z",
   "items": [
     {
       "rank": 1,
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
       "pct_adj": 63,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
@@ -53,53 +53,53 @@
     },
     {
       "rank": 6,
+      "url": "https://www.termometrooscar.com/store/p227/Hamnet.html",
+      "pct_adj": 56.6,
+      "arrow": "up",
+      "title": "Hamnet",
+      "short": "Maggie O'Farrell e Chloe Zhao",
+      "category": "MELHOR ROTEIRO ADAPTADO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p227_i17_w800.jpeg"
+    },
+    {
+      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p63/Sentimental_Value.html",
       "pct_adj": 54.8,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Sentimental Value",
       "short": "Joachim Trier e Maria Ekerhovd",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p150/Renate_Reinsve.html",
       "pct_adj": 53.5,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Renate Reinsve",
       "short": "\"Sentimental Value\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p150_i19_w800.png"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/store/p174/Stellan_Skarsg%C3%A5rd.html",
       "pct_adj": 52.7,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Stellan Skarsgård",
       "short": "\"Sentimental Value\"",
       "category": "MELHOR ATOR COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p103/Chloe_Zhao.html",
       "pct_adj": 52.3,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Chloe Zhao",
       "short": "\"Hamnet\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
-      "pct_adj": 52.1,
-      "arrow": "up",
-      "title": "Jessie Buckley",
-      "short": "\"Hamnet\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png"
     }
   ]
 }
