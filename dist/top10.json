@@ -1,31 +1,31 @@
 {
-  "updated": "2025-09-30T21:34:57.021Z",
+  "updated": "2025-09-30T22:34:52.999Z",
   "items": [
     {
       "rank": 1,
-      "url": "https://www.termometrooscar.com/store/p75/Hamnet.html",
+      "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 66.4,
       "arrow": "up",
-      "title": "Hamnet",
-      "short": "Chloe Zhao, Sam Mendes e Steven Spielberg",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i17_w660.jpeg"
-    },
-    {
-      "rank": 2,
-      "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 66,
-      "arrow": "down",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
     },
     {
+      "rank": 2,
+      "url": "https://www.termometrooscar.com/store/p75/Hamnet.html",
+      "pct_adj": 66.4,
+      "arrow": "down",
+      "title": "Hamnet",
+      "short": "Chloe Zhao, Sam Mendes e Steven Spielberg",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i17_w660.jpeg"
+    },
+    {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 63.7,
-      "arrow": "down",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -43,26 +43,36 @@
     },
     {
       "rank": 5,
-      "url": "https://www.termometrooscar.com/melhor-roteiro-adaptado.html",
+      "url": "https://www.termometrooscar.com/store/p227/Hamnet.html",
       "pct_adj": 56.6,
-      "arrow": "up",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "arrow": "same",
+      "title": "Hamnet",
+      "short": "Maggie O'Farrell e Chloe Zhao",
+      "category": "MELHOR ROTEIRO ADAPTADO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p227_i17_w800.jpeg"
     },
     {
       "rank": 6,
+      "url": "https://www.termometrooscar.com/store/p252/Os_Caras_Malvados_2.html",
+      "pct_adj": 56.6,
+      "arrow": "up",
+      "title": "Os Caras Malvados 2",
+      "short": "Pierre Perifel e JP Sans",
+      "category": "MELHOR ANIMAÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p252_i9_w477.jpeg"
+    },
+    {
+      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p63/Sentimental_Value.html",
       "pct_adj": 54.8,
-      "arrow": "up",
+      "arrow": "down",
       "title": "Valor Sentimental",
       "short": "Joachim Trier e Maria Ekerhovd",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
       "pct_adj": 53.5,
       "arrow": "down",
@@ -72,34 +82,24 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/store/p150/Renate_Reinsve.html",
       "pct_adj": 53.5,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Renate Reinsve",
       "short": "\"Valor Sentimental\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p150_i19_w800.png"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p174/Stellan_Skarsg%C3%A5rd.html",
       "pct_adj": 52.7,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Stellan Skarsgård",
       "short": "\"Valor Sentimental\"",
       "category": "MELHOR ATOR COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p103/Chloe_Zhao.html",
-      "pct_adj": 52.3,
-      "arrow": "same",
-      "title": "Chloe Zhao",
-      "short": "\"Hamnet\"",
-      "category": "MELHOR DIREÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png"
     }
   ]
 }
