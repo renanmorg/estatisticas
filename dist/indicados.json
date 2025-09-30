@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-16T17:27:41.417Z",
+  "updatedAt": "2025-09-30T21:04:00.427Z",
   "indicados": [
     {
       "film": "Frankenstein",
@@ -19,12 +19,12 @@
     {
       "film": "Wicked: Parte 2",
       "count": 8,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p68_i15_w800.jpeg?width=640"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p146_i14_w800.png?width=320"
     },
     {
-      "film": "Sentimental Value",
+      "film": "Valor Sentimental",
       "count": 7,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p68_i15_w800.jpeg?width=640"
     },
     {
       "film": "Bugonia",
@@ -107,6 +107,11 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p80_i15_w1080.jpeg?width=640"
     },
     {
+      "film": "Foi Apenas Um Acidente",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p619_i9_w1016.jpeg?width=320"
+    },
+    {
       "film": "Guerreiras do K-Pop",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=640"
@@ -120,11 +125,6 @@
       "film": "Sem Outra Escolha",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p577_i9_w1116.jpeg?width=640"
-    },
-    {
-      "film": "Sound of Falling",
-      "count": 1,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p564_i12_w1000.jpeg?width=640"
     },
     {
       "film": "Springsteen: Salve-me do Desconhecido",
@@ -159,9 +159,9 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i15_w640.jpeg"
     },
     {
-      "film": "Sentimental Value",
+      "film": "Valor Sentimental",
       "count": 4,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p68_i15_w800.jpeg?width=640"
     },
     {
       "film": "Pecadores",
