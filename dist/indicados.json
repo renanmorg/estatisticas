@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-30T21:21:16.643Z",
+  "updatedAt": "2025-10-01T17:30:24.775Z",
   "indicados": [
     {
       "film": "Frankenstein",
@@ -22,6 +22,11 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p68_i15_w800.jpeg?width=640"
     },
     {
+      "film": "Uma Batalha Após a Outra",
+      "count": 7,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=640"
+    },
+    {
       "film": "Valor Sentimental",
       "count": 7,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
@@ -32,19 +37,14 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p81_i18_w800.jpeg?width=640"
     },
     {
-      "film": "Uma Batalha Após a Outra",
-      "count": 6,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=640"
-    },
-    {
-      "film": "Coração de Lutador - The Smashing Machine",
-      "count": 4,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p85_i16_w1923.jpeg?width=640"
-    },
-    {
       "film": "Marty Supreme",
       "count": 4,
       "image": "http://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p83_i18_w961.jpeg?width=640"
+    },
+    {
+      "film": "Coração de Lutador - The Smashing Machine",
+      "count": 3,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p85_i16_w1923.jpeg?width=640"
     },
     {
       "film": "F1",
@@ -67,14 +67,14 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p196_i10_w800.jpeg?width=640"
     },
     {
-      "film": "Vivo ou Morto: Um Mistério Knives Out",
-      "count": 3,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p87_i21_w800.jpeg?width=640"
-    },
-    {
       "film": "Avatar: Fogo e Cinzas",
       "count": 2,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p65_i15_w1013.jpeg?width=640"
+    },
+    {
+      "film": "Foi Apenas Um Acidente",
+      "count": 2,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p61_i19_w1387.jpeg?width=320"
     },
     {
       "film": "The Testament of Ann Lee",
@@ -85,6 +85,11 @@
       "film": "Tron: Ares",
       "count": 2,
       "image": "https://i.imgur.com/glYnC5W.jpeg"
+    },
+    {
+      "film": "Vivo ou Morto: Um Mistério Knives Out",
+      "count": 2,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p87_i21_w800.jpeg?width=640"
     },
     {
       "film": "A Hora do Mal",
@@ -105,11 +110,6 @@
       "film": "Depois da Caçada",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p80_i15_w1080.jpeg?width=640"
-    },
-    {
-      "film": "Foi Apenas Um Acidente",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p619_i9_w1016.jpeg?width=320"
     },
     {
       "film": "Guerreiras do K-Pop",
@@ -149,11 +149,6 @@
   ],
   "vencedores": [
     {
-      "film": "Hamnet",
-      "count": 5,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i17_w660.jpeg?width=640"
-    },
-    {
       "film": "Frankenstein",
       "count": 4,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i15_w640.jpeg"
@@ -164,9 +159,19 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
     },
     {
+      "film": "Hamnet",
+      "count": 3,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i17_w660.jpeg?width=640"
+    },
+    {
       "film": "Pecadores",
       "count": 2,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=640"
+    },
+    {
+      "film": "Uma Batalha Após a Outra",
+      "count": 2,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=640"
     },
     {
       "film": "Avatar: Fogo e Cinzas",
