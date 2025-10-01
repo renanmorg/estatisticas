@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-01T21:34:51.623Z",
+  "updated": "2025-10-01T22:34:57.554Z",
   "items": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p103/Chloe_Zhao.html",
       "pct_adj": 55.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Chloe Zhao",
       "short": "\"Hamnet\"",
       "category": "MELHOR DIREÇÃO",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p150/Renate_Reinsve.html",
       "pct_adj": 55.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Renate Reinsve",
       "short": "\"Valor Sentimental\"",
       "category": "MELHOR ATRIZ",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p63/Sentimental_Value.html",
       "pct_adj": 54.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Valor Sentimental",
       "short": "Joachim Trier e Maria Ekerhovd",
       "category": "MELHOR FILME",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p196/O_Agente_Secreto.html",
       "pct_adj": 53.5,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR ROTEIRO ORIGINAL",
