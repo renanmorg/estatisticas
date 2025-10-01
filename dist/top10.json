@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-01T18:34:52.994Z",
+  "updated": "2025-10-01T19:35:04.084Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 67.2,
-      "arrow": "same",
+      "pct_adj": 67.6,
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -24,8 +24,8 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 65.9,
-      "arrow": "same",
+      "pct_adj": 66.4,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -34,8 +34,8 @@
     {
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
-      "pct_adj": 64.4,
-      "arrow": "same",
+      "pct_adj": 65.1,
+      "arrow": "up",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
@@ -43,43 +43,43 @@
     },
     {
       "rank": 5,
+      "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
+      "pct_adj": 56.6,
+      "arrow": "up",
+      "title": "Kleber Mendonça Filho",
+      "short": "\"O Agente Secreto\"",
+      "category": "MELHOR DIREÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
+    },
+    {
+      "rank": 6,
       "url": "https://www.termometrooscar.com/store/p227/Hamnet.html",
       "pct_adj": 56.6,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Hamnet",
       "short": "Maggie O'Farrell e Chloe Zhao",
       "category": "MELHOR ROTEIRO ADAPTADO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p227_i17_w800.jpeg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p252/Os_Caras_Malvados_2.html",
       "pct_adj": 56.6,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Os Caras Malvados 2",
       "short": "Pierre Perifel e JP Sans",
       "category": "MELHOR ANIMAÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p252_i9_w477.jpeg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p103/Chloe_Zhao.html",
       "pct_adj": 55.2,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Chloe Zhao",
       "short": "\"Hamnet\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png"
-    },
-    {
-      "rank": 8,
-      "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
-      "pct_adj": 55.1,
-      "arrow": "same",
-      "title": "Kleber Mendonça Filho",
-      "short": "\"O Agente Secreto\"",
-      "category": "MELHOR DIREÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
     },
     {
       "rank": 9,
