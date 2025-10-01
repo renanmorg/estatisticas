@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-01T20:34:52.989Z",
+  "updated": "2025-10-01T21:34:51.623Z",
   "items": [
     {
       "rank": 1,
@@ -63,43 +63,43 @@
     },
     {
       "rank": 7,
-      "url": "https://www.termometrooscar.com/store/p252/Os_Caras_Malvados_2.html",
-      "pct_adj": 56.6,
-      "arrow": "same",
-      "title": "Os Caras Malvados 2",
-      "short": "Pierre Perifel e JP Sans",
-      "category": "MELHOR ANIMAÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p252_i9_w477.jpeg"
-    },
-    {
-      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p103/Chloe_Zhao.html",
       "pct_adj": 55.2,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Chloe Zhao",
       "short": "\"Hamnet\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p150/Renate_Reinsve.html",
       "pct_adj": 55.1,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Renate Reinsve",
       "short": "\"Valor Sentimental\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p150_i19_w800.png"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/store/p63/Sentimental_Value.html",
       "pct_adj": 54.8,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Valor Sentimental",
       "short": "Joachim Trier e Maria Ekerhovd",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
+    },
+    {
+      "rank": 10,
+      "url": "https://www.termometrooscar.com/store/p196/O_Agente_Secreto.html",
+      "pct_adj": 53.5,
+      "arrow": "up",
+      "title": "O Agente Secreto",
+      "short": "Kleber Mendonça Filho",
+      "category": "MELHOR ROTEIRO ORIGINAL",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p196_i10_w800.jpeg"
     }
   ]
 }
