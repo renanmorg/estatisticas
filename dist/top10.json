@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-04T19:35:01.587Z",
+  "updated": "2025-10-04T20:34:57.759Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 70,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -15,7 +15,7 @@
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 67.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p75/Hamnet.html",
       "pct_adj": 67.4,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Hamnet",
       "short": "Chloe Zhao, Sam Mendes e Steven Spielberg",
       "category": "MELHOR FILME",
