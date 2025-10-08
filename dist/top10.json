@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-08T10:34:55.554Z",
+  "updated": "2025-10-08T11:35:06.464Z",
   "items": [
     {
       "rank": 1,
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p297/Wicked%3A_Parte_2.html",
       "pct_adj": 64.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Wicked: Parte 2",
       "short": "Paul Tazewell",
       "category": "MELHOR FIGURINO",
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
       "pct_adj": 63.7,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
       "pct_adj": 62.2,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Kleber Mendonça Filho",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR DIREÇÃO",
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p227/Hamnet.html",
       "pct_adj": 61,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Hamnet",
       "short": "Maggie O'Farrell e Chloe Zhao",
       "category": "MELHOR ROTEIRO ADAPTADO",
