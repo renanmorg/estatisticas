@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-15T17:35:11.226Z",
+  "updated": "2025-10-15T18:34:56.060Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 72.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -15,7 +15,7 @@
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 72.1,
-      "arrow": "down",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -73,33 +73,33 @@
     },
     {
       "rank": 8,
+      "url": "https://www.termometrooscar.com/store/p101/Paul_Thomas_Anderson.html",
+      "pct_adj": 60.8,
+      "arrow": "up",
+      "title": "Paul Thomas Anderson",
+      "short": "\"Uma Batalha Após a Outra\"",
+      "category": "MELHOR DIREÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png"
+    },
+    {
+      "rank": 9,
       "url": "https://www.termometrooscar.com/store/p103/Chloe_Zhao.html",
       "pct_adj": 60.1,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Chloe Zhao",
       "short": "\"Hamnet\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p196/O_Agente_Secreto.html",
       "pct_adj": 59.1,
-      "arrow": "same",
+      "arrow": "down",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR ROTEIRO ORIGINAL",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p196_i10_w800.jpeg"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p101/Paul_Thomas_Anderson.html",
-      "pct_adj": 59,
-      "arrow": "same",
-      "title": "Paul Thomas Anderson",
-      "short": "\"Uma Batalha Após a Outra\"",
-      "category": "MELHOR DIREÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png"
     }
   ]
 }
