@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-19T23:34:57.098Z",
+  "updated": "2025-10-20T00:35:15.779Z",
   "items": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
       "pct_adj": 64.4,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p161/Sean_Penn.html",
       "pct_adj": 64,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Sean Penn",
       "short": "\"Uma Batalha Após a Outra\"",
       "category": "MELHOR ATOR COADJUVANTE",
