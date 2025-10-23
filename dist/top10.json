@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-23T15:35:03.420Z",
+  "updated": "2025-10-23T16:35:03.043Z",
   "items": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
       "pct_adj": 62.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
@@ -94,8 +94,8 @@
     {
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p75/Hamnet.html",
-      "pct_adj": 58.9,
-      "arrow": "same",
+      "pct_adj": 59.9,
+      "arrow": "up",
       "title": "Hamnet",
       "short": "Chloe Zhao, Sam Mendes e Steven Spielberg",
       "category": "MELHOR FILME",
