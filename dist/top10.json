@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-23T22:35:05.357Z",
+  "updated": "2025-10-23T23:34:56.513Z",
   "items": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 74.4,
+      "pct_adj": 74.6,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p297/Wicked%3A_Parte_2.html",
       "pct_adj": 72.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Wicked: Parte 2",
       "short": "Paul Tazewell",
       "category": "MELHOR FIGURINO",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p196/O_Agente_Secreto.html",
       "pct_adj": 62.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR ROTEIRO ORIGINAL",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
       "pct_adj": 62.1,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Kleber Mendonça Filho",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR DIREÇÃO",
