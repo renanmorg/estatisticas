@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-01T18:00:16.790Z",
+  "updatedAt": "2025-10-28T17:08:01.698Z",
   "indicados": [
     {
       "film": "Pecadores",
@@ -7,9 +7,9 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=640"
     },
     {
-      "film": "Frankenstein",
-      "count": 10,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i15_w640.jpeg"
+      "film": "Uma Batalha Após a Outra",
+      "count": 11,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=640"
     },
     {
       "film": "Hamnet",
@@ -17,9 +17,9 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i17_w660.jpeg?width=640"
     },
     {
-      "film": "Uma Batalha Após a Outra",
-      "count": 9,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=640"
+      "film": "Frankenstein",
+      "count": 8,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i15_w640.jpeg"
     },
     {
       "film": "Wicked: Parte 2",
@@ -42,14 +42,14 @@
       "image": "http://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p83_i18_w961.jpeg?width=640"
     },
     {
-      "film": "Coração de Lutador - The Smashing Machine",
-      "count": 3,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p85_i16_w1923.jpeg?width=640"
-    },
-    {
       "film": "F1",
       "count": 3,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg"
+    },
+    {
+      "film": "Foi Apenas Um Acidente",
+      "count": 3,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p105_i16_w800.png?width=320"
     },
     {
       "film": "Jay Kelly",
@@ -67,9 +67,9 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p65_i15_w1013.jpeg?width=640"
     },
     {
-      "film": "Foi Apenas Um Acidente",
+      "film": "Coração de Lutador - The Smashing Machine",
       "count": 2,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p61_i19_w1387.jpeg?width=320"
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p85_i16_w1923.jpeg?width=640"
     },
     {
       "film": "Nouvelle Vague",
@@ -77,9 +77,9 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p78_i16_w800.jpeg?width=640"
     },
     {
-      "film": "The Testament of Ann Lee",
+      "film": "O Testamento de Ann Lee",
       "count": 2,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p344_i13_w800.jpeg?width=640"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p145_i16_w800.png?width=320"
     },
     {
       "film": "Tron: Ares",
@@ -149,18 +149,18 @@
   ],
   "vencedores": [
     {
+      "film": "Uma Batalha Após a Outra",
+      "count": 5,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=640"
+    },
+    {
       "film": "Frankenstein",
       "count": 4,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i15_w640.jpeg"
     },
     {
-      "film": "Uma Batalha Após a Outra",
-      "count": 4,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=640"
-    },
-    {
       "film": "Valor Sentimental",
-      "count": 4,
+      "count": 3,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
     },
     {
@@ -179,6 +179,11 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg"
     },
     {
+      "film": "Guerreiras do K-Pop",
+      "count": 1,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=640"
+    },
+    {
       "film": "Marty Supreme",
       "count": 1,
       "image": "http://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p83_i18_w961.jpeg?width=640"
@@ -187,11 +192,6 @@
       "film": "Pecadores",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=640"
-    },
-    {
-      "film": "Zootopia 2",
-      "count": 1,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p248_i8_w554.jpeg"
     }
   ]
 }
