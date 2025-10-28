@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-28T17:23:22.102Z",
+  "updatedAt": "2025-10-28T18:01:50.884Z",
   "indicados": [
     {
       "film": "Pecadores",
@@ -67,11 +67,6 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p65_i15_w1013.jpeg?width=640"
     },
     {
-      "film": "Coração de Lutador - The Smashing Machine",
-      "count": 2,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p85_i16_w1923.jpeg?width=640"
-    },
-    {
       "film": "Nouvelle Vague",
       "count": 2,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p78_i16_w800.jpeg?width=640"
@@ -105,6 +100,16 @@
       "film": "Arco",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p244_i12_w194.jpeg"
+    },
+    {
+      "film": "Blue Moon",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p134_i18_w800.png?width=320"
+    },
+    {
+      "film": "Coração de Lutador - The Smashing Machine",
+      "count": 1,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p85_i16_w1923.jpeg?width=640"
     },
     {
       "film": "Depois da Caçada",
