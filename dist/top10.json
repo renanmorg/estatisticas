@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-29T13:35:00.114Z",
+  "updated": "2025-10-29T14:35:06.414Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 77.6,
-      "arrow": "same",
+      "pct_adj": 77.7,
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -14,8 +14,8 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 76.8,
-      "arrow": "same",
+      "pct_adj": 77,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -53,16 +53,26 @@
     },
     {
       "rank": 6,
+      "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
+      "pct_adj": 64.8,
+      "arrow": "up",
+      "title": "Kleber Mendonça Filho",
+      "short": "\"O Agente Secreto\"",
+      "category": "MELHOR DIREÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
+    },
+    {
+      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p409/Avatar%3A_Fogo_e_Cinzas.html",
       "pct_adj": 64.6,
-      "arrow": "up",
+      "arrow": "down",
       "title": "Avatar: Fogo e Cinzas",
       "short": "Joe Letteri",
       "category": "MELHOR EFEITOS VISUAIS",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p409_i13_w800.jpeg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
       "pct_adj": 64.2,
       "arrow": "down",
@@ -70,16 +80,6 @@
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p187_i17_w800.png"
-    },
-    {
-      "rank": 8,
-      "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
-      "pct_adj": 64.1,
-      "arrow": "up",
-      "title": "Kleber Mendonça Filho",
-      "short": "\"O Agente Secreto\"",
-      "category": "MELHOR DIREÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
     },
     {
       "rank": 9,
