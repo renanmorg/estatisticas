@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-31T20:34:59.549Z",
+  "updated": "2025-10-31T21:35:02.399Z",
   "items": [
     {
       "rank": 1,
@@ -84,8 +84,8 @@
     {
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p75/Hamnet.html",
-      "pct_adj": 64.1,
-      "arrow": "same",
+      "pct_adj": 62.3,
+      "arrow": "down",
       "title": "Hamnet",
       "short": "Chloe Zhao, Sam Mendes e Steven Spielberg",
       "category": "MELHOR FILME",
@@ -93,13 +93,13 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p161/Sean_Penn.html",
-      "pct_adj": 60.8,
-      "arrow": "same",
-      "title": "Sean Penn",
-      "short": "\"Uma Batalha Após a Outra\"",
-      "category": "MELHOR ATOR COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i15_w800.png"
+      "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
+      "pct_adj": 61,
+      "arrow": "up",
+      "title": "O Agente Secreto",
+      "short": "Kleber Mendonça Filho",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
     }
   ]
 }
