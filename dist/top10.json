@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-02T11:35:00.356Z",
+  "updated": "2025-11-02T12:35:15.121Z",
   "items": [
     {
       "rank": 1,
@@ -43,23 +43,23 @@
     },
     {
       "rank": 5,
-      "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
-      "pct_adj": 66,
-      "arrow": "same",
-      "title": "Kleber Mendonça Filho",
-      "short": "\"O Agente Secreto\"",
-      "category": "MELHOR DIREÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
-    },
-    {
-      "rank": 6,
       "url": "https://www.termometrooscar.com/store/p174/Stellan_Skarsg%C3%A5rd.html",
-      "pct_adj": 65.3,
-      "arrow": "same",
+      "pct_adj": 66.5,
+      "arrow": "up",
       "title": "Stellan Skarsgård",
       "short": "\"Valor Sentimental\"",
       "category": "MELHOR ATOR COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png"
+    },
+    {
+      "rank": 6,
+      "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
+      "pct_adj": 66,
+      "arrow": "down",
+      "title": "Kleber Mendonça Filho",
+      "short": "\"O Agente Secreto\"",
+      "category": "MELHOR DIREÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
     },
     {
       "rank": 7,
