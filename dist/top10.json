@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-02T12:35:15.121Z",
+  "updated": "2025-11-02T13:34:51.005Z",
   "items": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p174/Stellan_Skarsg%C3%A5rd.html",
       "pct_adj": 66.5,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Stellan Skarsgård",
       "short": "\"Valor Sentimental\"",
       "category": "MELHOR ATOR COADJUVANTE",
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
       "pct_adj": 66,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Kleber Mendonça Filho",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR DIREÇÃO",
