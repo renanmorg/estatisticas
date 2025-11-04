@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-04T20:34:59.418Z",
+  "updated": "2025-11-04T21:35:00.589Z",
   "items": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
       "pct_adj": 66.5,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Kleber Mendonça Filho",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR DIREÇÃO",
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p174/Stellan_Skarsg%C3%A5rd.html",
       "pct_adj": 66.5,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Stellan Skarsgård",
       "short": "\"Valor Sentimental\"",
       "category": "MELHOR ATOR COADJUVANTE",
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
       "pct_adj": 66,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
