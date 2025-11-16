@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-15T23:34:54.182Z",
+  "updated": "2025-11-16T00:34:53.936Z",
   "items": [
     {
       "rank": 1,
@@ -24,8 +24,8 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p297/Wicked%3A_Parte_2.html",
-      "pct_adj": 75.7,
-      "arrow": "same",
+      "pct_adj": 77.2,
+      "arrow": "up",
       "title": "Wicked: Parte 2",
       "short": "Paul Tazewell",
       "category": "MELHOR FIGURINO",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p174/Stellan_Skarsg%C3%A5rd.html",
       "pct_adj": 65.5,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Stellan Skarsgård",
       "short": "\"Valor Sentimental\"",
       "category": "MELHOR ATOR COADJUVANTE",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
       "pct_adj": 65.2,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
