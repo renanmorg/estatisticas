@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-19T01:35:01.130Z",
+  "updated": "2025-11-19T02:35:06.586Z",
   "items": [
     {
       "rank": 1,
@@ -23,13 +23,13 @@
     },
     {
       "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
+      "url": "https://www.termometrooscar.com/melhor-filme-estrangeiro.html",
       "pct_adj": 76.9,
       "arrow": "same",
-      "title": "O Agente Secreto",
-      "short": "Brasil",
-      "category": "MELHOR FILME INTERNACIONAL",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i11_w800.jpeg"
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     },
     {
       "rank": 4,
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p409/Avatar%3A_Fogo_e_Cinzas.html",
       "pct_adj": 66.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Avatar: Fogo e Cinzas",
       "short": "Joe Letteri",
       "category": "MELHOR EFEITOS VISUAIS",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
       "pct_adj": 66.2,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p161/Sean_Penn.html",
       "pct_adj": 64,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Sean Penn",
       "short": "\"Uma Batalha Após a Outra\"",
       "category": "MELHOR ATOR COADJUVANTE",
