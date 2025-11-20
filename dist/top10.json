@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-19T23:34:58.518Z",
+  "updated": "2025-11-20T00:35:02.486Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 82.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -23,13 +23,13 @@
     },
     {
       "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
+      "url": "https://www.termometrooscar.com/melhor-filme-estrangeiro.html",
       "pct_adj": 76.9,
       "arrow": "same",
-      "title": "O Agente Secreto",
-      "short": "Brasil",
-      "category": "MELHOR FILME INTERNACIONAL",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i11_w800.jpeg"
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     },
     {
       "rank": 4,
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 70.9,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
       "pct_adj": 66.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p409/Avatar%3A_Fogo_e_Cinzas.html",
       "pct_adj": 66.7,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Avatar: Fogo e Cinzas",
       "short": "Joe Letteri",
       "category": "MELHOR EFEITOS VISUAIS",
