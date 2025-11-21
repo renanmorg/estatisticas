@@ -1,10 +1,10 @@
 {
-  "updated": "2025-11-21T18:35:00.593Z",
+  "updated": "2025-11-21T19:35:01.987Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 82.9,
+      "pct_adj": 82.6,
       "arrow": "down",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
@@ -15,7 +15,7 @@
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p297/Wicked%3A_Parte_2.html",
       "pct_adj": 78.5,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Wicked: Parte 2",
       "short": "Paul Tazewell",
       "category": "MELHOR FIGURINO",
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p255/Apocalipse_nos_Tr%C3%B3picos.html",
       "pct_adj": 74.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Apocalipse nos Trópicos",
       "short": "Petra Costa",
       "category": "MELHOR DOCUMENTÁRIO",
@@ -74,7 +74,7 @@
     {
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
-      "pct_adj": 67.6,
+      "pct_adj": 67.8,
       "arrow": "up",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p161/Sean_Penn.html",
       "pct_adj": 66.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Sean Penn",
       "short": "\"Uma Batalha Após a Outra\"",
       "category": "MELHOR ATOR COADJUVANTE",
