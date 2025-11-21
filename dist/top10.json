@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-21T12:35:28.971Z",
+  "updated": "2025-11-21T13:35:10.597Z",
   "items": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p255/Apocalipse_nos_Tr%C3%B3picos.html",
       "pct_adj": 72.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Apocalipse nos Trópicos",
       "short": "Petra Costa",
       "category": "MELHOR DOCUMENTÁRIO",
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 70.3,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
@@ -74,7 +74,7 @@
     {
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
-      "pct_adj": 67.7,
+      "pct_adj": 67.9,
       "arrow": "same",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p196/O_Agente_Secreto.html",
       "pct_adj": 66,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR ROTEIRO ORIGINAL",
