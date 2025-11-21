@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-21T17:35:01.577Z",
+  "updated": "2025-11-21T18:10:08.642Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 83.2,
-      "arrow": "same",
+      "pct_adj": 82.9,
+      "arrow": "down",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -14,8 +14,8 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p297/Wicked%3A_Parte_2.html",
-      "pct_adj": 77.2,
-      "arrow": "same",
+      "pct_adj": 78.5,
+      "arrow": "up",
       "title": "Wicked: Parte 2",
       "short": "Paul Tazewell",
       "category": "MELHOR FIGURINO",
@@ -23,13 +23,13 @@
     },
     {
       "rank": 3,
-      "url": "https://www.termometrooscar.com/melhor-filme-estrangeiro.html",
+      "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 76.9,
       "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "title": "O Agente Secreto",
+      "short": "Brasil",
+      "category": "MELHOR FILME INTERNACIONAL",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i11_w800.jpeg"
     },
     {
       "rank": 4,
@@ -44,8 +44,8 @@
     {
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p255/Apocalipse_nos_Tr%C3%B3picos.html",
-      "pct_adj": 72.2,
-      "arrow": "same",
+      "pct_adj": 74.1,
+      "arrow": "up",
       "title": "Apocalipse nos Trópicos",
       "short": "Petra Costa",
       "category": "MELHOR DOCUMENTÁRIO",
@@ -74,7 +74,7 @@
     {
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
-      "pct_adj": 67.3,
+      "pct_adj": 67.6,
       "arrow": "down",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
@@ -94,8 +94,8 @@
     {
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p196/O_Agente_Secreto.html",
-      "pct_adj": 66.5,
-      "arrow": "same",
+      "pct_adj": 66,
+      "arrow": "down",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR ROTEIRO ORIGINAL",
