@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-21T18:10:08.642Z",
+  "updated": "2025-11-21T18:35:00.593Z",
   "items": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
       "pct_adj": 69.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Kleber Mendonça Filho",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR DIREÇÃO",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
       "pct_adj": 67.6,
-      "arrow": "down",
+      "arrow": "up",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
@@ -93,13 +93,13 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p196/O_Agente_Secreto.html",
-      "pct_adj": 66,
-      "arrow": "down",
-      "title": "O Agente Secreto",
-      "short": "Kleber Mendonça Filho",
-      "category": "MELHOR ROTEIRO ORIGINAL",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p196_i10_w800.jpeg"
+      "url": "https://www.termometrooscar.com/store/p161/Sean_Penn.html",
+      "pct_adj": 66.7,
+      "arrow": "up",
+      "title": "Sean Penn",
+      "short": "\"Uma Batalha Após a Outra\"",
+      "category": "MELHOR ATOR COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i15_w800.png"
     }
   ]
 }
