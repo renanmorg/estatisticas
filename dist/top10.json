@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-24T14:35:31.680Z",
+  "updated": "2025-11-24T15:35:08.733Z",
   "items": [
     {
       "rank": 1,
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p101/Paul_Thomas_Anderson.html",
       "pct_adj": 76.4,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Paul Thomas Anderson",
       "short": "\"Uma Batalha Após a Outra\"",
       "category": "MELHOR DIREÇÃO",
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 76.2,
-      "arrow": "down",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
