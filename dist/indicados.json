@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-28T18:01:50.884Z",
+  "updatedAt": "2025-11-25T20:09:13.846Z",
   "indicados": [
     {
       "film": "Pecadores",
@@ -13,13 +13,13 @@
     },
     {
       "film": "Hamnet",
-      "count": 10,
+      "count": 8,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i17_w660.jpeg?width=640"
     },
     {
-      "film": "Frankenstein",
+      "film": "Valor Sentimental",
       "count": 8,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i15_w640.jpeg"
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
     },
     {
       "film": "Wicked: Parte 2",
@@ -27,9 +27,9 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p68_i15_w800.jpeg?width=640"
     },
     {
-      "film": "Valor Sentimental",
+      "film": "Frankenstein",
       "count": 7,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i15_w640.jpeg"
     },
     {
       "film": "Bugonia",
@@ -37,13 +37,8 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p81_i18_w800.jpeg?width=640"
     },
     {
-      "film": "Marty Supreme",
-      "count": 4,
-      "image": "http://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p83_i18_w961.jpeg?width=640"
-    },
-    {
       "film": "F1",
-      "count": 3,
+      "count": 5,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg"
     },
     {
@@ -57,6 +52,11 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p76_i17_w510.jpeg"
     },
     {
+      "film": "Marty Supreme",
+      "count": 3,
+      "image": "http://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p83_i18_w961.jpeg?width=640"
+    },
+    {
       "film": "O Agente Secreto",
       "count": 3,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg?width=640"
@@ -67,24 +67,19 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p65_i15_w1013.jpeg?width=640"
     },
     {
-      "film": "Nouvelle Vague",
-      "count": 2,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p78_i16_w800.jpeg?width=640"
-    },
-    {
       "film": "O Testamento de Ann Lee",
       "count": 2,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p57_i14_w800.jpeg?width=640"
     },
     {
-      "film": "Tron: Ares",
-      "count": 2,
-      "image": "https://i.imgur.com/glYnC5W.jpeg"
-    },
-    {
       "film": "Vivo ou Morto: Um Mistério Knives Out",
       "count": 2,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p87_i21_w800.jpeg?width=640"
+    },
+    {
+      "film": "A 2000 metros de Andriivka",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p257_i13_w1382.jpeg?width=320"
     },
     {
       "film": "A Hora do Mal",
@@ -95,6 +90,16 @@
       "film": "A Magnifica Vida De Marcel Pagnol",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p247_i9_w1174.jpeg?width=640"
+    },
+    {
+      "film": "A Vizinha Perfeita",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg?width=320"
+    },
+    {
+      "film": "Apocalipse nos Trópicos",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p255_i12_w1000.jpeg?width=320"
     },
     {
       "film": "Arco",
@@ -112,9 +117,24 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p85_i16_w1923.jpeg?width=640"
     },
     {
-      "film": "Depois da Caçada",
+      "film": "Cover-Up",
       "count": 1,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p80_i15_w1080.jpeg?width=640"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p258_i9_w800.jpeg?width=320"
+    },
+    {
+      "film": "Diane Warren: Relentless",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p429_i7_w800.jpeg?width=320"
+    },
+    {
+      "film": "Elio",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p239_i7_w1013.jpeg?width=320"
+    },
+    {
+      "film": "Extermínio: A Evolução",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p539_i11_w800.jpeg?width=320"
     },
     {
       "film": "Guerreiras do K-Pop",
@@ -122,14 +142,24 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=640"
     },
     {
-      "film": "Ne Zha 2: O Renascer da Alma",
+      "film": "No Other Choice",
       "count": 1,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p238_i9_w2000.jpeg?width=640"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p577_i9_w1116.jpeg?width=320"
     },
     {
-      "film": "Sem Outra Escolha",
+      "film": "Nouvelle Vague",
       "count": 1,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p577_i9_w1116.jpeg?width=640"
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p78_i16_w800.jpeg?width=640"
+    },
+    {
+      "film": "Orwell: 2+2=5",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p271_i12_w1000.jpeg?width=320"
+    },
+    {
+      "film": "Pop",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320"
     },
     {
       "film": "Springsteen: Salve-me do Desconhecido",
@@ -147,6 +177,16 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p74_i18_w800.jpeg?width=640"
     },
     {
+      "film": "Tron: Ares",
+      "count": 1,
+      "image": "https://i.imgur.com/glYnC5W.jpeg"
+    },
+    {
+      "film": "Wicked: parte 2",
+      "count": 1,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p68_i15_w800.jpeg?width=640"
+    },
+    {
       "film": "Zootopia 2",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p248_i8_w554.jpeg"
@@ -159,19 +199,29 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=640"
     },
     {
-      "film": "Frankenstein",
-      "count": 4,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i15_w640.jpeg"
-    },
-    {
       "film": "Valor Sentimental",
       "count": 3,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
     },
     {
+      "film": "Frankenstein",
+      "count": 2,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i15_w640.jpeg"
+    },
+    {
       "film": "Hamnet",
       "count": 2,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i17_w660.jpeg?width=640"
+    },
+    {
+      "film": "Pecadores",
+      "count": 2,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=640"
+    },
+    {
+      "film": "A Vizinha Perfeita",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg?width=320"
     },
     {
       "film": "Avatar: Fogo e Cinzas",
@@ -194,9 +244,9 @@
       "image": "http://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p83_i18_w961.jpeg?width=640"
     },
     {
-      "film": "Pecadores",
+      "film": "Pop",
       "count": 1,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=640"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320"
     }
   ]
 }
