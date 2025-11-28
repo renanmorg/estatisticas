@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-28T15:35:10.109Z",
+  "updated": "2025-11-28T16:35:05.832Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 83.3,
-      "arrow": "same",
+      "pct_adj": 83.4,
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -54,8 +54,8 @@
     {
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 71.1,
-      "arrow": "same",
+      "pct_adj": 71.4,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
@@ -64,8 +64,8 @@
     {
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
-      "pct_adj": 70.4,
-      "arrow": "same",
+      "pct_adj": 70.9,
+      "arrow": "up",
       "title": "Kleber Mendonça Filho",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR DIREÇÃO",
@@ -93,13 +93,13 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
+      "url": "https://www.termometrooscar.com/store/p161/Sean_Penn.html",
       "pct_adj": 67.5,
       "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "title": "Sean Penn",
+      "short": "\"Uma Batalha Após a Outra\"",
+      "category": "MELHOR ATOR COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i15_w800.png"
     }
   ]
 }
