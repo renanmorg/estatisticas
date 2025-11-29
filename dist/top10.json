@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-29T18:35:35.406Z",
+  "updated": "2025-11-29T19:35:04.014Z",
   "items": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 71.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
@@ -74,7 +74,7 @@
     {
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
-      "pct_adj": 68.6,
+      "pct_adj": 68.8,
       "arrow": "same",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
@@ -94,7 +94,7 @@
     {
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p161/Sean_Penn.html",
-      "pct_adj": 67.5,
+      "pct_adj": 68.5,
       "arrow": "same",
       "title": "Sean Penn",
       "short": "\"Uma Batalha Após a Outra\"",
