@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-29T04:34:55.849Z",
+  "updated": "2025-11-29T05:34:53.974Z",
   "items": [
     {
       "rank": 1,
@@ -53,23 +53,23 @@
     },
     {
       "rank": 6,
-      "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 71.4,
-      "arrow": "same",
-      "title": "O Agente Secreto",
-      "short": "Kleber Mendonça Filho",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
-    },
-    {
-      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
       "pct_adj": 70.9,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Kleber Mendonça Filho",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
+    },
+    {
+      "rank": 7,
+      "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
+      "pct_adj": 70.6,
+      "arrow": "down",
+      "title": "O Agente Secreto",
+      "short": "Kleber Mendonça Filho",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
     },
     {
       "rank": 8,
