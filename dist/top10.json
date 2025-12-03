@@ -1,11 +1,11 @@
 {
-  "updated": "2025-12-03T16:35:02.439Z",
+  "updated": "2025-12-03T17:35:06.352Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 84,
-      "arrow": "same",
+      "pct_adj": 84.2,
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -83,23 +83,23 @@
     },
     {
       "rank": 9,
-      "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
-      "pct_adj": 69.4,
-      "arrow": "same",
-      "title": "Ariana Grande",
-      "short": "\"Wicked: Parte 2\"",
-      "category": "MELHOR ATRIZ COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p187_i17_w800.png"
-    },
-    {
-      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p161/Sean_Penn.html",
-      "pct_adj": 68.5,
-      "arrow": "same",
+      "pct_adj": 69.4,
+      "arrow": "up",
       "title": "Sean Penn",
       "short": "\"Uma Batalha Após a Outra\"",
       "category": "MELHOR ATOR COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i15_w800.png"
+    },
+    {
+      "rank": 10,
+      "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
+      "pct_adj": 69.4,
+      "arrow": "down",
+      "title": "Ariana Grande",
+      "short": "\"Wicked: Parte 2\"",
+      "category": "MELHOR ATRIZ COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p187_i17_w800.png"
     }
   ]
 }
