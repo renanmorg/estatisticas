@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-10T21:35:00.595Z",
+  "updated": "2025-12-10T22:35:08.460Z",
   "items": [
     {
       "rank": 1,
@@ -53,23 +53,23 @@
     },
     {
       "rank": 6,
-      "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
-      "pct_adj": 72.7,
-      "arrow": "same",
-      "title": "Kleber Mendonça Filho",
-      "short": "\"O Agente Secreto\"",
-      "category": "MELHOR DIREÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
-    },
-    {
-      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p409/Avatar%3A_Fogo_e_Cinzas.html",
       "pct_adj": 71.7,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Avatar: Fogo e Cinzas",
       "short": "Joe Letteri",
       "category": "MELHOR EFEITOS VISUAIS",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p409_i14_w800.jpeg"
+    },
+    {
+      "rank": 7,
+      "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
+      "pct_adj": 71.5,
+      "arrow": "down",
+      "title": "Kleber Mendonça Filho",
+      "short": "\"O Agente Secreto\"",
+      "category": "MELHOR DIREÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
     },
     {
       "rank": 8,
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
       "pct_adj": 69.5,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
