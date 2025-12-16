@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-16T15:35:24.901Z",
+  "updated": "2025-12-16T16:35:12.874Z",
   "items": [
     {
       "rank": 1,
@@ -23,33 +23,33 @@
     },
     {
       "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p101/Paul_Thomas_Anderson.html",
-      "pct_adj": 79.3,
-      "arrow": "same",
-      "title": "Paul Thomas Anderson",
-      "short": "\"Uma Batalha Após a Outra\"",
-      "category": "MELHOR DIREÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png"
-    },
-    {
-      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p255/Apocalipse_nos_Tr%C3%B3picos.html",
       "pct_adj": 79,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Apocalipse nos Trópicos",
       "short": "Petra Costa",
       "category": "MELHOR DOCUMENTÁRIO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p255_i12_w1000.jpeg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 78.6,
-      "arrow": "same",
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i11_w800.jpeg"
+    },
+    {
+      "rank": 5,
+      "url": "https://www.termometrooscar.com/store/p101/Paul_Thomas_Anderson.html",
+      "pct_adj": 77,
+      "arrow": "down",
+      "title": "Paul Thomas Anderson",
+      "short": "\"Uma Batalha Após a Outra\"",
+      "category": "MELHOR DIREÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png"
     },
     {
       "rank": 6,
