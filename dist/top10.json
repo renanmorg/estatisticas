@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-18T23:35:11.917Z",
+  "updated": "2025-12-19T01:35:14.657Z",
   "items": [
     {
       "rank": 1,
@@ -13,6 +13,16 @@
     },
     {
       "rank": 2,
+      "url": "https://www.termometrooscar.com/store/p255/Apocalipse_nos_Tr%C3%B3picos.html",
+      "pct_adj": 81.1,
+      "arrow": "same",
+      "title": "Apocalipse nos Trópicos",
+      "short": "Petra Costa",
+      "category": "MELHOR DOCUMENTÁRIO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p255_i12_w1000.jpeg"
+    },
+    {
+      "rank": 3,
       "url": "https://www.termometrooscar.com/store/p297/Wicked%3A_Parte_2.html",
       "pct_adj": 80.6,
       "arrow": "same",
@@ -20,16 +30,6 @@
       "short": "Paul Tazewell",
       "category": "MELHOR FIGURINO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p297_i13_w800.jpeg"
-    },
-    {
-      "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p255/Apocalipse_nos_Tr%C3%B3picos.html",
-      "pct_adj": 80.5,
-      "arrow": "same",
-      "title": "Apocalipse nos Trópicos",
-      "short": "Petra Costa",
-      "category": "MELHOR DOCUMENTÁRIO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p255_i12_w1000.jpeg"
     },
     {
       "rank": 4,
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 71.3,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
