@@ -1,10 +1,10 @@
 {
-  "updated": "2025-12-21T22:35:08.768Z",
+  "updated": "2025-12-21T23:34:53.877Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 85.3,
+      "pct_adj": 85.4,
       "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 79.3,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -83,23 +83,23 @@
     },
     {
       "rank": 9,
+      "url": "https://www.termometrooscar.com/store/p368/F1.html",
+      "pct_adj": 70.2,
+      "arrow": "up",
+      "title": "F1",
+      "short": "Al Nelson",
+      "category": "MELHOR SOM",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p368_i9_w800.jpeg"
+    },
+    {
+      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p431/%22I_Lied_To_You%22_-_Pecadores.html",
       "pct_adj": 70.2,
-      "arrow": "same",
+      "arrow": "down",
       "title": "&quot;I Lied To You&quot; - Pecadores",
       "short": "Raphael Saadiq e Ludwig Göransson",
       "category": "MELHOR CANÇÃO ORIGINAL",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p431_i3_w800.jpeg"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
-      "pct_adj": 69.6,
-      "arrow": "same",
-      "title": "Ariana Grande",
-      "short": "\"Wicked: Parte 2\"",
-      "category": "MELHOR ATRIZ COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p187_i17_w800.png"
     }
   ]
 }
