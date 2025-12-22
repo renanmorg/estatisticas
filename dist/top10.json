@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-22T13:34:56.397Z",
+  "updated": "2025-12-22T14:35:08.601Z",
   "items": [
     {
       "rank": 1,
@@ -43,23 +43,23 @@
     },
     {
       "rank": 5,
-      "url": "https://www.termometrooscar.com/store/p409/Avatar%3A_Fogo_e_Cinzas.html",
-      "pct_adj": 75.4,
-      "arrow": "same",
-      "title": "Avatar: Fogo e Cinzas",
-      "short": "Joe Letteri",
-      "category": "MELHOR EFEITOS VISUAIS",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p409_i14_w800.jpeg"
-    },
-    {
-      "rank": 6,
       "url": "https://www.termometrooscar.com/store/p101/Paul_Thomas_Anderson.html",
-      "pct_adj": 75.3,
-      "arrow": "same",
+      "pct_adj": 75.8,
+      "arrow": "up",
       "title": "Paul Thomas Anderson",
       "short": "\"Uma Batalha Após a Outra\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png"
+    },
+    {
+      "rank": 6,
+      "url": "https://www.termometrooscar.com/store/p409/Avatar%3A_Fogo_e_Cinzas.html",
+      "pct_adj": 75.4,
+      "arrow": "down",
+      "title": "Avatar: Fogo e Cinzas",
+      "short": "Joe Letteri",
+      "category": "MELHOR EFEITOS VISUAIS",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p409_i14_w800.jpeg"
     },
     {
       "rank": 7,
