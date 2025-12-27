@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-27T15:35:02.316Z",
+  "updated": "2025-12-27T16:35:04.872Z",
   "items": [
     {
       "rank": 1,
@@ -15,7 +15,7 @@
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p297/Wicked%3A_Parte_2.html",
       "pct_adj": 82.4,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Wicked: Parte 2",
       "short": "Paul Tazewell",
       "category": "MELHOR FIGURINO",
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 79.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
       "pct_adj": 69.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
