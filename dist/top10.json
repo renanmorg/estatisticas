@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-30T17:34:51.908Z",
+  "updated": "2025-12-30T18:35:05.730Z",
   "items": [
     {
       "rank": 1,
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 79.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p101/Paul_Thomas_Anderson.html",
       "pct_adj": 77.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Paul Thomas Anderson",
       "short": "\"Uma Batalha Após a Outra\"",
       "category": "MELHOR DIREÇÃO",
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 72.4,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
       "pct_adj": 71.4,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Kleber Mendonça Filho",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR DIREÇÃO",
