@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-01T15:35:20.271Z",
+  "updated": "2026-01-01T16:35:02.794Z",
   "items": [
     {
       "rank": 1,
@@ -24,8 +24,8 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p255/Apocalipse_nos_Tr%C3%B3picos.html",
-      "pct_adj": 80.9,
-      "arrow": "same",
+      "pct_adj": 81.4,
+      "arrow": "up",
       "title": "Apocalipse nos Trópicos",
       "short": "Petra Costa",
       "category": "MELHOR DOCUMENTÁRIO",
@@ -44,8 +44,8 @@
     {
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p409/Avatar%3A_Fogo_e_Cinzas.html",
-      "pct_adj": 79,
-      "arrow": "same",
+      "pct_adj": 79.8,
+      "arrow": "up",
       "title": "Avatar: Fogo e Cinzas",
       "short": "Joe Letteri",
       "category": "MELHOR EFEITOS VISUAIS",
@@ -63,33 +63,33 @@
     },
     {
       "rank": 7,
+      "url": "https://www.termometrooscar.com/store/p368/F1.html",
+      "pct_adj": 73,
+      "arrow": "up",
+      "title": "F1",
+      "short": "Al Nelson",
+      "category": "MELHOR SOM",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p368_i9_w800.jpeg"
+    },
+    {
+      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 72.9,
-      "arrow": "same",
+      "arrow": "down",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
       "pct_adj": 71.8,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Kleber Mendonça Filho",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
-    },
-    {
-      "rank": 9,
-      "url": "https://www.termometrooscar.com/store/p368/F1.html",
-      "pct_adj": 71.7,
-      "arrow": "same",
-      "title": "F1",
-      "short": "Al Nelson",
-      "category": "MELHOR SOM",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p368_i9_w800.jpeg"
     },
     {
       "rank": 10,
