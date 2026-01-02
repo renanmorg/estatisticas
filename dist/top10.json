@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-02T02:34:58.763Z",
+  "updated": "2026-01-02T03:35:11.659Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 85.3,
+      "pct_adj": 85.4,
       "arrow": "same",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
@@ -44,8 +44,8 @@
     {
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 80.2,
-      "arrow": "same",
+      "pct_adj": 80.3,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
       "pct_adj": 70.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Ariana Grande",
       "short": "\"Wicked: Parte 2\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
