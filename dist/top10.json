@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-03T22:35:00.168Z",
+  "updated": "2026-01-03T23:35:18.322Z",
   "items": [
     {
       "rank": 1,
@@ -83,23 +83,23 @@
     },
     {
       "rank": 9,
-      "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
-      "pct_adj": 70,
-      "arrow": "same",
-      "title": "Ariana Grande",
-      "short": "\"Wicked: Parte 2\"",
-      "category": "MELHOR ATRIZ COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p187_i17_w800.png"
-    },
-    {
-      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p196/O_Agente_Secreto.html",
       "pct_adj": 69.6,
-      "arrow": "same",
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR ROTEIRO ORIGINAL",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p196_i10_w800.jpeg"
+    },
+    {
+      "rank": 10,
+      "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
+      "pct_adj": 69.2,
+      "arrow": "down",
+      "title": "Ariana Grande",
+      "short": "\"Wicked: Parte 2\"",
+      "category": "MELHOR ATRIZ COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p187_i17_w800.png"
     }
   ]
 }
