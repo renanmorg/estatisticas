@@ -1,11 +1,11 @@
 {
-  "updated": "2026-01-06T02:35:03.635Z",
+  "updated": "2026-01-06T03:35:15.457Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 85.5,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -24,8 +24,8 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p255/Apocalipse_nos_Tr%C3%B3picos.html",
-      "pct_adj": 83.5,
-      "arrow": "same",
+      "pct_adj": 83.9,
+      "arrow": "up",
       "title": "Apocalipse nos Trópicos",
       "short": "Petra Costa",
       "category": "MELHOR DOCUMENTÁRIO",
@@ -54,8 +54,8 @@
     {
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p101/Paul_Thomas_Anderson.html",
-      "pct_adj": 79.5,
-      "arrow": "same",
+      "pct_adj": 77.8,
+      "arrow": "down",
       "title": "Paul Thomas Anderson",
       "short": "\"Uma Batalha Após a Outra\"",
       "category": "MELHOR DIREÇÃO",
@@ -64,8 +64,8 @@
     {
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 73.6,
-      "arrow": "same",
+      "pct_adj": 73.7,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
@@ -74,8 +74,8 @@
     {
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
-      "pct_adj": 73.4,
-      "arrow": "same",
+      "pct_adj": 73.7,
+      "arrow": "up",
       "title": "Kleber Mendonça Filho",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR DIREÇÃO",
