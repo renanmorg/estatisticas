@@ -1,25 +1,25 @@
 {
-  "updated": "2026-01-07T17:35:03.773Z",
+  "updated": "2026-01-07T18:35:17.481Z",
   "items": [
     {
       "rank": 1,
-      "url": "https://www.termometrooscar.com/store/p297/Wicked%3A_Parte_2.html",
-      "pct_adj": 85.7,
-      "arrow": "same",
-      "title": "Wicked: Parte 2",
-      "short": "Paul Tazewell",
-      "category": "MELHOR FIGURINO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p297_i13_w800.jpeg"
-    },
-    {
-      "rank": 2,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 85.7,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
+    },
+    {
+      "rank": 2,
+      "url": "https://www.termometrooscar.com/store/p297/Wicked%3A_Parte_2.html",
+      "pct_adj": 85.7,
+      "arrow": "down",
+      "title": "Wicked: Parte 2",
+      "short": "Paul Tazewell",
+      "category": "MELHOR FIGURINO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p297_i13_w800.jpeg"
     },
     {
       "rank": 3,
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 74.5,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
