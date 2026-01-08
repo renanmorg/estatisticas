@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-08T20:35:12.112Z",
+  "updated": "2026-01-08T21:35:06.055Z",
   "items": [
     {
       "rank": 1,
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p409/Avatar%3A_Fogo_e_Cinzas.html",
       "pct_adj": 82.3,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Avatar: Fogo e Cinzas",
       "short": "Joe Letteri",
       "category": "MELHOR EFEITOS VISUAIS",
@@ -34,8 +34,8 @@
     {
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 81.3,
-      "arrow": "up",
+      "pct_adj": 80.9,
+      "arrow": "down",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -93,13 +93,13 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p196/O_Agente_Secreto.html",
-      "pct_adj": 70,
-      "arrow": "same",
-      "title": "O Agente Secreto",
-      "short": "Kleber Mendonça Filho",
-      "category": "MELHOR ROTEIRO ORIGINAL",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p196_i10_w800.jpeg"
+      "url": "https://www.termometrooscar.com/store/p187/Ariana_Grande.html",
+      "pct_adj": 70.1,
+      "arrow": "up",
+      "title": "Ariana Grande",
+      "short": "\"Wicked: Parte 2\"",
+      "category": "MELHOR ATRIZ COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p187_i17_w800.png"
     }
   ]
 }
