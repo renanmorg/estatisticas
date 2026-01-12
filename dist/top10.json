@@ -1,11 +1,11 @@
 {
-  "updated": "2026-01-12T04:35:04.793Z",
+  "updated": "2026-01-12T05:35:03.059Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 85.9,
-      "arrow": "up",
+      "pct_adj": 85.8,
+      "arrow": "down",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -15,7 +15,7 @@
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p255/Apocalipse_nos_Tr%C3%B3picos.html",
       "pct_adj": 84.5,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Apocalipse nos Trópicos",
       "short": "Petra Costa",
       "category": "MELHOR DOCUMENTÁRIO",
@@ -34,7 +34,7 @@
     {
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 81.9,
+      "pct_adj": 82,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
@@ -64,7 +64,7 @@
     {
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 76,
+      "pct_adj": 76.1,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
