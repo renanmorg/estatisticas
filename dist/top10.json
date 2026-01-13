@@ -1,11 +1,11 @@
 {
-  "updated": "2026-01-13T22:35:11.183Z",
+  "updated": "2026-01-13T23:35:06.160Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 85.7,
-      "arrow": "down",
+      "pct_adj": 85.8,
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 83.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -53,23 +53,23 @@
     },
     {
       "rank": 6,
-      "url": "https://www.termometrooscar.com/store/p297/Wicked%3A_Parte_2.html",
-      "pct_adj": 76.6,
-      "arrow": "same",
-      "title": "Wicked: Parte 2",
-      "short": "Paul Tazewell",
-      "category": "MELHOR FIGURINO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p297_i13_w800.jpeg"
-    },
-    {
-      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 76.5,
-      "arrow": "same",
+      "pct_adj": 76.7,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
+    },
+    {
+      "rank": 7,
+      "url": "https://www.termometrooscar.com/store/p297/Wicked%3A_Parte_2.html",
+      "pct_adj": 76.6,
+      "arrow": "down",
+      "title": "Wicked: Parte 2",
+      "short": "Paul Tazewell",
+      "category": "MELHOR FIGURINO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p297_i13_w800.jpeg"
     },
     {
       "rank": 8,
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p251/Demon_Slayer%3A_Kimetsu_no_Yaiba_Castelo_Infinito.html",
       "pct_adj": 72.4,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Demon Slayer: Kimetsu no Yaiba Castelo Infinito",
       "short": "Hikaru Kondô e Haruo Sotozaki",
       "category": "MELHOR ANIMAÇÃO",
