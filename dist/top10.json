@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-15T21:35:22.005Z",
+  "updated": "2026-01-15T22:35:00.268Z",
   "items": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p101/Paul_Thomas_Anderson.html",
       "pct_adj": 80.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Paul Thomas Anderson",
       "short": "\"Uma Batalha Após a Outra\"",
       "category": "MELHOR DIREÇÃO",
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 77.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
