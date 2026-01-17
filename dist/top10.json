@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-17T01:35:10.541Z",
+  "updated": "2026-01-17T02:35:02.198Z",
   "items": [
     {
       "rank": 1,
@@ -14,8 +14,8 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p255/Apocalipse_nos_Tr%C3%B3picos.html",
-      "pct_adj": 85.5,
-      "arrow": "same",
+      "pct_adj": 85.8,
+      "arrow": "up",
       "title": "Apocalipse nos Trópicos",
       "short": "Petra Costa",
       "category": "MELHOR DOCUMENTÁRIO",
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 84,
-      "arrow": "same",
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -84,8 +84,8 @@
     {
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p196/O_Agente_Secreto.html",
-      "pct_adj": 73.5,
-      "arrow": "same",
+      "pct_adj": 73.7,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR ROTEIRO ORIGINAL",
@@ -94,8 +94,8 @@
     {
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
-      "pct_adj": 73.2,
-      "arrow": "same",
+      "pct_adj": 73.5,
+      "arrow": "up",
       "title": "Kleber Mendonça Filho",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR DIREÇÃO",
