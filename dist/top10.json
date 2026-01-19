@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-19T17:35:07.288Z",
+  "updated": "2026-01-19T18:35:06.570Z",
   "items": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 84.3,
+      "pct_adj": 84.4,
       "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
@@ -83,23 +83,23 @@
     },
     {
       "rank": 9,
-      "url": "https://www.termometrooscar.com/store/p196/O_Agente_Secreto.html",
-      "pct_adj": 74.2,
-      "arrow": "same",
-      "title": "O Agente Secreto",
-      "short": "Kleber Mendonça Filho",
-      "category": "MELHOR ROTEIRO ORIGINAL",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p196_i10_w800.jpeg"
-    },
-    {
-      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p108/Kleber_Mendon%C3%A7a_Filho.html",
       "pct_adj": 74,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Kleber Mendonça Filho",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p108_i14_w800.png"
+    },
+    {
+      "rank": 10,
+      "url": "https://www.termometrooscar.com/store/p196/O_Agente_Secreto.html",
+      "pct_adj": 73.3,
+      "arrow": "down",
+      "title": "O Agente Secreto",
+      "short": "Kleber Mendonça Filho",
+      "category": "MELHOR ROTEIRO ORIGINAL",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p196_i10_w800.jpeg"
     }
   ]
 }
