@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-21T02:35:08.426Z",
+  "updated": "2026-01-21T03:35:12.232Z",
   "items": [
     {
       "rank": 1,
@@ -33,29 +33,29 @@
     },
     {
       "rank": 4,
-      "url": "https://www.termometrooscar.com/store/p255/Apocalipse_nos_Tr%C3%B3picos.html",
-      "pct_adj": 82.1,
-      "arrow": "same",
-      "title": "Apocalipse nos Trópicos",
-      "short": "Petra Costa",
-      "category": "MELHOR DOCUMENTÁRIO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p255_i12_w1000.jpeg"
-    },
-    {
-      "rank": 5,
       "url": "https://www.termometrooscar.com/store/p101/Paul_Thomas_Anderson.html",
       "pct_adj": 80.1,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Paul Thomas Anderson",
       "short": "\"Uma Batalha Após a Outra\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png"
     },
     {
+      "rank": 5,
+      "url": "https://www.termometrooscar.com/store/p255/Apocalipse_nos_Tr%C3%B3picos.html",
+      "pct_adj": 80.1,
+      "arrow": "down",
+      "title": "Apocalipse nos Trópicos",
+      "short": "Petra Costa",
+      "category": "MELHOR DOCUMENTÁRIO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p255_i12_w1000.jpeg"
+    },
+    {
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 79.4,
-      "arrow": "same",
+      "pct_adj": 79.5,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
