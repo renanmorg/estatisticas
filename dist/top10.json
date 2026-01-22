@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-22T19:34:40.545Z",
+  "updated": "2026-01-22T20:34:42.461Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 82.3,
+      "pct_adj": 83.3,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
@@ -14,7 +14,7 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 63.7,
+      "pct_adj": 67,
       "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
@@ -23,8 +23,18 @@
     },
     {
       "rank": 3,
+      "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
+      "pct_adj": 64.7,
+      "arrow": "up",
+      "title": "O Agente Secreto",
+      "short": "Kleber Mendonça Filho",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
+    },
+    {
+      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
-      "pct_adj": 61,
+      "pct_adj": 64.6,
       "arrow": "down",
       "title": "Pecadores",
       "short": "Ryan Coogler",
@@ -32,19 +42,9 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg"
     },
     {
-      "rank": 4,
-      "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 59.2,
-      "arrow": "down",
-      "title": "O Agente Secreto",
-      "short": "Kleber Mendonça Filho",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
-    },
-    {
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p248/Zootopia_2.html",
-      "pct_adj": 56.5,
+      "pct_adj": 59.6,
       "arrow": "up",
       "title": "Zootopia 2",
       "short": "Jared Bush e Byron Howard",
@@ -53,29 +53,29 @@
     },
     {
       "rank": 6,
-      "url": "https://www.termometrooscar.com/store/p3755/O_Agente_Secreto.html",
-      "pct_adj": 52.3,
-      "arrow": "up",
-      "title": "O Agente Secreto",
-      "short": "Gabriel Domingues",
-      "category": "MELHOR ESCALAÇÃO DE ELENCO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3755_i1_w640.jpeg"
-    },
-    {
-      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p95/Ryan_Coogler.html",
-      "pct_adj": 51,
-      "arrow": "down",
+      "pct_adj": 56.6,
+      "arrow": "up",
       "title": "Ryan Coogler",
       "short": "\"Pecadores\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p95_i14_w800.png"
     },
     {
+      "rank": 7,
+      "url": "https://www.termometrooscar.com/store/p3755/O_Agente_Secreto.html",
+      "pct_adj": 52.3,
+      "arrow": "down",
+      "title": "O Agente Secreto",
+      "short": "Gabriel Domingues",
+      "category": "MELHOR ESCALAÇÃO DE ELENCO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3755_i1_w640.jpeg"
+    },
+    {
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p175/Elle_Fanning.html",
       "pct_adj": 43.8,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Elle Fanning",
       "short": "\"Valor Sentimental\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p281/Frankenstein.html",
       "pct_adj": 43.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Frankenstein",
       "short": "Tamara Deverell",
       "category": "MELHOR DIREÇÃO DE ARTE",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p409/Avatar%3A_Fogo_e_Cinzas.html",
       "pct_adj": 43.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Avatar: Fogo e Cinzas",
       "short": "Joe Letteri",
       "category": "MELHOR EFEITOS VISUAIS",
