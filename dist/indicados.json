@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T15:13:14.111Z",
+  "updatedAt": "2026-01-22T16:57:06.592Z",
   "indicados": [
     {
       "film": "Pecadores",
@@ -65,6 +65,11 @@
       "film": "Foi Apenas Um Acidente",
       "count": 2,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p61_i19_w1387.jpeg?width=640"
+    },
+    {
+      "film": "Guerreiras do KPop",
+      "count": 2,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320"
     },
     {
       "film": "Sirāt",
@@ -162,11 +167,6 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p517_i9_w800.jpeg?width=320"
     },
     {
-      "film": "Guerreiras do K-Pop",
-      "count": 1,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=640"
-    },
-    {
       "film": "Jane Austen’s Period Drama",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3000_i5_w1000.jpeg?width=320"
@@ -195,11 +195,6 @@
       "film": "Perfectly a Strangeness",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3009_i6_w3000.jpeg?width=320"
-    },
-    {
-      "film": "Pop",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320"
     },
     {
       "film": "Retirement Plan",
@@ -274,6 +269,11 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=640"
     },
     {
+      "film": "Guerreiras do KPop",
+      "count": 2,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320"
+    },
+    {
       "film": "Valor Sentimental",
       "count": 2,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
@@ -304,11 +304,6 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg"
     },
     {
-      "film": "Guerreiras do K-Pop",
-      "count": 1,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=640"
-    },
-    {
       "film": "Hamnet: A Vida Antes de Hamlet",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i18_w1080.jpeg?width=640"
@@ -317,11 +312,6 @@
       "film": "Marty Supreme",
       "count": 1,
       "image": "http://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p83_i18_w961.jpeg?width=640"
-    },
-    {
-      "film": "Pop",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320"
     },
     {
       "film": "Retirement Plan",
