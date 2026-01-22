@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T16:57:06.592Z",
+  "updatedAt": "2026-01-22T17:26:29.719Z",
   "indicados": [
     {
       "film": "Pecadores",
@@ -37,9 +37,9 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p81_i18_w800.jpeg?width=640"
     },
     {
-      "film": "F1",
+      "film": "F1: O Filme",
       "count": 4,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg?width=320"
     },
     {
       "film": "O Agente Secreto",
@@ -122,7 +122,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p244_i12_w194.jpeg"
     },
     {
-      "film": "Armed Only with a Camera: The Life and Death of Brent Renaud",
+      "film": "Armado com uma Câmera: Vida e Morte de Brent Renaud",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p529_i9_w1000.jpeg?width=320"
     },
@@ -177,7 +177,7 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p397_i12_w800.jpeg?width=320"
     },
     {
-      "film": "Kokuho - O Mestre Kabuki",
+      "film": "Kokuho: O Preço da Perfeição",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3774_i1_w640.jpeg?width=320"
     },
@@ -185,6 +185,11 @@
       "film": "Mr. Nobody Against Putin",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i9_w2812.jpeg?width=320"
+    },
+    {
+      "film": "O Diabo Não Tem Descanso",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3011_i6_w1000.jpeg?width=320"
     },
     {
       "film": "O Ônibus Perdido",
@@ -215,11 +220,6 @@
       "film": "Song Sung Blue - Um Sonho a Dois",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p136_i17_w800.png?width=320"
-    },
-    {
-      "film": "The Devil Is Busy",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3011_i6_w1000.jpeg?width=320"
     },
     {
       "film": "The Girl Who Cried Pearls",
@@ -299,9 +299,9 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p65_i15_w1013.jpeg?width=640"
     },
     {
-      "film": "F1",
+      "film": "F1: O Filme",
       "count": 1,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p368_i9_w800.jpeg?width=320"
     },
     {
       "film": "Hamnet: A Vida Antes de Hamlet",
