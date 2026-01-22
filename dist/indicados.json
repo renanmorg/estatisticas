@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T15:08:23.718Z",
+  "updatedAt": "2026-01-22T15:13:14.111Z",
   "indicados": [
     {
       "film": "Pecadores",
@@ -65,6 +65,11 @@
       "film": "Foi Apenas Um Acidente",
       "count": 2,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p61_i19_w1387.jpeg?width=640"
+    },
+    {
+      "film": "Sirāt",
+      "count": 2,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p586_i8_w1000.jpeg?width=320"
     },
     {
       "film": "A Friend of Dorothy",
@@ -210,16 +215,6 @@
       "film": "Se Eu Tivesse Pernas, Te Chutaria",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p151_i15_w800.png?width=320"
-    },
-    {
-      "film": "Sirat",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3778_i2_w800.jpeg?width=320"
-    },
-    {
-      "film": "Sirât",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p586_i8_w1000.jpeg?width=320"
     },
     {
       "film": "Song Sung Blue - Um Sonho a Dois",
