@@ -1,11 +1,11 @@
 {
-  "updated": "2026-01-22T21:34:41.026Z",
+  "updated": "2026-01-22T22:34:48.834Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 80.4,
-      "arrow": "down",
+      "pct_adj": 81.9,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -14,7 +14,7 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
-      "pct_adj": 67.6,
+      "pct_adj": 72.2,
       "arrow": "up",
       "title": "Pecadores",
       "short": "Ryan Coogler",
@@ -24,8 +24,8 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 66.5,
-      "arrow": "down",
+      "pct_adj": 67.2,
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -34,8 +34,8 @@
     {
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 65,
-      "arrow": "down",
+      "pct_adj": 66.6,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
@@ -43,28 +43,28 @@
     },
     {
       "rank": 5,
-      "url": "https://www.termometrooscar.com/store/p422/%22Golden%22_-_Guerreiras_do_KPop.html",
-      "pct_adj": 56.6,
+      "url": "https://www.termometrooscar.com/store/p409/Avatar%3A_Fogo_e_Cinzas.html",
+      "pct_adj": 61,
       "arrow": "up",
+      "title": "Avatar: Fogo e Cinzas",
+      "short": "Joe Letteri",
+      "category": "MELHOR EFEITOS VISUAIS",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p409_i14_w800.jpeg"
+    },
+    {
+      "rank": 6,
+      "url": "https://www.termometrooscar.com/store/p422/%22Golden%22_-_Guerreiras_do_KPop.html",
+      "pct_adj": 61,
+      "arrow": "down",
       "title": "&quot;Golden&quot; - Guerreiras do KPop",
       "short": "EJAE, Mark Sonnenblick, Joong Gyu Kwak, Yu Han Lee, Hee Dong Nam, Jeong Hoon Seo e Park Hong Jun",
       "category": "MELHOR CANÇÃO ORIGINAL",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg"
     },
     {
-      "rank": 6,
-      "url": "https://www.termometrooscar.com/store/p248/Zootopia_2.html",
-      "pct_adj": 52.3,
-      "arrow": "down",
-      "title": "Zootopia 2",
-      "short": "Jared Bush e Byron Howard",
-      "category": "MELHOR ANIMAÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p248_i8_w554.jpeg"
-    },
-    {
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p281/Frankenstein.html",
-      "pct_adj": 51,
+      "pct_adj": 56.6,
       "arrow": "up",
       "title": "Frankenstein",
       "short": "Tamara Deverell",
@@ -73,19 +73,19 @@
     },
     {
       "rank": 8,
-      "url": "https://www.termometrooscar.com/store/p409/Avatar%3A_Fogo_e_Cinzas.html",
-      "pct_adj": 51,
+      "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
+      "pct_adj": 52.9,
       "arrow": "up",
-      "title": "Avatar: Fogo e Cinzas",
-      "short": "Joe Letteri",
-      "category": "MELHOR EFEITOS VISUAIS",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p409_i14_w800.jpeg"
+      "title": "Jessie Buckley",
+      "short": "\"Hamnet: A Vida Antes de Hamlet\"",
+      "category": "MELHOR ATRIZ",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png"
     },
     {
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p3755/O_Agente_Secreto.html",
-      "pct_adj": 49.7,
-      "arrow": "down",
+      "pct_adj": 52.4,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Gabriel Domingues",
       "category": "MELHOR ESCALAÇÃO DE ELENCO",
@@ -94,7 +94,7 @@
     {
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p174/Stellan_Skarsg%C3%A5rd.html",
-      "pct_adj": 43.8,
+      "pct_adj": 51,
       "arrow": "up",
       "title": "Stellan Skarsgård",
       "short": "\"Valor Sentimental\"",
