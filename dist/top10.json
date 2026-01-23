@@ -1,11 +1,11 @@
 {
-  "updated": "2026-01-23T16:34:47.796Z",
+  "updated": "2026-01-23T17:34:50.383Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 85.1,
-      "arrow": "same",
+      "pct_adj": 85.4,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -24,7 +24,7 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 73.1,
+      "pct_adj": 74.1,
       "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
@@ -33,6 +33,16 @@
     },
     {
       "rank": 4,
+      "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
+      "pct_adj": 73.9,
+      "arrow": "up",
+      "title": "O Agente Secreto",
+      "short": "Kleber Mendonça Filho",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
+    },
+    {
+      "rank": 5,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
       "pct_adj": 73,
       "arrow": "down",
@@ -40,16 +50,6 @@
       "short": "\"Hamnet: A Vida Antes de Hamlet\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png"
-    },
-    {
-      "rank": 5,
-      "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 72,
-      "arrow": "same",
-      "title": "O Agente Secreto",
-      "short": "Kleber Mendonça Filho",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
     },
     {
       "rank": 6,
@@ -83,23 +83,23 @@
     },
     {
       "rank": 9,
-      "url": "https://www.termometrooscar.com/store/p248/Zootopia_2.html",
-      "pct_adj": 58.4,
-      "arrow": "same",
-      "title": "Zootopia 2",
-      "short": "Jared Bush e Byron Howard",
-      "category": "MELHOR ANIMAÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p248_i8_w554.jpeg"
-    },
-    {
-      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p274/A_Vizinha_Perfeita.html",
       "pct_adj": 56.6,
-      "arrow": "same",
+      "arrow": "up",
       "title": "A Vizinha Perfeita",
       "short": "Geeta Gandbhir",
       "category": "MELHOR DOCUMENTÁRIO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg"
+    },
+    {
+      "rank": 10,
+      "url": "https://www.termometrooscar.com/store/p281/Frankenstein.html",
+      "pct_adj": 56.6,
+      "arrow": "up",
+      "title": "Frankenstein",
+      "short": "Tamara Deverell",
+      "category": "MELHOR DIREÇÃO DE ARTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg"
     }
   ]
 }
