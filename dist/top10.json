@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-23T04:34:42.072Z",
+  "updated": "2026-01-23T05:34:40.648Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 86,
+      "pct_adj": 86.3,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 69.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
       "pct_adj": 68.5,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Jessie Buckley",
       "short": "\"Hamnet: A Vida Antes de Hamlet\"",
       "category": "MELHOR ATRIZ",
@@ -93,13 +93,13 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p281/Frankenstein.html",
+      "url": "https://www.termometrooscar.com/store/p274/A_Vizinha_Perfeita.html",
       "pct_adj": 56.6,
-      "arrow": "same",
-      "title": "Frankenstein",
-      "short": "Tamara Deverell",
-      "category": "MELHOR DIREÇÃO DE ARTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg"
+      "arrow": "up",
+      "title": "A Vizinha Perfeita",
+      "short": "Geeta Gandbhir",
+      "category": "MELHOR DOCUMENTÁRIO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg"
     }
   ]
 }
