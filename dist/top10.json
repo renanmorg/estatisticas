@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-23T02:34:45.810Z",
+  "updated": "2026-01-23T03:34:44.512Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 85.5,
+      "pct_adj": 85.8,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
@@ -14,8 +14,8 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
-      "pct_adj": 74.1,
-      "arrow": "same",
+      "pct_adj": 75.7,
+      "arrow": "up",
       "title": "Pecadores",
       "short": "Ryan Coogler",
       "category": "MELHOR ROTEIRO ORIGINAL",
@@ -24,7 +24,7 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 71.5,
+      "pct_adj": 71.9,
       "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
@@ -33,18 +33,8 @@
     },
     {
       "rank": 4,
-      "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 68.1,
-      "arrow": "up",
-      "title": "O Agente Secreto",
-      "short": "Kleber Mendonça Filho",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
-    },
-    {
-      "rank": 5,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
-      "pct_adj": 66.7,
+      "pct_adj": 68.5,
       "arrow": "up",
       "title": "Jessie Buckley",
       "short": "\"Hamnet: A Vida Antes de Hamlet\"",
@@ -52,9 +42,19 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png"
     },
     {
+      "rank": 5,
+      "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
+      "pct_adj": 68.1,
+      "arrow": "down",
+      "title": "O Agente Secreto",
+      "short": "Kleber Mendonça Filho",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
+    },
+    {
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p174/Stellan_Skarsg%C3%A5rd.html",
-      "pct_adj": 61,
+      "pct_adj": 64.6,
       "arrow": "up",
       "title": "Stellan Skarsgård",
       "short": "\"Valor Sentimental\"",
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p409/Avatar%3A_Fogo_e_Cinzas.html",
       "pct_adj": 61,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Avatar: Fogo e Cinzas",
       "short": "Joe Letteri",
       "category": "MELHOR EFEITOS VISUAIS",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p248/Zootopia_2.html",
       "pct_adj": 60.8,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Zootopia 2",
       "short": "Jared Bush e Byron Howard",
       "category": "MELHOR ANIMAÇÃO",
@@ -84,7 +84,7 @@
     {
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p3755/O_Agente_Secreto.html",
-      "pct_adj": 59,
+      "pct_adj": 60.8,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Gabriel Domingues",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p281/Frankenstein.html",
       "pct_adj": 56.6,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Frankenstein",
       "short": "Tamara Deverell",
       "category": "MELHOR DIREÇÃO DE ARTE",
