@@ -1,11 +1,11 @@
 {
-  "updated": "2026-01-24T17:34:49.114Z",
+  "updated": "2026-01-24T18:34:51.837Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 87.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -14,7 +14,7 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 74.5,
+      "pct_adj": 74.7,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
@@ -23,29 +23,29 @@
     },
     {
       "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
+      "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 73,
       "arrow": "up",
-      "title": "Pecadores",
-      "short": "Ryan Coogler",
-      "category": "MELHOR ROTEIRO ORIGINAL",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg"
-    },
-    {
-      "rank": 4,
-      "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 72.8,
-      "arrow": "down",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
     },
     {
+      "rank": 4,
+      "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
+      "pct_adj": 73,
+      "arrow": "down",
+      "title": "Pecadores",
+      "short": "Ryan Coogler",
+      "category": "MELHOR ROTEIRO ORIGINAL",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg"
+    },
+    {
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p332/Sonhos_de_Trem.html",
       "pct_adj": 69.9,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Sonhos de Trem",
       "short": "Adolpho Veloso",
       "category": "MELHOR FOTOGRAFIA",
@@ -63,43 +63,43 @@
     },
     {
       "rank": 7,
+      "url": "https://www.termometrooscar.com/store/p298/Frankenstein.html",
+      "pct_adj": 67.6,
+      "arrow": "up",
+      "title": "Frankenstein",
+      "short": "Kate Hawley",
+      "category": "MELHOR FIGURINO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg"
+    },
+    {
+      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
       "pct_adj": 65.3,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Jessie Buckley",
       "short": "\"Hamnet: A Vida Antes de Hamlet\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/store/p3755/O_Agente_Secreto.html",
       "pct_adj": 65.3,
-      "arrow": "same",
+      "arrow": "down",
       "title": "O Agente Secreto",
       "short": "Gabriel Domingues",
       "category": "MELHOR ESCALAÇÃO DE ELENCO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3755_i1_w640.jpeg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p274/A_Vizinha_Perfeita.html",
       "pct_adj": 64.6,
-      "arrow": "up",
+      "arrow": "down",
       "title": "A Vizinha Perfeita",
       "short": "Geeta Gandbhir",
       "category": "MELHOR DOCUMENTÁRIO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p298/Frankenstein.html",
-      "pct_adj": 64.6,
-      "arrow": "down",
-      "title": "Frankenstein",
-      "short": "Kate Hawley",
-      "category": "MELHOR FIGURINO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg"
     }
   ]
 }
