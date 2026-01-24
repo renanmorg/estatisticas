@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-24T08:34:50.354Z",
+  "updated": "2026-01-24T09:34:45.927Z",
   "items": [
     {
       "rank": 1,
@@ -23,6 +23,16 @@
     },
     {
       "rank": 3,
+      "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
+      "pct_adj": 73.2,
+      "arrow": "same",
+      "title": "Wagner Moura",
+      "short": "\"O Agente Secreto\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
+    },
+    {
+      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
       "pct_adj": 73,
       "arrow": "same",
@@ -32,17 +42,17 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg"
     },
     {
-      "rank": 4,
-      "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 73,
+      "rank": 5,
+      "url": "https://www.termometrooscar.com/store/p332/Sonhos_de_Trem.html",
+      "pct_adj": 65.7,
       "arrow": "same",
-      "title": "Wagner Moura",
-      "short": "\"O Agente Secreto\"",
-      "category": "MELHOR ATOR",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
+      "title": "Sonhos de Trem",
+      "short": "Adolpho Veloso",
+      "category": "MELHOR FOTOGRAFIA",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p332_i16_w800.jpeg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
       "pct_adj": 65.3,
       "arrow": "same",
@@ -52,7 +62,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p281/Frankenstein.html",
       "pct_adj": 64.6,
       "arrow": "same",
@@ -60,16 +70,6 @@
       "short": "Tamara Deverell",
       "category": "MELHOR DIREÇÃO DE ARTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg"
-    },
-    {
-      "rank": 7,
-      "url": "https://www.termometrooscar.com/store/p332/Sonhos_de_Trem.html",
-      "pct_adj": 64,
-      "arrow": "same",
-      "title": "Sonhos de Trem",
-      "short": "Adolpho Veloso",
-      "category": "MELHOR FOTOGRAFIA",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p332_i16_w800.jpeg"
     },
     {
       "rank": 8,
