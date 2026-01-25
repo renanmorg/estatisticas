@@ -1,11 +1,11 @@
 {
-  "updated": "2026-01-25T00:34:44.726Z",
+  "updated": "2026-01-25T01:34:40.331Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 84.8,
-      "arrow": "down",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 74.9,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -93,13 +93,13 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p409/Avatar%3A_Fogo_e_Cinzas.html",
-      "pct_adj": 62.3,
-      "arrow": "same",
-      "title": "Avatar: Fogo e Cinzas",
-      "short": "Joe Letteri",
-      "category": "MELHOR EFEITOS VISUAIS",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p409_i14_w800.jpeg"
+      "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
+      "pct_adj": 63.3,
+      "arrow": "up",
+      "title": "Jessie Buckley",
+      "short": "\"Hamnet: A Vida Antes de Hamlet\"",
+      "category": "MELHOR ATRIZ",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png"
     }
   ]
 }
