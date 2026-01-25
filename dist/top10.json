@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-25T22:34:43.765Z",
+  "updated": "2026-01-25T23:34:47.783Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 86.5,
+      "pct_adj": 86.6,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
@@ -14,7 +14,7 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 78.4,
+      "pct_adj": 78.6,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
@@ -24,8 +24,8 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 77.4,
-      "arrow": "up",
+      "pct_adj": 77.3,
+      "arrow": "down",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p332/Sonhos_de_Trem.html",
       "pct_adj": 76.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Sonhos de Trem",
       "short": "Adolpho Veloso",
       "category": "MELHOR FOTOGRAFIA",
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
       "pct_adj": 76.4,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Pecadores",
       "short": "Ryan Coogler",
       "category": "MELHOR ROTEIRO ORIGINAL",
@@ -54,7 +54,7 @@
     {
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p3755/O_Agente_Secreto.html",
-      "pct_adj": 69.4,
+      "pct_adj": 71.1,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Gabriel Domingues",
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p274/A_Vizinha_Perfeita.html",
       "pct_adj": 67.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Vizinha Perfeita",
       "short": "Geeta Gandbhir",
       "category": "MELHOR DOCUMENTÁRIO",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p448/Pecadores.html",
       "pct_adj": 67.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Pecadores",
       "short": "Ludwig Göransson",
       "category": "MELHOR TRILHA SONORA",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p95/Ryan_Coogler.html",
       "pct_adj": 62.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Ryan Coogler",
       "short": "\"Pecadores\"",
       "category": "MELHOR DIREÇÃO",
@@ -93,13 +93,13 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
-      "pct_adj": 61.6,
-      "arrow": "down",
-      "title": "Jessie Buckley",
-      "short": "\"Hamnet: A Vida Antes de Hamlet\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png"
+      "url": "https://www.termometrooscar.com/store/p281/Frankenstein.html",
+      "pct_adj": 59.6,
+      "arrow": "up",
+      "title": "Frankenstein",
+      "short": "Tamara Deverell",
+      "category": "MELHOR DIREÇÃO DE ARTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg"
     }
   ]
 }
