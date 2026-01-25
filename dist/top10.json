@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-25T19:34:49.325Z",
+  "updated": "2026-01-25T20:34:42.871Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 86.2,
+      "pct_adj": 86.4,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
@@ -15,7 +15,7 @@
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 77.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
@@ -24,7 +24,7 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 77.2,
+      "pct_adj": 77.3,
       "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p332/Sonhos_de_Trem.html",
       "pct_adj": 75,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Sonhos de Trem",
       "short": "Adolpho Veloso",
       "category": "MELHOR FOTOGRAFIA",
@@ -64,7 +64,7 @@
     {
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p3755/O_Agente_Secreto.html",
-      "pct_adj": 68.5,
+      "pct_adj": 69.4,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Gabriel Domingues",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p298/Frankenstein.html",
       "pct_adj": 67.6,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Frankenstein",
       "short": "Kate Hawley",
       "category": "MELHOR FIGURINO",
