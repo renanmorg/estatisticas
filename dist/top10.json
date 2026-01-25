@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-25T18:34:49.845Z",
+  "updated": "2026-01-25T19:34:49.325Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 86.1,
+      "pct_adj": 86.2,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
@@ -14,8 +14,8 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 77.5,
-      "arrow": "same",
+      "pct_adj": 77.8,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
@@ -24,8 +24,8 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 76.7,
-      "arrow": "same",
+      "pct_adj": 77.2,
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -44,8 +44,8 @@
     {
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p332/Sonhos_de_Trem.html",
-      "pct_adj": 74.2,
-      "arrow": "same",
+      "pct_adj": 75,
+      "arrow": "up",
       "title": "Sonhos de Trem",
       "short": "Adolpho Veloso",
       "category": "MELHOR FOTOGRAFIA",
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p281/Frankenstein.html",
       "pct_adj": 70.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Frankenstein",
       "short": "Tamara Deverell",
       "category": "MELHOR DIREÇÃO DE ARTE",
@@ -63,23 +63,23 @@
     },
     {
       "rank": 7,
-      "url": "https://www.termometrooscar.com/store/p298/Frankenstein.html",
-      "pct_adj": 67.6,
-      "arrow": "same",
-      "title": "Frankenstein",
-      "short": "Kate Hawley",
-      "category": "MELHOR FIGURINO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg"
-    },
-    {
-      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p3755/O_Agente_Secreto.html",
-      "pct_adj": 67.5,
-      "arrow": "same",
+      "pct_adj": 68.5,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Gabriel Domingues",
       "category": "MELHOR ESCALAÇÃO DE ELENCO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3755_i1_w640.jpeg"
+    },
+    {
+      "rank": 8,
+      "url": "https://www.termometrooscar.com/store/p298/Frankenstein.html",
+      "pct_adj": 67.6,
+      "arrow": "down",
+      "title": "Frankenstein",
+      "short": "Kate Hawley",
+      "category": "MELHOR FIGURINO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg"
     },
     {
       "rank": 9,
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p448/Pecadores.html",
       "pct_adj": 64.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Pecadores",
       "short": "Ludwig Göransson",
       "category": "MELHOR TRILHA SONORA",
