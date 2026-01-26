@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-26T18:34:54.929Z",
+  "updated": "2026-01-26T19:34:48.583Z",
   "items": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p448/Pecadores.html",
       "pct_adj": 70.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Pecadores",
       "short": "Ludwig Göransson",
       "category": "MELHOR TRILHA SONORA",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p274/A_Vizinha_Perfeita.html",
       "pct_adj": 67.6,
-      "arrow": "down",
+      "arrow": "same",
       "title": "A Vizinha Perfeita",
       "short": "Geeta Gandbhir",
       "category": "MELHOR DOCUMENTÁRIO",
