@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-26T17:35:01.475Z",
+  "updated": "2026-01-26T18:34:54.929Z",
   "items": [
     {
       "rank": 1,
@@ -63,23 +63,23 @@
     },
     {
       "rank": 7,
-      "url": "https://www.termometrooscar.com/store/p274/A_Vizinha_Perfeita.html",
-      "pct_adj": 67.6,
-      "arrow": "same",
-      "title": "A Vizinha Perfeita",
-      "short": "Geeta Gandbhir",
-      "category": "MELHOR DOCUMENTÁRIO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg"
-    },
-    {
-      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p448/Pecadores.html",
-      "pct_adj": 67.6,
-      "arrow": "same",
+      "pct_adj": 70.1,
+      "arrow": "up",
       "title": "Pecadores",
       "short": "Ludwig Göransson",
       "category": "MELHOR TRILHA SONORA",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p448_i17_w800.jpeg"
+    },
+    {
+      "rank": 8,
+      "url": "https://www.termometrooscar.com/store/p274/A_Vizinha_Perfeita.html",
+      "pct_adj": 67.6,
+      "arrow": "down",
+      "title": "A Vizinha Perfeita",
+      "short": "Geeta Gandbhir",
+      "category": "MELHOR DOCUMENTÁRIO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg"
     },
     {
       "rank": 9,
