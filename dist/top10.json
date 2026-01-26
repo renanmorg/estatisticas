@@ -1,11 +1,11 @@
 {
-  "updated": "2026-01-26T20:34:46.895Z",
+  "updated": "2026-01-26T21:34:48.269Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 85.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -13,23 +13,23 @@
     },
     {
       "rank": 2,
-      "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 78.2,
-      "arrow": "up",
-      "title": "Wagner Moura",
-      "short": "\"O Agente Secreto\"",
-      "category": "MELHOR ATOR",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
-    },
-    {
-      "rank": 3,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 78.1,
-      "arrow": "down",
+      "pct_adj": 78.5,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
+    },
+    {
+      "rank": 3,
+      "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
+      "pct_adj": 78.3,
+      "arrow": "down",
+      "title": "Wagner Moura",
+      "short": "\"O Agente Secreto\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
     },
     {
       "rank": 4,
