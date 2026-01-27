@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-27T01:34:47.000Z",
+  "updated": "2026-01-27T02:34:58.000Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 86.1,
+      "pct_adj": 86.2,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
@@ -14,8 +14,8 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 78.9,
-      "arrow": "same",
+      "pct_adj": 79,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 78.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -53,23 +53,23 @@
     },
     {
       "rank": 6,
-      "url": "https://www.termometrooscar.com/store/p3755/O_Agente_Secreto.html",
-      "pct_adj": 74.7,
-      "arrow": "same",
-      "title": "O Agente Secreto",
-      "short": "Gabriel Domingues",
-      "category": "MELHOR ESCALAÇÃO DE ELENCO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3755_i1_w640.jpeg"
-    },
-    {
-      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p448/Pecadores.html",
-      "pct_adj": 74.1,
-      "arrow": "same",
+      "pct_adj": 75.7,
+      "arrow": "up",
       "title": "Pecadores",
       "short": "Ludwig Göransson",
       "category": "MELHOR TRILHA SONORA",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p448_i17_w800.jpeg"
+    },
+    {
+      "rank": 7,
+      "url": "https://www.termometrooscar.com/store/p3755/O_Agente_Secreto.html",
+      "pct_adj": 74.7,
+      "arrow": "down",
+      "title": "O Agente Secreto",
+      "short": "Gabriel Domingues",
+      "category": "MELHOR ESCALAÇÃO DE ELENCO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3755_i1_w640.jpeg"
     },
     {
       "rank": 8,
