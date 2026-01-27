@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27T13:36:14.417Z",
+  "updated": "2026-01-27T14:34:57.336Z",
   "items": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 79.2,
+      "pct_adj": 79.4,
       "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
@@ -24,7 +24,7 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 79,
+      "pct_adj": 79.3,
       "arrow": "same",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
       "pct_adj": 64.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Jessie Buckley",
       "short": "\"Hamnet: A Vida Antes de Hamlet\"",
       "category": "MELHOR ATRIZ",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p95/Ryan_Coogler.html",
       "pct_adj": 64,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Ryan Coogler",
       "short": "\"Pecadores\"",
       "category": "MELHOR DIREÇÃO",
