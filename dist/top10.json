@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-26T23:35:30.974Z",
+  "updated": "2026-01-27T00:34:47.186Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 85.8,
+      "pct_adj": 85.9,
       "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
@@ -14,7 +14,7 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 78.7,
+      "pct_adj": 78.9,
       "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
@@ -54,7 +54,7 @@
     {
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p3755/O_Agente_Secreto.html",
-      "pct_adj": 74,
+      "pct_adj": 74.7,
       "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Gabriel Domingues",
@@ -64,8 +64,8 @@
     {
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p448/Pecadores.html",
-      "pct_adj": 72.2,
-      "arrow": "up",
+      "pct_adj": 74.1,
+      "arrow": "same",
       "title": "Pecadores",
       "short": "Ludwig Göransson",
       "category": "MELHOR TRILHA SONORA",
@@ -84,8 +84,8 @@
     {
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
-      "pct_adj": 62.2,
-      "arrow": "up",
+      "pct_adj": 63.2,
+      "arrow": "same",
       "title": "Jessie Buckley",
       "short": "\"Hamnet: A Vida Antes de Hamlet\"",
       "category": "MELHOR ATRIZ",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p95/Ryan_Coogler.html",
       "pct_adj": 62.1,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Ryan Coogler",
       "short": "\"Pecadores\"",
       "category": "MELHOR DIREÇÃO",
