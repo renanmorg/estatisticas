@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-28T03:34:49.370Z",
+  "updated": "2026-01-28T04:34:43.556Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 87.1,
+      "pct_adj": 87.2,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
@@ -13,28 +13,8 @@
     },
     {
       "rank": 2,
-      "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 79.9,
-      "arrow": "same",
-      "title": "O Agente Secreto",
-      "short": "Kleber Mendonça Filho",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
-    },
-    {
-      "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 79.5,
-      "arrow": "up",
-      "title": "Wagner Moura",
-      "short": "\"O Agente Secreto\"",
-      "category": "MELHOR ATOR",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
-    },
-    {
-      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p332/Sonhos_de_Trem.html",
-      "pct_adj": 79.3,
+      "pct_adj": 80.4,
       "arrow": "up",
       "title": "Sonhos de Trem",
       "short": "Adolpho Veloso",
@@ -42,10 +22,30 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p332_i16_w800.jpeg"
     },
     {
+      "rank": 3,
+      "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
+      "pct_adj": 79.9,
+      "arrow": "down",
+      "title": "O Agente Secreto",
+      "short": "Kleber Mendonça Filho",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
+    },
+    {
+      "rank": 4,
+      "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
+      "pct_adj": 79.7,
+      "arrow": "down",
+      "title": "Wagner Moura",
+      "short": "\"O Agente Secreto\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
+    },
+    {
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p448/Pecadores.html",
-      "pct_adj": 78.5,
-      "arrow": "same",
+      "pct_adj": 79.6,
+      "arrow": "up",
       "title": "Pecadores",
       "short": "Ludwig Göransson",
       "category": "MELHOR TRILHA SONORA",
@@ -84,8 +84,8 @@
     {
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p95/Ryan_Coogler.html",
-      "pct_adj": 65.7,
-      "arrow": "same",
+      "pct_adj": 67.2,
+      "arrow": "up",
       "title": "Ryan Coogler",
       "short": "\"Pecadores\"",
       "category": "MELHOR DIREÇÃO",
