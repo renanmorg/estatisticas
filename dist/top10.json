@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-28T12:34:47.328Z",
+  "updated": "2026-01-28T13:34:54.673Z",
   "items": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 80.4,
+      "pct_adj": 80.6,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p332/Sonhos_de_Trem.html",
       "pct_adj": 80.4,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Sonhos de Trem",
       "short": "Adolpho Veloso",
       "category": "MELHOR FOTOGRAFIA",
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p448/Pecadores.html",
       "pct_adj": 79.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Pecadores",
       "short": "Ludwig Göransson",
       "category": "MELHOR TRILHA SONORA",
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 79.2,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
