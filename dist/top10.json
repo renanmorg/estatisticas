@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-28T20:34:56.535Z",
+  "updated": "2026-01-28T21:34:56.124Z",
   "items": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 79.1,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p3755/O_Agente_Secreto.html",
       "pct_adj": 75.9,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Gabriel Domingues",
       "category": "MELHOR ESCALAÇÃO DE ELENCO",
@@ -93,13 +93,13 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
-      "pct_adj": 65,
-      "arrow": "same",
-      "title": "Jessie Buckley",
-      "short": "\"Hamnet: A Vida Antes de Hamlet\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png"
+      "url": "https://www.termometrooscar.com/store/p298/Frankenstein.html",
+      "pct_adj": 64.6,
+      "arrow": "up",
+      "title": "Frankenstein",
+      "short": "Kate Hawley",
+      "category": "MELHOR FIGURINO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg"
     }
   ]
 }
