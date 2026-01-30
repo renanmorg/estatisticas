@@ -1,11 +1,11 @@
 {
-  "updated": "2026-01-30T21:34:48.603Z",
+  "updated": "2026-01-30T22:34:55.491Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 84.3,
-      "arrow": "same",
+      "pct_adj": 84.4,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -15,7 +15,7 @@
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p332/Sonhos_de_Trem.html",
       "pct_adj": 83.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Sonhos de Trem",
       "short": "Adolpho Veloso",
       "category": "MELHOR FOTOGRAFIA",
@@ -24,8 +24,8 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p448/Pecadores.html",
-      "pct_adj": 80.6,
-      "arrow": "same",
+      "pct_adj": 81.6,
+      "arrow": "up",
       "title": "Pecadores",
       "short": "Ludwig Göransson",
       "category": "MELHOR TRILHA SONORA",
@@ -44,8 +44,8 @@
     {
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
-      "pct_adj": 79,
-      "arrow": "same",
+      "pct_adj": 79.8,
+      "arrow": "up",
       "title": "Pecadores",
       "short": "Ryan Coogler",
       "category": "MELHOR ROTEIRO ORIGINAL",
@@ -54,8 +54,8 @@
     {
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 78.9,
-      "arrow": "same",
+      "pct_adj": 79,
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
