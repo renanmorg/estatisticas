@@ -1,13 +1,407 @@
 window.__ceti_receive({
   "ok": true,
-  "updatedAt": "2026-01-31T02:01:33.757Z",
+  "updatedAt": "2026-01-31T18:15:21.971Z",
   "categorias": {
     "melhor-filme": {
       "display": "Melhor Filme",
       "url": "https://www.termometrooscar.com/melhor-filme.html",
-      "semanas": [],
-      "candidatos": [],
-      "rankingPorSemana": {}
+      "semanas": [
+        "14/03/2026",
+        "07/03/2026",
+        "28/02/2026",
+        "21/02/2026",
+        "14/02/2026",
+        "07/02/2026",
+        "31/01/2026",
+        "24/01/2026",
+        "22/01/2026"
+      ],
+      "candidatos": [
+        {
+          "nome": "Bugonia",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p81_i18_w800.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 25,
+              "posicao": 4
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 30,
+              "posicao": 3
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 30,
+              "posicao": 3
+            }
+          ]
+        },
+        {
+          "nome": "F1: O Filme",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 15,
+              "posicao": 5
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 20,
+              "posicao": 4
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 20,
+              "posicao": 4
+            }
+          ]
+        },
+        {
+          "nome": "Frankenstein",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 15,
+              "posicao": 5
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 20,
+              "posicao": 4
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 20,
+              "posicao": 4
+            }
+          ]
+        },
+        {
+          "nome": "Hamnet: A Vida Antes de Hamlet",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i18_w1080.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 35,
+              "posicao": 3
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 30,
+              "posicao": 3
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 30,
+              "posicao": 3
+            }
+          ]
+        },
+        {
+          "nome": "Marty Supreme",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p83_i18_w961.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 35,
+              "posicao": 3
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 40,
+              "posicao": 2
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 40,
+              "posicao": 2
+            }
+          ]
+        },
+        {
+          "nome": "O Agente Secreto",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 35,
+              "posicao": 3
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 30,
+              "posicao": 3
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 30,
+              "posicao": 3
+            }
+          ]
+        },
+        {
+          "nome": "Pecadores",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 70,
+              "posicao": 1
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 65,
+              "posicao": 1
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 60,
+              "posicao": 1
+            }
+          ]
+        },
+        {
+          "nome": "Sonhos de Trem",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p89_i20_w800.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 15,
+              "posicao": 5
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 20,
+              "posicao": 4
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 20,
+              "posicao": 4
+            }
+          ]
+        },
+        {
+          "nome": "Uma Batalha Após a Outra",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 70,
+              "posicao": 1
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 65,
+              "posicao": 1
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 60,
+              "posicao": 1
+            }
+          ]
+        },
+        {
+          "nome": "Valor Sentimental",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 45,
+              "posicao": 2
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 40,
+              "posicao": 2
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 40,
+              "posicao": 2
+            }
+          ]
+        }
+      ],
+      "rankingPorSemana": {
+        "22/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Pecadores",
+            "percent": 60
+          },
+          {
+            "posicao": 1,
+            "nome": "Uma Batalha Após a Outra",
+            "percent": 60
+          },
+          {
+            "posicao": 2,
+            "nome": "Marty Supreme",
+            "percent": 40
+          },
+          {
+            "posicao": 2,
+            "nome": "Valor Sentimental",
+            "percent": 40
+          },
+          {
+            "posicao": 3,
+            "nome": "Bugonia",
+            "percent": 30
+          },
+          {
+            "posicao": 3,
+            "nome": "Hamnet: A Vida Antes de Hamlet",
+            "percent": 30
+          },
+          {
+            "posicao": 3,
+            "nome": "O Agente Secreto",
+            "percent": 30
+          },
+          {
+            "posicao": 4,
+            "nome": "F1: O Filme",
+            "percent": 20
+          },
+          {
+            "posicao": 4,
+            "nome": "Frankenstein",
+            "percent": 20
+          },
+          {
+            "posicao": 4,
+            "nome": "Sonhos de Trem",
+            "percent": 20
+          }
+        ],
+        "24/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Pecadores",
+            "percent": 65
+          },
+          {
+            "posicao": 1,
+            "nome": "Uma Batalha Após a Outra",
+            "percent": 65
+          },
+          {
+            "posicao": 2,
+            "nome": "Marty Supreme",
+            "percent": 40
+          },
+          {
+            "posicao": 2,
+            "nome": "Valor Sentimental",
+            "percent": 40
+          },
+          {
+            "posicao": 3,
+            "nome": "Bugonia",
+            "percent": 30
+          },
+          {
+            "posicao": 3,
+            "nome": "Hamnet: A Vida Antes de Hamlet",
+            "percent": 30
+          },
+          {
+            "posicao": 3,
+            "nome": "O Agente Secreto",
+            "percent": 30
+          },
+          {
+            "posicao": 4,
+            "nome": "F1: O Filme",
+            "percent": 20
+          },
+          {
+            "posicao": 4,
+            "nome": "Frankenstein",
+            "percent": 20
+          },
+          {
+            "posicao": 4,
+            "nome": "Sonhos de Trem",
+            "percent": 20
+          }
+        ],
+        "31/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Pecadores",
+            "percent": 70
+          },
+          {
+            "posicao": 1,
+            "nome": "Uma Batalha Após a Outra",
+            "percent": 70
+          },
+          {
+            "posicao": 2,
+            "nome": "Valor Sentimental",
+            "percent": 45
+          },
+          {
+            "posicao": 3,
+            "nome": "Hamnet: A Vida Antes de Hamlet",
+            "percent": 35
+          },
+          {
+            "posicao": 3,
+            "nome": "Marty Supreme",
+            "percent": 35
+          },
+          {
+            "posicao": 3,
+            "nome": "O Agente Secreto",
+            "percent": 35
+          },
+          {
+            "posicao": 4,
+            "nome": "Bugonia",
+            "percent": 25
+          },
+          {
+            "posicao": 5,
+            "nome": "F1: O Filme",
+            "percent": 15
+          },
+          {
+            "posicao": 5,
+            "nome": "Frankenstein",
+            "percent": 15
+          },
+          {
+            "posicao": 5,
+            "nome": "Sonhos de Trem",
+            "percent": 15
+          }
+        ],
+        "07/02/2026": [],
+        "14/02/2026": [],
+        "21/02/2026": [],
+        "28/02/2026": [],
+        "07/03/2026": [],
+        "14/03/2026": []
+      }
     },
     "melhor-direcao": {
       "display": "Melhor Direção",
