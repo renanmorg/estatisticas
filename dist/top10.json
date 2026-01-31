@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-31T12:34:46.058Z",
+  "updated": "2026-01-31T13:34:56.383Z",
   "items": [
     {
       "rank": 1,
@@ -73,23 +73,23 @@
     },
     {
       "rank": 8,
-      "url": "https://www.termometrooscar.com/store/p274/A_Vizinha_Perfeita.html",
-      "pct_adj": 72.2,
-      "arrow": "same",
-      "title": "A Vizinha Perfeita",
-      "short": "Geeta Gandbhir",
-      "category": "MELHOR DOCUMENTÁRIO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg"
-    },
-    {
-      "rank": 9,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
-      "pct_adj": 72,
-      "arrow": "same",
+      "pct_adj": 72.5,
+      "arrow": "up",
       "title": "Jessie Buckley",
       "short": "\"Hamnet: A Vida Antes de Hamlet\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png"
+    },
+    {
+      "rank": 9,
+      "url": "https://www.termometrooscar.com/store/p274/A_Vizinha_Perfeita.html",
+      "pct_adj": 72.2,
+      "arrow": "down",
+      "title": "A Vizinha Perfeita",
+      "short": "Geeta Gandbhir",
+      "category": "MELHOR DOCUMENTÁRIO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg"
     },
     {
       "rank": 10,
