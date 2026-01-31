@@ -1,17 +1,11 @@
 window.__ceti_receive({
   "ok": true,
-  "updatedAt": "2026-01-31T18:15:21.971Z",
+  "updatedAt": "2026-01-31T18:18:21.480Z",
   "categorias": {
     "melhor-filme": {
       "display": "Melhor Filme",
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "semanas": [
-        "14/03/2026",
-        "07/03/2026",
-        "28/02/2026",
-        "21/02/2026",
-        "14/02/2026",
-        "07/02/2026",
         "31/01/2026",
         "24/01/2026",
         "22/01/2026"
@@ -394,13 +388,7 @@ window.__ceti_receive({
             "nome": "Sonhos de Trem",
             "percent": 15
           }
-        ],
-        "07/02/2026": [],
-        "14/02/2026": [],
-        "21/02/2026": [],
-        "28/02/2026": [],
-        "07/03/2026": [],
-        "14/03/2026": []
+        ]
       }
     },
     "melhor-direcao": {
