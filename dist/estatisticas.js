@@ -1,6 +1,6 @@
 window.__ceti_receive({
   "ok": true,
-  "updatedAt": "2026-02-01T02:01:37.336Z",
+  "updatedAt": "2026-02-01T03:57:27.665Z",
   "categorias": {
     "melhor-filme": {
       "display": "Melhor Filme",
@@ -814,23 +814,626 @@ window.__ceti_receive({
     "melhor-atriz": {
       "display": "Melhor Atriz",
       "url": "https://www.termometrooscar.com/melhor-atriz.html",
-      "semanas": [],
-      "candidatos": [],
-      "rankingPorSemana": {}
+      "semanas": [
+        "31/01/2026",
+        "24/01/2026",
+        "22/01/2026"
+      ],
+      "candidatos": [
+        {
+          "nome": "Emma Stone",
+          "descricao": "Bugonia",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p138_i16_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 35,
+              "posicao": 3
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 35,
+              "posicao": 3
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 30,
+              "posicao": 3
+            }
+          ]
+        },
+        {
+          "nome": "Jessie Buckley",
+          "descricao": "Hamnet: A Vida Antes de Hamlet",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 70,
+              "posicao": 1
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 60,
+              "posicao": 1
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 50,
+              "posicao": 1
+            }
+          ]
+        },
+        {
+          "nome": "Kate Hudson",
+          "descricao": "Song Sung Blue: Um Sonho a Dois",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p136_i17_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 30,
+              "posicao": 4
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 25,
+              "posicao": 4
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 20,
+              "posicao": 4
+            }
+          ]
+        },
+        {
+          "nome": "Renate Reinsve",
+          "descricao": "Valor Sentimental",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p150_i19_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 35,
+              "posicao": 3
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 35,
+              "posicao": 3
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 30,
+              "posicao": 3
+            }
+          ]
+        },
+        {
+          "nome": "Rose Byrne",
+          "descricao": "Se Eu Tivesse Pernas, Te Chutaria",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p151_i15_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 55,
+              "posicao": 2
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 45,
+              "posicao": 2
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 40,
+              "posicao": 2
+            }
+          ]
+        }
+      ],
+      "rankingPorSemana": {
+        "22/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Jessie Buckley",
+            "percent": 50
+          },
+          {
+            "posicao": 2,
+            "nome": "Rose Byrne",
+            "percent": 40
+          },
+          {
+            "posicao": 3,
+            "nome": "Emma Stone",
+            "percent": 30
+          },
+          {
+            "posicao": 3,
+            "nome": "Renate Reinsve",
+            "percent": 30
+          },
+          {
+            "posicao": 4,
+            "nome": "Kate Hudson",
+            "percent": 20
+          }
+        ],
+        "24/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Jessie Buckley",
+            "percent": 60
+          },
+          {
+            "posicao": 2,
+            "nome": "Rose Byrne",
+            "percent": 45
+          },
+          {
+            "posicao": 3,
+            "nome": "Emma Stone",
+            "percent": 35
+          },
+          {
+            "posicao": 3,
+            "nome": "Renate Reinsve",
+            "percent": 35
+          },
+          {
+            "posicao": 4,
+            "nome": "Kate Hudson",
+            "percent": 25
+          }
+        ],
+        "31/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Jessie Buckley",
+            "percent": 70
+          },
+          {
+            "posicao": 2,
+            "nome": "Rose Byrne",
+            "percent": 55
+          },
+          {
+            "posicao": 3,
+            "nome": "Emma Stone",
+            "percent": 35
+          },
+          {
+            "posicao": 3,
+            "nome": "Renate Reinsve",
+            "percent": 35
+          },
+          {
+            "posicao": 4,
+            "nome": "Kate Hudson",
+            "percent": 30
+          }
+        ]
+      }
     },
     "melhor-ator-coadjuvante": {
       "display": "Melhor Ator Coadjuvante",
       "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
-      "semanas": [],
-      "candidatos": [],
-      "rankingPorSemana": {}
+      "semanas": [
+        "14/03/2026",
+        "07/03/2026",
+        "28/02/2026",
+        "21/02/2026",
+        "14/02/2026",
+        "07/02/2026",
+        "31/01/2026",
+        "24/01/2026",
+        "22/01/2026"
+      ],
+      "candidatos": [
+        {
+          "nome": "Benicio del Toro",
+          "descricao": "Uma Batalha Após a Outra",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p169_i18_w800.png",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 55,
+              "posicao": 2
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 50,
+              "posicao": 2
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 50,
+              "posicao": 1
+            }
+          ]
+        },
+        {
+          "nome": "Delroy Lindo",
+          "descricao": "Pecadores",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p158_i20_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 25,
+              "posicao": 5
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 20,
+              "posicao": 5
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 20,
+              "posicao": 3
+            }
+          ]
+        },
+        {
+          "nome": "Jacob Elordi",
+          "descricao": "Frankenstein",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p171_i15_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 30,
+              "posicao": 4
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 25,
+              "posicao": 4
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 30,
+              "posicao": 2
+            }
+          ]
+        },
+        {
+          "nome": "Sean Penn",
+          "descricao": "Uma Batalha Após a Outra",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i15_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 40,
+              "posicao": 3
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 45,
+              "posicao": 3
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 50,
+              "posicao": 1
+            }
+          ]
+        },
+        {
+          "nome": "Stellan Skarsgård",
+          "descricao": "Valor Sentimental",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 60,
+              "posicao": 1
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 55,
+              "posicao": 1
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 50,
+              "posicao": 1
+            }
+          ]
+        }
+      ],
+      "rankingPorSemana": {
+        "22/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Benicio del Toro",
+            "percent": 50
+          },
+          {
+            "posicao": 1,
+            "nome": "Sean Penn",
+            "percent": 50
+          },
+          {
+            "posicao": 1,
+            "nome": "Stellan Skarsgård",
+            "percent": 50
+          },
+          {
+            "posicao": 2,
+            "nome": "Jacob Elordi",
+            "percent": 30
+          },
+          {
+            "posicao": 3,
+            "nome": "Delroy Lindo",
+            "percent": 20
+          }
+        ],
+        "24/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Stellan Skarsgård",
+            "percent": 55
+          },
+          {
+            "posicao": 2,
+            "nome": "Benicio del Toro",
+            "percent": 50
+          },
+          {
+            "posicao": 3,
+            "nome": "Sean Penn",
+            "percent": 45
+          },
+          {
+            "posicao": 4,
+            "nome": "Jacob Elordi",
+            "percent": 25
+          },
+          {
+            "posicao": 5,
+            "nome": "Delroy Lindo",
+            "percent": 20
+          }
+        ],
+        "31/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Stellan Skarsgård",
+            "percent": 60
+          },
+          {
+            "posicao": 2,
+            "nome": "Benicio del Toro",
+            "percent": 55
+          },
+          {
+            "posicao": 3,
+            "nome": "Sean Penn",
+            "percent": 40
+          },
+          {
+            "posicao": 4,
+            "nome": "Jacob Elordi",
+            "percent": 30
+          },
+          {
+            "posicao": 5,
+            "nome": "Delroy Lindo",
+            "percent": 25
+          }
+        ],
+        "07/02/2026": [],
+        "14/02/2026": [],
+        "21/02/2026": [],
+        "28/02/2026": [],
+        "07/03/2026": [],
+        "14/03/2026": []
+      }
     },
     "melhor-atriz-coadjuvante": {
       "display": "Melhor Atriz Coadjuvante",
       "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
-      "semanas": [],
-      "candidatos": [],
-      "rankingPorSemana": {}
+      "semanas": [
+        "31/01/2026",
+        "24/01/2026",
+        "22/01/2026"
+      ],
+      "candidatos": [
+        {
+          "nome": "Amy Madigan",
+          "descricao": "A Hora do Mal",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 60,
+              "posicao": 1
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 55,
+              "posicao": 1
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 50,
+              "posicao": 1
+            }
+          ]
+        },
+        {
+          "nome": "Elle Fanning",
+          "descricao": "Valor Sentimental",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p175_i18_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 20,
+              "posicao": 3
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 20,
+              "posicao": 3
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 20,
+              "posicao": 3
+            }
+          ]
+        },
+        {
+          "nome": "Inga Ibsdotter Lilleaas",
+          "descricao": "Valor Sentimental",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p190_i18_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 30,
+              "posicao": 2
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 30,
+              "posicao": 2
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 30,
+              "posicao": 2
+            }
+          ]
+        },
+        {
+          "nome": "Teyana Taylor",
+          "descricao": "Uma Batalha Após a Outra",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p193_i19_w800.png",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 60,
+              "posicao": 1
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 55,
+              "posicao": 1
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 50,
+              "posicao": 1
+            }
+          ]
+        },
+        {
+          "nome": "Wunmi Mosaku",
+          "descricao": "Pecadores",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3503_i2_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 20,
+              "posicao": 3
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 20,
+              "posicao": 3
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 20,
+              "posicao": 3
+            }
+          ]
+        }
+      ],
+      "rankingPorSemana": {
+        "22/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Amy Madigan",
+            "percent": 50
+          },
+          {
+            "posicao": 1,
+            "nome": "Teyana Taylor",
+            "percent": 50
+          },
+          {
+            "posicao": 2,
+            "nome": "Inga Ibsdotter Lilleaas",
+            "percent": 30
+          },
+          {
+            "posicao": 3,
+            "nome": "Elle Fanning",
+            "percent": 20
+          },
+          {
+            "posicao": 3,
+            "nome": "Wunmi Mosaku",
+            "percent": 20
+          }
+        ],
+        "24/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Amy Madigan",
+            "percent": 55
+          },
+          {
+            "posicao": 1,
+            "nome": "Teyana Taylor",
+            "percent": 55
+          },
+          {
+            "posicao": 2,
+            "nome": "Inga Ibsdotter Lilleaas",
+            "percent": 30
+          },
+          {
+            "posicao": 3,
+            "nome": "Elle Fanning",
+            "percent": 20
+          },
+          {
+            "posicao": 3,
+            "nome": "Wunmi Mosaku",
+            "percent": 20
+          }
+        ],
+        "31/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Amy Madigan",
+            "percent": 60
+          },
+          {
+            "posicao": 1,
+            "nome": "Teyana Taylor",
+            "percent": 60
+          },
+          {
+            "posicao": 2,
+            "nome": "Inga Ibsdotter Lilleaas",
+            "percent": 30
+          },
+          {
+            "posicao": 3,
+            "nome": "Elle Fanning",
+            "percent": 20
+          },
+          {
+            "posicao": 3,
+            "nome": "Wunmi Mosaku",
+            "percent": 20
+          }
+        ]
+      }
     },
     "melhor-roteiro-original": {
       "display": "Melhor Roteiro Original",
