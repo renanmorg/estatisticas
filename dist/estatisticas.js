@@ -1,6 +1,6 @@
 window.__ceti_receive({
   "ok": true,
-  "updatedAt": "2026-01-31T18:18:21.480Z",
+  "updatedAt": "2026-02-01T02:01:37.336Z",
   "categorias": {
     "melhor-filme": {
       "display": "Melhor Filme",
@@ -394,16 +394,422 @@ window.__ceti_receive({
     "melhor-direcao": {
       "display": "Melhor Direção",
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
-      "semanas": [],
-      "candidatos": [],
-      "rankingPorSemana": {}
+      "semanas": [
+        "31/01/2026",
+        "24/01/2026",
+        "22/01/2026"
+      ],
+      "candidatos": [
+        {
+          "nome": "Chloé Zhao",
+          "descricao": "Hamnet: A Vida Antes de Hamlet",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 30,
+              "posicao": 3
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 40,
+              "posicao": 3
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 40,
+              "posicao": 3
+            }
+          ]
+        },
+        {
+          "nome": "Joachim Trier",
+          "descricao": "Valor Sentimental",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p113_i15_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 30,
+              "posicao": 3
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 40,
+              "posicao": 3
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 40,
+              "posicao": 3
+            }
+          ]
+        },
+        {
+          "nome": "Josh Safdie",
+          "descricao": "Marty Supreme",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p104_i18_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 5,
+              "posicao": 4
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 40,
+              "posicao": 3
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 40,
+              "posicao": 3
+            }
+          ]
+        },
+        {
+          "nome": "Paul Thomas Anderson",
+          "descricao": "Uma Batalha Após a Outra",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 80,
+              "posicao": 1
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 75,
+              "posicao": 1
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 80,
+              "posicao": 1
+            }
+          ]
+        },
+        {
+          "nome": "Ryan Coogler",
+          "descricao": "Pecadores",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p95_i14_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 65,
+              "posicao": 2
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 60,
+              "posicao": 2
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 50,
+              "posicao": 2
+            }
+          ]
+        }
+      ],
+      "rankingPorSemana": {
+        "22/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Paul Thomas Anderson",
+            "percent": 80
+          },
+          {
+            "posicao": 2,
+            "nome": "Ryan Coogler",
+            "percent": 50
+          },
+          {
+            "posicao": 3,
+            "nome": "Chloé Zhao",
+            "percent": 40
+          },
+          {
+            "posicao": 3,
+            "nome": "Joachim Trier",
+            "percent": 40
+          },
+          {
+            "posicao": 3,
+            "nome": "Josh Safdie",
+            "percent": 40
+          }
+        ],
+        "24/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Paul Thomas Anderson",
+            "percent": 75
+          },
+          {
+            "posicao": 2,
+            "nome": "Ryan Coogler",
+            "percent": 60
+          },
+          {
+            "posicao": 3,
+            "nome": "Chloé Zhao",
+            "percent": 40
+          },
+          {
+            "posicao": 3,
+            "nome": "Joachim Trier",
+            "percent": 40
+          },
+          {
+            "posicao": 3,
+            "nome": "Josh Safdie",
+            "percent": 40
+          }
+        ],
+        "31/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Paul Thomas Anderson",
+            "percent": 80
+          },
+          {
+            "posicao": 2,
+            "nome": "Ryan Coogler",
+            "percent": 65
+          },
+          {
+            "posicao": 3,
+            "nome": "Chloé Zhao",
+            "percent": 30
+          },
+          {
+            "posicao": 3,
+            "nome": "Joachim Trier",
+            "percent": 30
+          },
+          {
+            "posicao": 4,
+            "nome": "Josh Safdie",
+            "percent": 5
+          }
+        ]
+      }
     },
     "melhor-ator": {
       "display": "Melhor Ator",
       "url": "https://www.termometrooscar.com/melhor-ator.html",
-      "semanas": [],
-      "candidatos": [],
-      "rankingPorSemana": {}
+      "semanas": [
+        "14/03/2026",
+        "07/03/2026",
+        "28/02/2026",
+        "21/02/2026",
+        "14/02/2026",
+        "07/02/2026",
+        "31/01/2026",
+        "24/01/2026",
+        "22/01/2026"
+      ],
+      "candidatos": [
+        {
+          "nome": "Ethan Hawke",
+          "descricao": "Blue Moon",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p134_i18_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 50,
+              "posicao": 2
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 40,
+              "posicao": 2
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 30,
+              "posicao": 3
+            }
+          ]
+        },
+        {
+          "nome": "Leonardo DiCaprio",
+          "descricao": "Uma Batalha Após a Outra",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p116_i16_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 25,
+              "posicao": 4
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 30,
+              "posicao": 3
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 30,
+              "posicao": 3
+            }
+          ]
+        },
+        {
+          "nome": "Michael B. Jordan",
+          "descricao": "Pecadores",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p121_i20_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 20,
+              "posicao": 5
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 20,
+              "posicao": 4
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 20,
+              "posicao": 4
+            }
+          ]
+        },
+        {
+          "nome": "Timothée Chalamet",
+          "descricao": "Marty Supreme",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p122_i14_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 60,
+              "posicao": 1
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 55,
+              "posicao": 1
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 50,
+              "posicao": 1
+            }
+          ]
+        },
+        {
+          "nome": "Wagner Moura",
+          "descricao": "O Agente Secreto",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 35,
+              "posicao": 3
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 40,
+              "posicao": 2
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 40,
+              "posicao": 2
+            }
+          ]
+        }
+      ],
+      "rankingPorSemana": {
+        "22/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Timothée Chalamet",
+            "percent": 50
+          },
+          {
+            "posicao": 2,
+            "nome": "Wagner Moura",
+            "percent": 40
+          },
+          {
+            "posicao": 3,
+            "nome": "Ethan Hawke",
+            "percent": 30
+          },
+          {
+            "posicao": 3,
+            "nome": "Leonardo DiCaprio",
+            "percent": 30
+          },
+          {
+            "posicao": 4,
+            "nome": "Michael B. Jordan",
+            "percent": 20
+          }
+        ],
+        "24/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Timothée Chalamet",
+            "percent": 55
+          },
+          {
+            "posicao": 2,
+            "nome": "Ethan Hawke",
+            "percent": 40
+          },
+          {
+            "posicao": 2,
+            "nome": "Wagner Moura",
+            "percent": 40
+          },
+          {
+            "posicao": 3,
+            "nome": "Leonardo DiCaprio",
+            "percent": 30
+          },
+          {
+            "posicao": 4,
+            "nome": "Michael B. Jordan",
+            "percent": 20
+          }
+        ],
+        "31/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Timothée Chalamet",
+            "percent": 60
+          },
+          {
+            "posicao": 2,
+            "nome": "Ethan Hawke",
+            "percent": 50
+          },
+          {
+            "posicao": 3,
+            "nome": "Wagner Moura",
+            "percent": 35
+          },
+          {
+            "posicao": 4,
+            "nome": "Leonardo DiCaprio",
+            "percent": 25
+          },
+          {
+            "posicao": 5,
+            "nome": "Michael B. Jordan",
+            "percent": 20
+          }
+        ],
+        "07/02/2026": [],
+        "14/02/2026": [],
+        "21/02/2026": [],
+        "28/02/2026": [],
+        "07/03/2026": [],
+        "14/03/2026": []
+      }
     },
     "melhor-atriz": {
       "display": "Melhor Atriz",
