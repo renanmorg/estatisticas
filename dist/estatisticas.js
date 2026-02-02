@@ -1,6 +1,6 @@
 window.__ceti_receive({
   "ok": true,
-  "updatedAt": "2026-02-02T00:34:41.146Z",
+  "updatedAt": "2026-02-02T00:41:53.467Z",
   "categorias": {
     "melhor-filme": {
       "display": "Melhor Filme",
@@ -1426,16 +1426,410 @@ window.__ceti_receive({
     "melhor-roteiro-original": {
       "display": "Melhor Roteiro Original",
       "url": "https://www.termometrooscar.com/melhor-roteiro-original.html",
-      "semanas": [],
-      "candidatos": [],
-      "rankingPorSemana": {}
+      "semanas": [
+        "31/01/2026",
+        "24/01/2026",
+        "22/01/2026"
+      ],
+      "candidatos": [
+        {
+          "nome": "Blue Moon",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p198_i13_w800.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 10,
+              "posicao": 4
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 10,
+              "posicao": 4
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 20,
+              "posicao": 4
+            }
+          ]
+        },
+        {
+          "nome": "Foi Apenas Um Acidente",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p213_i12_w800.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 10,
+              "posicao": 4
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 10,
+              "posicao": 4
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 20,
+              "posicao": 4
+            }
+          ]
+        },
+        {
+          "nome": "Marty Supreme",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p195_i12_w800.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 20,
+              "posicao": 3
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 20,
+              "posicao": 3
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 30,
+              "posicao": 3
+            }
+          ]
+        },
+        {
+          "nome": "Pecadores",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 80,
+              "posicao": 1
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 70,
+              "posicao": 1
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 70,
+              "posicao": 1
+            }
+          ]
+        },
+        {
+          "nome": "Valor Sentimental",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p197_i10_w800.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 40,
+              "posicao": 2
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 30,
+              "posicao": 2
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 40,
+              "posicao": 2
+            }
+          ]
+        }
+      ],
+      "rankingPorSemana": {
+        "22/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Pecadores",
+            "percent": 70
+          },
+          {
+            "posicao": 2,
+            "nome": "Valor Sentimental",
+            "percent": 40
+          },
+          {
+            "posicao": 3,
+            "nome": "Marty Supreme",
+            "percent": 30
+          },
+          {
+            "posicao": 4,
+            "nome": "Blue Moon",
+            "percent": 20
+          },
+          {
+            "posicao": 4,
+            "nome": "Foi Apenas Um Acidente",
+            "percent": 20
+          }
+        ],
+        "24/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Pecadores",
+            "percent": 70
+          },
+          {
+            "posicao": 2,
+            "nome": "Valor Sentimental",
+            "percent": 30
+          },
+          {
+            "posicao": 3,
+            "nome": "Marty Supreme",
+            "percent": 20
+          },
+          {
+            "posicao": 4,
+            "nome": "Blue Moon",
+            "percent": 10
+          },
+          {
+            "posicao": 4,
+            "nome": "Foi Apenas Um Acidente",
+            "percent": 10
+          }
+        ],
+        "31/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Pecadores",
+            "percent": 80
+          },
+          {
+            "posicao": 2,
+            "nome": "Valor Sentimental",
+            "percent": 40
+          },
+          {
+            "posicao": 3,
+            "nome": "Marty Supreme",
+            "percent": 20
+          },
+          {
+            "posicao": 4,
+            "nome": "Blue Moon",
+            "percent": 10
+          },
+          {
+            "posicao": 4,
+            "nome": "Foi Apenas Um Acidente",
+            "percent": 10
+          }
+        ]
+      }
     },
     "melhor-roteiro-adaptado": {
       "display": "Melhor Roteiro Adaptado",
       "url": "https://www.termometrooscar.com/melhor-roteiro-adaptado.html",
-      "semanas": [],
-      "candidatos": [],
-      "rankingPorSemana": {}
+      "semanas": [
+        "31/01/2026",
+        "24/01/2026",
+        "22/01/2026"
+      ],
+      "candidatos": [
+        {
+          "nome": "Bugonia",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p234_i16_w800.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 30,
+              "posicao": 3
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 30,
+              "posicao": 3
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 30,
+              "posicao": 2
+            }
+          ]
+        },
+        {
+          "nome": "Frankenstein",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p223_i15_w800.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 20,
+              "posicao": 4
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 20,
+              "posicao": 4
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 30,
+              "posicao": 2
+            }
+          ]
+        },
+        {
+          "nome": "Hamnet: A Vida Antes de Hamlet",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p227_i17_w800.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 40,
+              "posicao": 2
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 35,
+              "posicao": 2
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 30,
+              "posicao": 2
+            }
+          ]
+        },
+        {
+          "nome": "Sonhos de Trem",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p231_i15_w800.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 10,
+              "posicao": 5
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 10,
+              "posicao": 5
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 20,
+              "posicao": 3
+            }
+          ]
+        },
+        {
+          "nome": "Uma Batalha Após a Outra",
+          "descricao": "",
+          "imagem": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p230_i14_w800.jpeg?width=640",
+          "historico": [
+            {
+              "semana": "31/01/2026",
+              "percent": 70,
+              "posicao": 1
+            },
+            {
+              "semana": "24/01/2026",
+              "percent": 60,
+              "posicao": 1
+            },
+            {
+              "semana": "22/01/2026",
+              "percent": 50,
+              "posicao": 1
+            }
+          ]
+        }
+      ],
+      "rankingPorSemana": {
+        "22/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Uma Batalha Após a Outra",
+            "percent": 50
+          },
+          {
+            "posicao": 2,
+            "nome": "Bugonia",
+            "percent": 30
+          },
+          {
+            "posicao": 2,
+            "nome": "Frankenstein",
+            "percent": 30
+          },
+          {
+            "posicao": 2,
+            "nome": "Hamnet: A Vida Antes de Hamlet",
+            "percent": 30
+          },
+          {
+            "posicao": 3,
+            "nome": "Sonhos de Trem",
+            "percent": 20
+          }
+        ],
+        "24/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Uma Batalha Após a Outra",
+            "percent": 60
+          },
+          {
+            "posicao": 2,
+            "nome": "Hamnet: A Vida Antes de Hamlet",
+            "percent": 35
+          },
+          {
+            "posicao": 3,
+            "nome": "Bugonia",
+            "percent": 30
+          },
+          {
+            "posicao": 4,
+            "nome": "Frankenstein",
+            "percent": 20
+          },
+          {
+            "posicao": 5,
+            "nome": "Sonhos de Trem",
+            "percent": 10
+          }
+        ],
+        "31/01/2026": [
+          {
+            "posicao": 1,
+            "nome": "Uma Batalha Após a Outra",
+            "percent": 70
+          },
+          {
+            "posicao": 2,
+            "nome": "Hamnet: A Vida Antes de Hamlet",
+            "percent": 40
+          },
+          {
+            "posicao": 3,
+            "nome": "Bugonia",
+            "percent": 30
+          },
+          {
+            "posicao": 4,
+            "nome": "Frankenstein",
+            "percent": 20
+          },
+          {
+            "posicao": 5,
+            "nome": "Sonhos de Trem",
+            "percent": 10
+          }
+        ]
+      }
     },
     "melhor-filme-internacional": {
       "display": "Melhor Filme Internacional",
