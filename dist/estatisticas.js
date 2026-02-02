@@ -1,6 +1,6 @@
 window.__ceti_receive({
   "ok": true,
-  "updatedAt": "2026-02-01T03:57:27.665Z",
+  "updatedAt": "2026-02-02T00:34:41.146Z",
   "categorias": {
     "melhor-filme": {
       "display": "Melhor Filme",
@@ -599,12 +599,6 @@ window.__ceti_receive({
       "display": "Melhor Ator",
       "url": "https://www.termometrooscar.com/melhor-ator.html",
       "semanas": [
-        "14/03/2026",
-        "07/03/2026",
-        "28/02/2026",
-        "21/02/2026",
-        "14/02/2026",
-        "07/02/2026",
         "31/01/2026",
         "24/01/2026",
         "22/01/2026"
@@ -802,13 +796,7 @@ window.__ceti_receive({
             "nome": "Michael B. Jordan",
             "percent": 20
           }
-        ],
-        "07/02/2026": [],
-        "14/02/2026": [],
-        "21/02/2026": [],
-        "28/02/2026": [],
-        "07/03/2026": [],
-        "14/03/2026": []
+        ]
       }
     },
     "melhor-atriz": {
