@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-07T21:34:49.132Z",
+  "updated": "2026-02-07T22:34:46.348Z",
   "items": [
     {
       "rank": 1,
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p448/Pecadores.html",
       "pct_adj": 85.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Pecadores",
       "short": "Ludwig Göransson",
       "category": "MELHOR TRILHA SONORA",
@@ -44,8 +44,8 @@
     {
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 80,
-      "arrow": "same",
+      "pct_adj": 80.1,
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
