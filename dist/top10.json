@@ -1,11 +1,11 @@
 {
-  "updated": "2026-02-10T22:34:44.998Z",
+  "updated": "2026-02-10T23:34:48.820Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p332/Sonhos_de_Trem.html",
-      "pct_adj": 88.3,
-      "arrow": "same",
+      "pct_adj": 88.5,
+      "arrow": "up",
       "title": "Sonhos de Trem",
       "short": "Adolpho Veloso",
       "category": "MELHOR FOTOGRAFIA",
@@ -24,7 +24,7 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 86.3,
+      "pct_adj": 86.4,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
       "pct_adj": 84.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Pecadores",
       "short": "Ryan Coogler",
       "category": "MELHOR ROTEIRO ORIGINAL",
@@ -44,8 +44,8 @@
     {
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
-      "pct_adj": 80.8,
-      "arrow": "same",
+      "pct_adj": 81,
+      "arrow": "up",
       "title": "Jessie Buckley",
       "short": "\"Hamnet: A Vida Antes de Hamlet\"",
       "category": "MELHOR ATRIZ",
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 79.9,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -64,7 +64,7 @@
     {
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 79.4,
+      "pct_adj": 79.5,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
