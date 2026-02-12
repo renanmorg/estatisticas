@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-12T15:34:59.273Z",
+  "updated": "2026-02-12T16:35:01.571Z",
   "items": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 79.9,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
@@ -93,13 +93,13 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p274/A_Vizinha_Perfeita.html",
-      "pct_adj": 70.2,
-      "arrow": "same",
-      "title": "A Vizinha Perfeita",
-      "short": "Geeta Gandbhir",
-      "category": "MELHOR DOCUMENTÁRIO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg"
+      "url": "https://www.termometrooscar.com/store/p75/Hamnet%3A_A_Vida_Antes_de_Hamlet.html",
+      "pct_adj": 69.6,
+      "arrow": "up",
+      "title": "Hamnet: A Vida Antes de Hamlet",
+      "short": "Chloe Zhao, Sam Mendes e Steven Spielberg",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i18_w1080.jpeg"
     }
   ]
 }
