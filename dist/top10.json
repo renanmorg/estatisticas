@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-15T22:34:47.594Z",
+  "updated": "2026-02-15T23:34:56.510Z",
   "items": [
     {
       "rank": 1,
@@ -53,6 +53,16 @@
     },
     {
       "rank": 6,
+      "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
+      "pct_adj": 80.6,
+      "arrow": "up",
+      "title": "O Agente Secreto",
+      "short": "Kleber Mendonça Filho",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
+    },
+    {
+      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 80.6,
       "arrow": "down",
@@ -62,20 +72,10 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
     },
     {
-      "rank": 7,
-      "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 80.5,
-      "arrow": "up",
-      "title": "O Agente Secreto",
-      "short": "Kleber Mendonça Filho",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
-    },
-    {
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p3755/O_Agente_Secreto.html",
       "pct_adj": 80.5,
-      "arrow": "down",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Gabriel Domingues",
       "category": "MELHOR ESCALAÇÃO DE ELENCO",
