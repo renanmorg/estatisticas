@@ -1,11 +1,11 @@
 {
-  "updated": "2026-02-16T14:34:59.168Z",
+  "updated": "2026-02-16T15:34:50.758Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p332/Sonhos_de_Trem.html",
       "pct_adj": 89.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Sonhos de Trem",
       "short": "Adolpho Veloso",
       "category": "MELHOR FOTOGRAFIA",
@@ -24,7 +24,7 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 84.4,
+      "pct_adj": 84.5,
       "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
@@ -34,8 +34,8 @@
     {
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
-      "pct_adj": 82.7,
-      "arrow": "same",
+      "pct_adj": 82.9,
+      "arrow": "up",
       "title": "Jessie Buckley",
       "short": "\"Hamnet: A Vida Antes de Hamlet\"",
       "category": "MELHOR ATRIZ",
@@ -63,16 +63,6 @@
     },
     {
       "rank": 7,
-      "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 80.2,
-      "arrow": "up",
-      "title": "O Agente Secreto",
-      "short": "Kleber Mendonça Filho",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
-    },
-    {
-      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 80.2,
       "arrow": "up",
@@ -80,6 +70,16 @@
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
+    },
+    {
+      "rank": 8,
+      "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
+      "pct_adj": 80.2,
+      "arrow": "down",
+      "title": "O Agente Secreto",
+      "short": "Kleber Mendonça Filho",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
     },
     {
       "rank": 9,
