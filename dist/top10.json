@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-19T17:34:56.164Z",
+  "updated": "2026-02-19T18:35:05.460Z",
   "items": [
     {
       "rank": 1,
@@ -33,23 +33,23 @@
     },
     {
       "rank": 4,
-      "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
-      "pct_adj": 83.3,
-      "arrow": "same",
-      "title": "Jessie Buckley",
-      "short": "\"Hamnet: A Vida Antes de Hamlet\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png"
-    },
-    {
-      "rank": 5,
       "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
       "pct_adj": 82.7,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Pecadores",
       "short": "Ryan Coogler",
       "category": "MELHOR ROTEIRO ORIGINAL",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg"
+    },
+    {
+      "rank": 5,
+      "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
+      "pct_adj": 82.4,
+      "arrow": "down",
+      "title": "Jessie Buckley",
+      "short": "\"Hamnet: A Vida Antes de Hamlet\"",
+      "category": "MELHOR ATRIZ",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png"
     },
     {
       "rank": 6,
