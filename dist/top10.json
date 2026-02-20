@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-20T22:34:46.884Z",
+  "updated": "2026-02-20T23:34:47.546Z",
   "items": [
     {
       "rank": 1,
@@ -33,23 +33,23 @@
     },
     {
       "rank": 4,
-      "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
-      "pct_adj": 82.7,
-      "arrow": "same",
-      "title": "Pecadores",
-      "short": "Ryan Coogler",
-      "category": "MELHOR ROTEIRO ORIGINAL",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg"
-    },
-    {
-      "rank": 5,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
-      "pct_adj": 82.6,
-      "arrow": "same",
+      "pct_adj": 82.7,
+      "arrow": "up",
       "title": "Jessie Buckley",
       "short": "\"Hamnet: A Vida Antes de Hamlet\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png"
+    },
+    {
+      "rank": 5,
+      "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
+      "pct_adj": 82.7,
+      "arrow": "down",
+      "title": "Pecadores",
+      "short": "Ryan Coogler",
+      "category": "MELHOR ROTEIRO ORIGINAL",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg"
     },
     {
       "rank": 6,
@@ -94,8 +94,8 @@
     {
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p75/Hamnet%3A_A_Vida_Antes_de_Hamlet.html",
-      "pct_adj": 73.6,
-      "arrow": "same",
+      "pct_adj": 73.9,
+      "arrow": "up",
       "title": "Hamnet: A Vida Antes de Hamlet",
       "short": "Chloe Zhao, Sam Mendes e Steven Spielberg",
       "category": "MELHOR FILME",
