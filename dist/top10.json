@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-24T13:34:48.277Z",
+  "updated": "2026-02-24T14:34:51.702Z",
   "items": [
     {
       "rank": 1,
@@ -63,33 +63,33 @@
     },
     {
       "rank": 7,
-      "url": "https://www.termometrooscar.com/store/p3755/O_Agente_Secreto.html",
-      "pct_adj": 80.8,
-      "arrow": "same",
-      "title": "O Agente Secreto",
-      "short": "Gabriel Domingues",
-      "category": "MELHOR ESCALAÇÃO DE ELENCO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3755_i1_w640.jpeg"
-    },
-    {
-      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p298/Frankenstein.html",
       "pct_adj": 80.5,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Frankenstein",
       "short": "Kate Hawley",
       "category": "MELHOR FIGURINO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 79.9,
-      "arrow": "same",
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg"
+    },
+    {
+      "rank": 9,
+      "url": "https://www.termometrooscar.com/store/p3755/O_Agente_Secreto.html",
+      "pct_adj": 79.3,
+      "arrow": "down",
+      "title": "O Agente Secreto",
+      "short": "Gabriel Domingues",
+      "category": "MELHOR ESCALAÇÃO DE ELENCO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3755_i1_w640.jpeg"
     },
     {
       "rank": 10,
