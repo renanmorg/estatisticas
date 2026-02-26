@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-26T02:34:50.360Z",
+  "updated": "2026-02-26T03:35:00.070Z",
   "items": [
     {
       "rank": 1,
@@ -24,8 +24,8 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 86.3,
-      "arrow": "up",
+      "pct_adj": 85.9,
+      "arrow": "down",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -44,8 +44,8 @@
     {
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
-      "pct_adj": 82.4,
-      "arrow": "same",
+      "pct_adj": 82.5,
+      "arrow": "up",
       "title": "Jessie Buckley",
       "short": "\"Hamnet: A Vida Antes de Hamlet\"",
       "category": "MELHOR ATRIZ",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 79.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
@@ -94,8 +94,8 @@
     {
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p75/Hamnet%3A_A_Vida_Antes_de_Hamlet.html",
-      "pct_adj": 76.2,
-      "arrow": "same",
+      "pct_adj": 76.4,
+      "arrow": "up",
       "title": "Hamnet: A Vida Antes de Hamlet",
       "short": "Chloe Zhao, Sam Mendes e Steven Spielberg",
       "category": "MELHOR FILME",
