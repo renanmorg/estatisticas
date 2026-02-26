@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-26T17:34:51.808Z",
+  "updated": "2026-02-26T18:34:57.506Z",
   "items": [
     {
       "rank": 1,
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 86,
-      "arrow": "same",
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -33,13 +33,13 @@
     },
     {
       "rank": 4,
-      "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
+      "url": "https://www.termometrooscar.com/melhor-roteiro-original.html",
       "pct_adj": 83.9,
       "arrow": "same",
-      "title": "Pecadores",
-      "short": "Ryan Coogler",
-      "category": "MELHOR ROTEIRO ORIGINAL",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg"
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     },
     {
       "rank": 5,
