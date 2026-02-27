@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T22:34:46.959Z",
+  "updated": "2026-02-27T23:34:47.843Z",
   "items": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
     {
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 81.1,
+      "pct_adj": 81.2,
       "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p298/Frankenstein.html",
       "pct_adj": 81.1,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Frankenstein",
       "short": "Kate Hawley",
       "category": "MELHOR FIGURINO",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p75/Hamnet%3A_A_Vida_Antes_de_Hamlet.html",
       "pct_adj": 75.8,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Hamnet: A Vida Antes de Hamlet",
       "short": "Chloe Zhao, Sam Mendes e Steven Spielberg",
       "category": "MELHOR FILME",
