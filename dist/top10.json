@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-28T20:34:55.002Z",
+  "updated": "2026-02-28T21:34:52.209Z",
   "items": [
     {
       "rank": 1,
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 86.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -44,8 +44,8 @@
     {
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
-      "pct_adj": 82.9,
-      "arrow": "same",
+      "pct_adj": 83.1,
+      "arrow": "up",
       "title": "Jessie Buckley",
       "short": "\"Hamnet: A Vida Antes de Hamlet\"",
       "category": "MELHOR ATRIZ",
