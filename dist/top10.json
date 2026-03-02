@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-02T22:34:49.594Z",
+  "updated": "2026-03-02T23:35:08.052Z",
   "items": [
     {
       "rank": 1,
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 79.6,
-      "arrow": "down",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p368/F1%3A_O_Filme.html",
       "pct_adj": 76.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "F1: O Filme",
       "short": "Al Nelson",
       "category": "MELHOR SOM",
