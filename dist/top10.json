@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-04T00:34:50.492Z",
+  "updated": "2026-03-04T01:34:52.011Z",
   "items": [
     {
       "rank": 1,
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 86.9,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
       "pct_adj": 83.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Jessie Buckley",
       "short": "\"Hamnet: A Vida Antes de Hamlet\"",
       "category": "MELHOR ATRIZ",
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
       "pct_adj": 81.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Pecadores",
       "short": "Ryan Coogler",
       "category": "MELHOR ROTEIRO ORIGINAL",
@@ -64,7 +64,7 @@
     {
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 81.7,
+      "pct_adj": 81.4,
       "arrow": "down",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 79.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
