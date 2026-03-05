@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T18:34:52.801Z",
+  "updated": "2026-03-05T19:34:48.940Z",
   "items": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
-      "pct_adj": 87,
+      "pct_adj": 87.1,
       "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
@@ -53,23 +53,23 @@
     },
     {
       "rank": 6,
-      "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
-      "pct_adj": 81.8,
-      "arrow": "same",
-      "title": "Pecadores",
-      "short": "Ryan Coogler",
-      "category": "MELHOR ROTEIRO ORIGINAL",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg"
-    },
-    {
-      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
       "pct_adj": 81.8,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png"
+    },
+    {
+      "rank": 7,
+      "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
+      "pct_adj": 81.8,
+      "arrow": "down",
+      "title": "Pecadores",
+      "short": "Ryan Coogler",
+      "category": "MELHOR ROTEIRO ORIGINAL",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg"
     },
     {
       "rank": 8,
