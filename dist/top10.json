@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T19:34:48.940Z",
+  "updated": "2026-03-05T20:34:54.465Z",
   "items": [
     {
       "rank": 1,
@@ -54,8 +54,8 @@
     {
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 81.8,
-      "arrow": "up",
+      "pct_adj": 81.9,
+      "arrow": "same",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
       "pct_adj": 81.8,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Pecadores",
       "short": "Ryan Coogler",
       "category": "MELHOR ROTEIRO ORIGINAL",
