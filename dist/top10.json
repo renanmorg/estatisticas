@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-11T13:34:46.705Z",
+  "updated": "2026-03-11T14:34:45.009Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p332/Sonhos_de_Trem.html",
-      "pct_adj": 91.8,
-      "arrow": "same",
+      "pct_adj": 91.9,
+      "arrow": "up",
       "title": "Sonhos de Trem",
       "short": "Adolpho Veloso",
       "category": "MELHOR FOTOGRAFIA",
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p568/O_Agente_Secreto.html",
       "pct_adj": 87.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Brasil",
       "category": "MELHOR FILME INTERNACIONAL",
@@ -64,8 +64,8 @@
     {
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p118/Wagner_Moura.html",
-      "pct_adj": 82.9,
-      "arrow": "same",
+      "pct_adj": 83,
+      "arrow": "up",
       "title": "Wagner Moura",
       "short": "\"O Agente Secreto\"",
       "category": "MELHOR ATOR",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
       "pct_adj": 81.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
