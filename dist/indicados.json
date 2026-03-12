@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T17:29:39.404Z",
+  "updatedAt": "2026-03-12T16:53:19.426Z",
   "indicados": [
     {
       "film": "Pecadores",
@@ -112,11 +112,6 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p266_i13_w1000.jpeg?width=320"
     },
     {
-      "film": "All the Empty Rooms",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320"
-    },
-    {
       "film": "Arco",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p244_i12_w194.jpeg"
@@ -202,6 +197,11 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3009_i6_w3000.jpeg?width=320"
     },
     {
+      "film": "Quartos Vazios",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320"
+    },
+    {
       "film": "Retirement Plan",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p525_i9_w1000.jpeg?width=320"
@@ -254,6 +254,11 @@
   ],
   "vencedores": [
     {
+      "film": "Pecadores",
+      "count": 4,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=640"
+    },
+    {
       "film": "Uma Batalha Após a Outra",
       "count": 4,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=640"
@@ -262,11 +267,6 @@
       "film": "Frankenstein",
       "count": 3,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i15_w640.jpeg"
-    },
-    {
-      "film": "Pecadores",
-      "count": 3,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=640"
     },
     {
       "film": "Guerreiras do KPop",
@@ -289,11 +289,6 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg?width=320"
     },
     {
-      "film": "All the Empty Rooms",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320"
-    },
-    {
       "film": "Avatar: Fogo e Cinzas",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p65_i15_w1013.jpeg?width=640"
@@ -314,14 +309,14 @@
       "image": "http://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p83_i18_w961.jpeg?width=640"
     },
     {
-      "film": "Retirement Plan",
+      "film": "Quartos Vazios",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p525_i9_w1000.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320"
     },
     {
-      "film": "Sonhos de Trem",
+      "film": "The Girl Who Cried Pearls",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p332_i16_w800.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg"
     },
     {
       "film": "Two People Exchanging Saliva",
