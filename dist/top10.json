@@ -1,25 +1,25 @@
 {
-  "updated": "2026-03-12T20:34:48.529Z",
+  "updated": "2026-03-12T21:34:47.106Z",
   "items": [
     {
       "rank": 1,
-      "url": "https://www.termometrooscar.com/store/p332/Sonhos_de_Trem.html",
-      "pct_adj": 92.3,
-      "arrow": "same",
-      "title": "Sonhos de Trem",
-      "short": "Adolpho Veloso",
-      "category": "MELHOR FOTOGRAFIA",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p332_i16_w800.jpeg"
-    },
-    {
-      "rank": 2,
       "url": "https://www.termometrooscar.com/store/p448/Pecadores.html",
       "pct_adj": 91.8,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Pecadores",
       "short": "Ludwig Göransson",
       "category": "MELHOR TRILHA SONORA",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p448_i17_w800.jpeg"
+    },
+    {
+      "rank": 2,
+      "url": "https://www.termometrooscar.com/store/p332/Sonhos_de_Trem.html",
+      "pct_adj": 90.8,
+      "arrow": "down",
+      "title": "Sonhos de Trem",
+      "short": "Adolpho Veloso",
+      "category": "MELHOR FOTOGRAFIA",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p332_i16_w800.jpeg"
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
     {
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
-      "pct_adj": 86.4,
-      "arrow": "same",
+      "pct_adj": 86.5,
+      "arrow": "up",
       "title": "Jessie Buckley",
       "short": "\"Hamnet: A Vida Antes de Hamlet\"",
       "category": "MELHOR ATRIZ",
@@ -84,8 +84,8 @@
     {
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 81.4,
-      "arrow": "same",
+      "pct_adj": 81.5,
+      "arrow": "up",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
