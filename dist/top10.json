@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13T12:34:46.664Z",
+  "updated": "2026-03-13T13:34:45.798Z",
   "items": [
     {
       "rank": 1,
@@ -14,8 +14,8 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p332/Sonhos_de_Trem.html",
-      "pct_adj": 90.8,
-      "arrow": "same",
+      "pct_adj": 90.9,
+      "arrow": "up",
       "title": "Sonhos de Trem",
       "short": "Adolpho Veloso",
       "category": "MELHOR FOTOGRAFIA",
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p143/Jessie_Buckley.html",
       "pct_adj": 86.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Jessie Buckley",
       "short": "\"Hamnet: A Vida Antes de Hamlet\"",
       "category": "MELHOR ATRIZ",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p3755/O_Agente_Secreto.html",
       "pct_adj": 82.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Gabriel Domingues",
       "category": "MELHOR ESCALAÇÃO DE ELENCO",
