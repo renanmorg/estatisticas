@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-13T15:34:53.502Z",
+  "updated": "2026-03-13T16:34:52.545Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p448/Pecadores.html",
       "pct_adj": 92.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Pecadores",
       "short": "Ludwig Göransson",
       "category": "MELHOR TRILHA SONORA",
@@ -43,13 +43,13 @@
     },
     {
       "rank": 5,
-      "url": "https://www.termometrooscar.com/store/p203/Pecadores.html",
+      "url": "https://www.termometrooscar.com/melhor-roteiro-original.html",
       "pct_adj": 85.1,
-      "arrow": "up",
-      "title": "Pecadores",
-      "short": "Ryan Coogler",
-      "category": "MELHOR ROTEIRO ORIGINAL",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg"
+      "arrow": "same",
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     },
     {
       "rank": 6,
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p3755/O_Agente_Secreto.html",
       "pct_adj": 82.3,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Agente Secreto",
       "short": "Gabriel Domingues",
       "category": "MELHOR ESCALAÇÃO DE ELENCO",
@@ -84,8 +84,8 @@
     {
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p59/O_Agente_Secreto.html",
-      "pct_adj": 81.8,
-      "arrow": "up",
+      "pct_adj": 81.6,
+      "arrow": "down",
       "title": "O Agente Secreto",
       "short": "Kleber Mendonça Filho",
       "category": "MELHOR FILME",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p368/F1%3A_O_Filme.html",
       "pct_adj": 79.9,
-      "arrow": "up",
+      "arrow": "same",
       "title": "F1: O Filme",
       "short": "Al Nelson",
       "category": "MELHOR SOM",
