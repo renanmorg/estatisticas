@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T16:53:19.426Z",
+  "updatedAt": "2026-03-15T15:05:05.006Z",
   "indicados": [
     {
       "film": "Pecadores",
@@ -57,9 +57,9 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p65_i15_w1013.jpeg?width=640"
     },
     {
-      "film": "Blue Moon",
+      "film": "Blue Moon - Música e Solidão",
       "count": 2,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p60_i14_w863.jpeg?width=640"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p134_i18_w800.png?width=320"
     },
     {
       "film": "Foi Apenas Um Acidente",
@@ -77,9 +77,9 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p586_i8_w1000.jpeg?width=320"
     },
     {
-      "film": "A Friend of Dorothy",
+      "film": "A Garota Que Chorava Pérolas",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p511_i8_w2723.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg"
     },
     {
       "film": "A Hora do Mal",
@@ -122,14 +122,19 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p529_i9_w1000.jpeg?width=320"
     },
     {
+      "film": "As Três Irmãs",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p523_i8_w1061.jpeg?width=320"
+    },
+    {
+      "film": "Borboleta",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p522_i9_w1920.jpeg?width=320"
+    },
+    {
       "film": "Butcher's Stain",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p516_i8_w800.jpeg?width=320"
-    },
-    {
-      "film": "Butterfly",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p522_i9_w1920.jpeg?width=320"
     },
     {
       "film": "Children No More: “Were and Are Gone",
@@ -147,6 +152,11 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p429_i7_w800.jpeg?width=320"
     },
     {
+      "film": "Duas Pessoas Trocando Saliva",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3002_i5_w1300.jpeg?width=320"
+    },
+    {
       "film": "Elio",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p239_i7_w1013.jpeg?width=320"
@@ -162,11 +172,6 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p517_i9_w800.jpeg?width=320"
     },
     {
-      "film": "Jane Austen’s Period Drama",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3000_i5_w1000.jpeg?width=320"
-    },
-    {
       "film": "Jurassic World: Recomeço",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p397_i12_w800.jpeg?width=320"
@@ -177,19 +182,24 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3774_i1_w640.jpeg?width=320"
     },
     {
-      "film": "Mr. Nobody Against Putin",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i9_w2812.jpeg?width=320"
-    },
-    {
       "film": "O Diabo Não Tem Descanso",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3011_i6_w1000.jpeg?width=320"
     },
     {
+      "film": "O Drama Menstrual de Jane Austen",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3000_i5_w1000.jpeg?width=320"
+    },
+    {
       "film": "O Ônibus Perdido",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p404_i10_w800.jpeg?width=320"
+    },
+    {
+      "film": "Os Cantores",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3001_i5_w1000.jpeg?width=320"
     },
     {
       "film": "Perfectly a Strangeness",
@@ -222,24 +232,14 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p136_i17_w800.png?width=320"
     },
     {
-      "film": "The Girl Who Cried Pearls",
+      "film": "Um Amigo de Dorothy",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p511_i8_w2723.jpeg?width=320"
     },
     {
-      "film": "The Singers",
+      "film": "Um Zé Ninguém Contra Putin",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3001_i5_w1000.jpeg?width=320"
-    },
-    {
-      "film": "The Three Sisters",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p523_i8_w1061.jpeg?width=320"
-    },
-    {
-      "film": "Two People Exchanging Saliva",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3002_i5_w1300.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i9_w2812.jpeg?width=320"
     },
     {
       "film": "Viva Verdi!",
@@ -254,14 +254,14 @@
   ],
   "vencedores": [
     {
+      "film": "Uma Batalha Após a Outra",
+      "count": 5,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=640"
+    },
+    {
       "film": "Pecadores",
       "count": 4,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=640"
-    },
-    {
-      "film": "Uma Batalha Após a Outra",
-      "count": 4,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=640"
     },
     {
       "film": "Frankenstein",
@@ -272,11 +272,6 @@
       "film": "Guerreiras do KPop",
       "count": 2,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320"
-    },
-    {
-      "film": "Valor Sentimental",
-      "count": 2,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
     },
     {
       "film": "A Hora do Mal",
@@ -294,6 +289,11 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p65_i15_w1013.jpeg?width=640"
     },
     {
+      "film": "Borboleta",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p522_i9_w1920.jpeg?width=320"
+    },
+    {
       "film": "F1: O Filme",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg"
@@ -309,19 +309,19 @@
       "image": "http://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p83_i18_w961.jpeg?width=640"
     },
     {
+      "film": "Os Cantores",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3001_i5_w1000.jpeg?width=320"
+    },
+    {
       "film": "Quartos Vazios",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320"
     },
     {
-      "film": "The Girl Who Cried Pearls",
+      "film": "Valor Sentimental",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg"
-    },
-    {
-      "film": "Two People Exchanging Saliva",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3002_i5_w1300.jpeg?width=320"
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg"
     }
   ]
 }
