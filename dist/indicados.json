@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T15:05:05.006Z",
+  "updatedAt": "2026-03-16T15:59:03.227Z",
   "indicados": [
     {
       "film": "Pecadores",
@@ -69,7 +69,7 @@
     {
       "film": "Guerreiras do KPop",
       "count": 2,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i11_w800.png?width=320"
     },
     {
       "film": "Sirāt",
@@ -79,7 +79,7 @@
     {
       "film": "A Garota Que Chorava Pérolas",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i9_w800.png?width=320"
     },
     {
       "film": "A Hora do Mal",
@@ -154,7 +154,7 @@
     {
       "film": "Duas Pessoas Trocando Saliva",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3002_i5_w1300.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3002_i6_w800.png?width=320"
     },
     {
       "film": "Elio",
@@ -199,7 +199,7 @@
     {
       "film": "Os Cantores",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3001_i5_w1000.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3001_i6_w800.png?width=320"
     },
     {
       "film": "Perfectly a Strangeness",
@@ -209,7 +209,7 @@
     {
       "film": "Quartos Vazios",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i9_w800.png?width=320"
     },
     {
       "film": "Retirement Plan",
@@ -239,7 +239,7 @@
     {
       "film": "Um Zé Ninguém Contra Putin",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i9_w2812.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i10_w800.png?width=320"
     },
     {
       "film": "Viva Verdi!",
@@ -255,7 +255,7 @@
   "vencedores": [
     {
       "film": "Uma Batalha Após a Outra",
-      "count": 5,
+      "count": 6,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=640"
     },
     {
@@ -271,7 +271,12 @@
     {
       "film": "Guerreiras do KPop",
       "count": 2,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i11_w800.png?width=320"
+    },
+    {
+      "film": "A Garota Que Chorava Pérolas",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i9_w800.png?width=320"
     },
     {
       "film": "A Hora do Mal",
@@ -279,19 +284,9 @@
       "image": "https://i.imgur.com/vaSLdn8.jpeg"
     },
     {
-      "film": "A Vizinha Perfeita",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg?width=320"
-    },
-    {
       "film": "Avatar: Fogo e Cinzas",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p65_i15_w1013.jpeg?width=640"
-    },
-    {
-      "film": "Borboleta",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p522_i9_w1920.jpeg?width=320"
     },
     {
       "film": "F1: O Filme",
@@ -304,19 +299,19 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i18_w1080.jpeg?width=640"
     },
     {
-      "film": "Marty Supreme",
-      "count": 1,
-      "image": "http://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p83_i18_w961.jpeg?width=640"
-    },
-    {
       "film": "Os Cantores",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3001_i5_w1000.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3001_i6_w800.png?width=320"
     },
     {
       "film": "Quartos Vazios",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i9_w800.png?width=320"
+    },
+    {
+      "film": "Um Zé Ninguém Contra Putin",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i10_w800.png?width=320"
     },
     {
       "film": "Valor Sentimental",
