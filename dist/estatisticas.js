@@ -1,6 +1,6 @@
 window.__ceti_receive({
   "ok": true,
-  "updatedAt": "2026-06-04T01:01:32.893Z",
+  "updatedAt": "2026-06-05T01:01:34.707Z",
   "categorias": {
     "melhor-filme": {
       "display": "Melhor Filme",
