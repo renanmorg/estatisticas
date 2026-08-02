@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T14:34:37.391Z",
+  "updated": "2026-08-02T15:34:40.891Z",
   "items": [
     {
       "rank": 1,
@@ -43,63 +43,63 @@
     },
     {
       "rank": 5,
+      "url": "https://www.termometrooscar.com/store/p90/A_Odisseia.html",
+      "pct_adj": 34.2,
+      "arrow": "up",
+      "title": "A Odisseia",
+      "short": "Christopher Nolan e Emma Thomas",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i14_w947.jpeg"
+    },
+    {
+      "rank": 6,
       "url": "https://www.termometrooscar.com/store/p153/Sandra_Huller.html",
       "pct_adj": 23.1,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Sandra Huller",
       "short": "\"Fatherland\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p153_i17_w800.png"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p194/Samantha_Morton.html",
       "pct_adj": 20.8,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Samantha Morton",
       "short": "\"A Odisseia\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p194_i19_w800.png"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p149/Rachel_Brosnahan.html",
       "pct_adj": 20.7,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Rachel Brosnahan",
       "short": "\"Saturn Return\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p149_i16_w800.png"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/store/p196/Digger.html",
       "pct_adj": 20.7,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Digger",
       "short": "Alejandro G. Iñárritu",
       "category": "MELHOR ROTEIRO ORIGINAL",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p196_i11_w800.jpeg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p216/A_Odisseia.html",
       "pct_adj": 20.7,
-      "arrow": "same",
+      "arrow": "down",
       "title": "A Odisseia",
       "short": "Christopher Nolan",
       "category": "MELHOR ROTEIRO ADAPTADO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p216_i13_w800.jpeg"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p219/Devoradores_de_Estrelas.html",
-      "pct_adj": 20.7,
-      "arrow": "same",
-      "title": "Devoradores de Estrelas",
-      "short": "Drew Goddard",
-      "category": "MELHOR ROTEIRO ADAPTADO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p219_i15_w800.jpeg"
     }
   ]
 }
