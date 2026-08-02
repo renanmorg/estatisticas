@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T06:34:41.431Z",
+  "updated": "2026-08-02T07:34:38.727Z",
   "items": [
     {
       "rank": 1,
@@ -63,6 +63,16 @@
     },
     {
       "rank": 7,
+      "url": "https://www.termometrooscar.com/store/p149/Rachel_Brosnahan.html",
+      "pct_adj": 20.7,
+      "arrow": "same",
+      "title": "Rachel Brosnahan",
+      "short": "\"Saturn Return\"",
+      "category": "MELHOR ATRIZ",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p149_i16_w800.png"
+    },
+    {
+      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p196/Digger.html",
       "pct_adj": 20.7,
       "arrow": "same",
@@ -72,7 +82,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p196_i11_w800.jpeg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/store/p216/A_Odisseia.html",
       "pct_adj": 20.7,
       "arrow": "same",
@@ -82,7 +92,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p216_i13_w800.jpeg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p219/Devoradores_de_Estrelas.html",
       "pct_adj": 20.7,
       "arrow": "same",
@@ -90,16 +100,6 @@
       "short": "Drew Goddard",
       "category": "MELHOR ROTEIRO ADAPTADO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p219_i15_w800.jpeg"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p254/Iron_Boy.html",
-      "pct_adj": 20.7,
-      "arrow": "same",
-      "title": "Iron Boy",
-      "short": "Louis Clichy",
-      "category": "MELHOR ANIMAÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p254_i14_w520.jpeg"
     }
   ]
 }
