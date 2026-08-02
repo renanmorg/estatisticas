@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T23:56:57.112Z",
+  "updated": "2026-08-02T00:34:44.653Z",
   "items": [
     {
       "rank": 1,
@@ -13,13 +13,13 @@
     },
     {
       "rank": 2,
-      "url": "https://www.termometrooscar.com/store/p132/Matt_Damon.html",
-      "pct_adj": 20.7,
-      "arrow": "same",
-      "title": "Matt Damon",
-      "short": "\"A Odisseia\"",
+      "url": "https://www.termometrooscar.com/store/p3794/Tom_Cruise.html",
+      "pct_adj": 34.2,
+      "arrow": "up",
+      "title": "Tom Cruise",
+      "short": "\"Digger\"",
       "category": "MELHOR ATOR",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3794_i2_w800.png"
     },
     {
       "rank": 3,
@@ -63,43 +63,43 @@
     },
     {
       "rank": 7,
-      "url": "https://www.termometrooscar.com/store/p216/A_Odisseia.html",
+      "url": "https://www.termometrooscar.com/store/p196/Digger.html",
       "pct_adj": 20.7,
       "arrow": "same",
+      "title": "Digger",
+      "short": "Alejandro G. Iñárritu",
+      "category": "MELHOR ROTEIRO ORIGINAL",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p196_i11_w800.jpeg"
+    },
+    {
+      "rank": 8,
+      "url": "https://www.termometrooscar.com/store/p216/A_Odisseia.html",
+      "pct_adj": 20.7,
+      "arrow": "down",
       "title": "A Odisseia",
       "short": "Christopher Nolan",
       "category": "MELHOR ROTEIRO ADAPTADO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p216_i13_w800.jpeg"
     },
     {
-      "rank": 8,
-      "url": "https://www.termometrooscar.com/store/p3289/Christopher_Nolan.html",
+      "rank": 9,
+      "url": "https://www.termometrooscar.com/store/p219/Devoradores_de_Estrelas.html",
       "pct_adj": 20.7,
       "arrow": "same",
+      "title": "Devoradores de Estrelas",
+      "short": "Drew Goddard",
+      "category": "MELHOR ROTEIRO ADAPTADO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p219_i15_w800.jpeg"
+    },
+    {
+      "rank": 10,
+      "url": "https://www.termometrooscar.com/store/p3289/Christopher_Nolan.html",
+      "pct_adj": 20.7,
+      "arrow": "down",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3289_i3_w800.png"
-    },
-    {
-      "rank": 9,
-      "url": "https://www.termometrooscar.com/store/p3790/O_Bosque_Selvagem.html",
-      "pct_adj": 20.7,
-      "arrow": "same",
-      "title": "O Bosque Selvagem",
-      "short": "Travis Knight",
-      "category": "MELHOR ANIMAÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3790_i2_w1067.jpeg"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p3794/Tom_Cruise.html",
-      "pct_adj": 20.7,
-      "arrow": "same",
-      "title": "Tom Cruise",
-      "short": "\"Digger\"",
-      "category": "MELHOR ATOR",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3794_i2_w800.png"
     }
   ]
 }
