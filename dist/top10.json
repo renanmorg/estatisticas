@@ -1,35 +1,35 @@
 {
-  "updated": "2026-08-02T19:34:37.976Z",
+  "updated": "2026-08-02T20:34:38.701Z",
   "items": [
     {
       "rank": 1,
+      "url": "https://www.termometrooscar.com/store/p3790/O_Bosque_Selvagem.html",
+      "pct_adj": 43.8,
+      "arrow": "up",
+      "title": "O Bosque Selvagem",
+      "short": "Travis Knight",
+      "category": "MELHOR ANIMAÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3790_i2_w1067.jpeg"
+    },
+    {
+      "rank": 2,
       "url": "https://www.termometrooscar.com/store/p140/Julianne_Moore.html",
       "pct_adj": 34.2,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Julianne Moore",
       "short": "\"The Debut\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p140_i19_w800.png"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "url": "https://www.termometrooscar.com/store/p162/Colman_Domingo.html",
       "pct_adj": 34.2,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Colman Domingo",
       "short": "\"Michael\"",
       "category": "MELHOR ATOR COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
-    },
-    {
-      "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p3790/O_Bosque_Selvagem.html",
-      "pct_adj": 34.2,
-      "arrow": "same",
-      "title": "O Bosque Selvagem",
-      "short": "Travis Knight",
-      "category": "MELHOR ANIMAÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3790_i2_w1067.jpeg"
     },
     {
       "rank": 4,
