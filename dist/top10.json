@@ -1,20 +1,50 @@
 {
-  "updated": "2026-08-02T00:34:44.653Z",
+  "updated": "2026-08-02T01:34:37.707Z",
   "items": [
     {
       "rank": 1,
-      "url": "https://www.termometrooscar.com/store/p153/Sandra_Huller.html",
+      "url": "https://www.termometrooscar.com/store/p194/Samantha_Morton.html",
       "pct_adj": 34.2,
-      "arrow": "same",
+      "arrow": "up",
+      "title": "Samantha Morton",
+      "short": "\"A Odisseia\"",
+      "category": "MELHOR ATRIZ COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p194_i19_w800.png"
+    },
+    {
+      "rank": 2,
+      "url": "https://www.termometrooscar.com/store/p3790/O_Bosque_Selvagem.html",
+      "pct_adj": 34.2,
+      "arrow": "up",
+      "title": "O Bosque Selvagem",
+      "short": "Travis Knight",
+      "category": "MELHOR ANIMAÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3790_i2_w1067.jpeg"
+    },
+    {
+      "rank": 3,
+      "url": "https://www.termometrooscar.com/store/p132/Matt_Damon.html",
+      "pct_adj": 20.8,
+      "arrow": "down",
+      "title": "Matt Damon",
+      "short": "\"A Odisseia\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
+    },
+    {
+      "rank": 4,
+      "url": "https://www.termometrooscar.com/store/p153/Sandra_Huller.html",
+      "pct_adj": 20.8,
+      "arrow": "down",
       "title": "Sandra Huller",
       "short": "\"Fatherland\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p153_i17_w800.png"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "url": "https://www.termometrooscar.com/store/p3794/Tom_Cruise.html",
-      "pct_adj": 34.2,
+      "pct_adj": 20.8,
       "arrow": "up",
       "title": "Tom Cruise",
       "short": "\"Digger\"",
@@ -22,47 +52,27 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3794_i2_w800.png"
     },
     {
-      "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p144/Inde_Navarrette.html",
+      "rank": 6,
+      "url": "https://www.termometrooscar.com/store/p140/Julianne_Moore.html",
       "pct_adj": 20.7,
       "arrow": "same",
-      "title": "Inde Navarrette",
-      "short": "\"Obsessão\"",
+      "title": "Julianne Moore",
+      "short": "\"The Debut\"",
       "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p144_i20_w800.png"
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p140_i19_w800.png"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "url": "https://www.termometrooscar.com/store/p162/Colman_Domingo.html",
       "pct_adj": 20.7,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Colman Domingo",
       "short": "\"Michael\"",
       "category": "MELHOR ATOR COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
     },
     {
-      "rank": 5,
-      "url": "https://www.termometrooscar.com/store/p176/Pen%C3%A9lope_Cruz.html",
-      "pct_adj": 20.7,
-      "arrow": "same",
-      "title": "Penélope Cruz",
-      "short": "\"La Bola Negra\"",
-      "category": "MELHOR ATRIZ COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p176_i15_w800.png"
-    },
-    {
-      "rank": 6,
-      "url": "https://www.termometrooscar.com/store/p194/Samantha_Morton.html",
-      "pct_adj": 20.7,
-      "arrow": "same",
-      "title": "Samantha Morton",
-      "short": "\"A Odisseia\"",
-      "category": "MELHOR ATRIZ COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p194_i19_w800.png"
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/store/p196/Digger.html",
       "pct_adj": 20.7,
       "arrow": "same",
@@ -72,7 +82,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p196_i11_w800.jpeg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/store/p216/A_Odisseia.html",
       "pct_adj": 20.7,
       "arrow": "down",
@@ -82,7 +92,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p216_i13_w800.jpeg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p219/Devoradores_de_Estrelas.html",
       "pct_adj": 20.7,
       "arrow": "same",
@@ -90,16 +100,6 @@
       "short": "Drew Goddard",
       "category": "MELHOR ROTEIRO ADAPTADO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p219_i15_w800.jpeg"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p3289/Christopher_Nolan.html",
-      "pct_adj": 20.7,
-      "arrow": "down",
-      "title": "Christopher Nolan",
-      "short": "\"A Odisseia\"",
-      "category": "MELHOR DIREÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3289_i3_w800.png"
     }
   ]
 }
