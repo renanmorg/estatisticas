@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T19:34:45.924Z",
+  "updated": "2026-08-03T20:34:40.868Z",
   "items": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p132/Matt_Damon.html",
       "pct_adj": 30,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Matt Damon",
       "short": "\"A Odisseia\"",
       "category": "MELHOR ATOR",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p3794/Tom_Cruise.html",
       "pct_adj": 25,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Tom Cruise",
       "short": "\"Digger\"",
       "category": "MELHOR ATOR",
