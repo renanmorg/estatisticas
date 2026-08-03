@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T23:34:41.656Z",
+  "updated": "2026-08-03T00:34:39.373Z",
   "items": [
     {
       "rank": 1,
@@ -13,63 +13,63 @@
     },
     {
       "rank": 2,
-      "url": "https://www.termometrooscar.com/store/p140/Julianne_Moore.html",
-      "pct_adj": 34.2,
-      "arrow": "same",
-      "title": "Julianne Moore",
-      "short": "\"The Debut\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p140_i19_w800.png"
-    },
-    {
-      "rank": 3,
       "url": "https://www.termometrooscar.com/store/p162/Colman_Domingo.html",
       "pct_adj": 34.2,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Colman Domingo",
       "short": "\"Michael\"",
       "category": "MELHOR ATOR COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "url": "https://www.termometrooscar.com/store/p90/A_Odisseia.html",
       "pct_adj": 34.2,
-      "arrow": "same",
+      "arrow": "up",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i14_w947.jpeg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p3794/Tom_Cruise.html",
       "pct_adj": 30,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Tom Cruise",
       "short": "\"Digger\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3794_i2_w800.png"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "url": "https://www.termometrooscar.com/store/p132/Matt_Damon.html",
       "pct_adj": 23.1,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Matt Damon",
       "short": "\"A Odisseia\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "url": "https://www.termometrooscar.com/store/p153/Sandra_Huller.html",
       "pct_adj": 23.1,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Sandra Huller",
       "short": "\"Fatherland\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p153_i17_w800.png"
+    },
+    {
+      "rank": 7,
+      "url": "https://www.termometrooscar.com/store/p140/Julianne_Moore.html",
+      "pct_adj": 20.8,
+      "arrow": "down",
+      "title": "Julianne Moore",
+      "short": "\"The Debut\"",
+      "category": "MELHOR ATRIZ",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p140_i19_w800.png"
     },
     {
       "rank": 8,
