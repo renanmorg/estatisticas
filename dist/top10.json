@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T03:34:39.656Z",
+  "updated": "2026-08-03T04:34:39.746Z",
   "items": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/store/p140/Julianne_Moore.html",
       "pct_adj": 20.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Julianne Moore",
       "short": "\"The Debut\"",
       "category": "MELHOR ATRIZ",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p149/Rachel_Brosnahan.html",
       "pct_adj": 20.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Rachel Brosnahan",
       "short": "\"Saturn Return\"",
       "category": "MELHOR ATRIZ",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p196/Digger.html",
       "pct_adj": 20.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Digger",
       "short": "Alejandro G. Iñárritu",
       "category": "MELHOR ROTEIRO ORIGINAL",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p216/A_Odisseia.html",
       "pct_adj": 20.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan",
       "category": "MELHOR ROTEIRO ADAPTADO",
