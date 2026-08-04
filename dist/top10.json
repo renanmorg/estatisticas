@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T07:34:56.981Z",
+  "updated": "2026-08-04T08:34:40.127Z",
   "items": [
     {
       "rank": 1,
@@ -26,10 +26,10 @@
       "url": "https://www.termometrooscar.com/store/p162/Colman_Domingo.html",
       "pct_adj": 34.2,
       "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "title": "Colman Domingo",
+      "short": "\"Michael\"",
+      "category": "MELHOR ATOR COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
     },
     {
       "rank": 4,
@@ -93,13 +93,13 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/melhor-roteiro-original.html",
+      "url": "https://www.termometrooscar.com/store/p196/Digger.html",
       "pct_adj": 20.7,
       "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "title": "Digger",
+      "short": "Alejandro G. Iñárritu",
+      "category": "MELHOR ROTEIRO ORIGINAL",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p196_i11_w800.jpeg"
     }
   ]
 }
