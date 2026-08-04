@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T20:34:44.717Z",
+  "updated": "2026-08-04T21:34:43.225Z",
   "items": [
     {
       "rank": 1,
@@ -13,43 +13,43 @@
     },
     {
       "rank": 2,
+      "url": "https://www.termometrooscar.com/store/p140/Julianne_Moore.html",
+      "pct_adj": 37.6,
+      "arrow": "up",
+      "title": "Julianne Moore",
+      "short": "\"The Debut\"",
+      "category": "MELHOR ATRIZ",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p140_i19_w800.png"
+    },
+    {
+      "rank": 3,
       "url": "https://www.termometrooscar.com/store/p90/A_Odisseia.html",
       "pct_adj": 37.6,
-      "arrow": "same",
+      "arrow": "down",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p162/Colman_Domingo.html",
       "pct_adj": 34.2,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Colman Domingo",
       "short": "\"Michael\"",
       "category": "MELHOR ATOR COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "url": "https://www.termometrooscar.com/store/p91/Duna%3A_Parte_3.html",
       "pct_adj": 34.2,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Duna: Parte 3",
       "short": "Denis Villeneuve, Mary Parent e Cale Boyter",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p91_i13_w1200.jpeg"
-    },
-    {
-      "rank": 5,
-      "url": "https://www.termometrooscar.com/store/p140/Julianne_Moore.html",
-      "pct_adj": 30.1,
-      "arrow": "same",
-      "title": "Julianne Moore",
-      "short": "\"The Debut\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p140_i19_w800.png"
     },
     {
       "rank": 6,
