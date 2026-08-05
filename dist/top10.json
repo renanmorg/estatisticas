@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T21:34:39.892Z",
+  "updated": "2026-08-05T22:34:39.077Z",
   "items": [
     {
       "rank": 1,
@@ -33,19 +33,19 @@
     },
     {
       "rank": 4,
-      "url": "https://www.termometrooscar.com/store/p3289/Christopher_Nolan.html",
+      "url": "https://www.termometrooscar.com/melhor-diretor.html",
       "pct_adj": 34.2,
-      "arrow": "up",
-      "title": "Christopher Nolan",
-      "short": "\"A Odisseia\"",
-      "category": "MELHOR DIREÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3289_i3_w800.png"
+      "arrow": "same",
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     },
     {
       "rank": 5,
       "url": "https://www.termometrooscar.com/store/p90/A_Odisseia.html",
       "pct_adj": 30,
-      "arrow": "down",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
@@ -55,27 +55,27 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p132/Matt_Damon.html",
       "pct_adj": 25,
-      "arrow": "down",
-      "title": "Matt Damon",
-      "short": "\"A Odisseia\"",
-      "category": "MELHOR ATOR",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
+      "arrow": "same",
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     },
     {
       "rank": 7,
-      "url": "https://www.termometrooscar.com/store/p191/Pen%C3%A9lope_Cruz.html",
+      "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
       "pct_adj": 23.1,
-      "arrow": "down",
-      "title": "Penélope Cruz",
-      "short": "\"O Convite\"",
-      "category": "MELHOR ATRIZ COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p191_i17_w800.png"
+      "arrow": "same",
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     },
     {
       "rank": 8,
       "url": "https://www.termometrooscar.com/store/p162/Colman_Domingo.html",
       "pct_adj": 20.8,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Colman Domingo",
       "short": "\"Michael\"",
       "category": "MELHOR ATOR COADJUVANTE",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/store/p91/Duna%3A_Parte_3.html",
       "pct_adj": 20.8,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Duna: Parte 3",
       "short": "Denis Villeneuve, Mary Parent e Cale Boyter",
       "category": "MELHOR FILME",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p109/Denis_Villeneuve.html",
       "pct_adj": 20.7,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Denis Villeneuve",
       "short": "\"Duna: Parte 3\"",
       "category": "MELHOR DIREÇÃO",
