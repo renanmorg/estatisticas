@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-05T06:34:39.489Z",
+  "updated": "2026-08-05T07:34:46.382Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p3790/O_Bosque_Selvagem.html",
       "pct_adj": 43.8,
       "arrow": "same",
-      "title": "O Bosque Selvagem",
-      "short": "Travis Knight",
-      "category": "MELHOR ANIMAÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3790_i2_w1067.jpeg"
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     },
     {
       "rank": 2,
@@ -33,13 +33,13 @@
     },
     {
       "rank": 4,
-      "url": "https://www.termometrooscar.com/store/p162/Colman_Domingo.html",
+      "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
       "pct_adj": 34.2,
       "arrow": "same",
-      "title": "Colman Domingo",
-      "short": "\"Michael\"",
-      "category": "MELHOR ATOR COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     },
     {
       "rank": 5,
@@ -76,10 +76,10 @@
       "url": "https://www.termometrooscar.com/store/p3794/Tom_Cruise.html",
       "pct_adj": 25,
       "arrow": "same",
-      "title": "Tom Cruise",
-      "short": "\"Digger\"",
-      "category": "MELHOR ATOR",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3794_i2_w800.png"
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     },
     {
       "rank": 9,
@@ -93,13 +93,13 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p150/Sophie_Okonedo.html",
+      "url": "https://www.termometrooscar.com/melhor-atriz.html",
       "pct_adj": 20.7,
       "arrow": "same",
-      "title": "Sophie Okonedo",
-      "short": "\"Clarissa\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p150_i20_w800.png"
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     }
   ]
 }
