@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T19:34:47.612Z",
+  "updated": "2026-08-05T20:34:47.966Z",
   "items": [
     {
       "rank": 1,
@@ -26,10 +26,10 @@
       "url": "https://www.termometrooscar.com/store/p3794/Tom_Cruise.html",
       "pct_adj": 35.4,
       "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "title": "Tom Cruise",
+      "short": "\"Digger\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3794_i2_w800.png"
     },
     {
       "rank": 4,
@@ -63,13 +63,13 @@
     },
     {
       "rank": 7,
-      "url": "https://www.termometrooscar.com/store/p162/Colman_Domingo.html",
+      "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
       "pct_adj": 20.8,
       "arrow": "same",
-      "title": "Colman Domingo",
-      "short": "\"Michael\"",
-      "category": "MELHOR ATOR COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     },
     {
       "rank": 8,
@@ -83,23 +83,23 @@
     },
     {
       "rank": 9,
-      "url": "https://www.termometrooscar.com/store/p149/Rachel_Brosnahan.html",
+      "url": "https://www.termometrooscar.com/store/p109/Denis_Villeneuve.html",
       "pct_adj": 20.7,
       "arrow": "same",
+      "title": "Denis Villeneuve",
+      "short": "\"Duna: Parte 3\"",
+      "category": "MELHOR DIREÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p109_i15_w800.png"
+    },
+    {
+      "rank": 10,
+      "url": "https://www.termometrooscar.com/store/p149/Rachel_Brosnahan.html",
+      "pct_adj": 20.7,
+      "arrow": "down",
       "title": "Rachel Brosnahan",
       "short": "\"Saturn Return\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p149_i16_w800.png"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p150/Sophie_Okonedo.html",
-      "pct_adj": 20.7,
-      "arrow": "same",
-      "title": "Sophie Okonedo",
-      "short": "\"Clarissa\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p150_i20_w800.png"
     }
   ]
 }
