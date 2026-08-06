@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T15:34:40.118Z",
+  "updated": "2026-08-06T16:34:44.851Z",
   "items": [
     {
       "rank": 1,
@@ -86,20 +86,20 @@
       "url": "https://www.termometrooscar.com/store/p91/Duna%3A_Parte_3.html",
       "pct_adj": 20.8,
       "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "title": "Duna: Parte 3",
+      "short": "Denis Villeneuve, Mary Parent e Cale Boyter",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p91_i13_w1200.jpeg"
     },
     {
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p109/Denis_Villeneuve.html",
       "pct_adj": 20.7,
       "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "title": "Denis Villeneuve",
+      "short": "\"Duna: Parte 3\"",
+      "category": "MELHOR DIREÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p109_i15_w800.png"
     }
   ]
 }
