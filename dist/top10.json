@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-06T17:34:46.006Z",
+  "updated": "2026-08-06T18:34:44.396Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p140/Julianne_Moore.html",
-      "pct_adj": 48.7,
-      "arrow": "same",
+      "pct_adj": 52.9,
+      "arrow": "up",
       "title": "Julianne Moore",
       "short": "\"The Debut\"",
       "category": "MELHOR ATRIZ",
@@ -93,13 +93,13 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p109/Denis_Villeneuve.html",
+      "url": "https://www.termometrooscar.com/melhor-diretor.html",
       "pct_adj": 20.7,
       "arrow": "same",
-      "title": "Denis Villeneuve",
-      "short": "\"Duna: Parte 3\"",
-      "category": "MELHOR DIREÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p109_i15_w800.png"
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     }
   ]
 }
