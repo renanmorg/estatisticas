@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T00:34:48.706Z",
+  "updated": "2026-08-07T01:34:44.592Z",
   "items": [
     {
       "rank": 1,
@@ -15,7 +15,7 @@
       "rank": 2,
       "url": "https://www.termometrooscar.com/store/p3790/O_Bosque_Selvagem.html",
       "pct_adj": 51,
-      "arrow": "up",
+      "arrow": "same",
       "title": "O Bosque Selvagem",
       "short": "Travis Knight",
       "category": "MELHOR ANIMAÇÃO",
@@ -54,8 +54,8 @@
     {
       "rank": 6,
       "url": "https://www.termometrooscar.com/store/p90/A_Odisseia.html",
-      "pct_adj": 30,
-      "arrow": "same",
+      "pct_adj": 25,
+      "arrow": "down",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
@@ -83,23 +83,23 @@
     },
     {
       "rank": 9,
-      "url": "https://www.termometrooscar.com/store/p91/Duna%3A_Parte_3.html",
-      "pct_adj": 20.8,
-      "arrow": "same",
-      "title": "Duna: Parte 3",
-      "short": "Denis Villeneuve, Mary Parent e Cale Boyter",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p91_i13_w1200.jpeg"
-    },
-    {
-      "rank": 10,
       "url": "https://www.termometrooscar.com/store/p109/Denis_Villeneuve.html",
       "pct_adj": 20.7,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Denis Villeneuve",
       "short": "\"Duna: Parte 3\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p109_i15_w800.png"
+    },
+    {
+      "rank": 10,
+      "url": "https://www.termometrooscar.com/store/p149/Rachel_Brosnahan.html",
+      "pct_adj": 20.7,
+      "arrow": "up",
+      "title": "Rachel Brosnahan",
+      "short": "\"Saturn Return\"",
+      "category": "MELHOR ATRIZ",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p149_i16_w800.png"
     }
   ]
 }
