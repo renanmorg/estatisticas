@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-08T04:34:41.722Z",
+  "updated": "2026-08-08T05:34:39.046Z",
   "items": [
     {
       "rank": 1,
-      "url": "https://www.termometrooscar.com/store/p140/Julianne_Moore.html",
+      "url": "https://www.termometrooscar.com/melhor-atriz.html",
       "pct_adj": 56.5,
       "arrow": "same",
-      "title": "Julianne Moore",
-      "short": "\"The Debut\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p140_i19_w800.png"
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     },
     {
       "rank": 2,
@@ -26,10 +26,10 @@
       "url": "https://www.termometrooscar.com/store/p3794/Tom_Cruise.html",
       "pct_adj": 45.4,
       "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "title": "Tom Cruise",
+      "short": "\"Digger\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3794_i2_w800.png"
     },
     {
       "rank": 4,
@@ -43,17 +43,17 @@
     },
     {
       "rank": 5,
-      "url": "https://www.termometrooscar.com/melhor-ator.html",
+      "url": "https://www.termometrooscar.com/store/p132/Matt_Damon.html",
       "pct_adj": 39.7,
       "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "title": "Matt Damon",
+      "short": "\"A Odisseia\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
     },
     {
       "rank": 6,
-      "url": "https://www.termometrooscar.com/store/p242/Como_M%C3%A1gica.html",
+      "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 34.2,
       "arrow": "same",
       "title": "",
@@ -63,7 +63,7 @@
     },
     {
       "rank": 7,
-      "url": "https://www.termometrooscar.com/melhor-filme.html",
+      "url": "https://www.termometrooscar.com/store/p92/Digger.html",
       "pct_adj": 34.2,
       "arrow": "same",
       "title": "",
@@ -83,7 +83,7 @@
     },
     {
       "rank": 9,
-      "url": "https://www.termometrooscar.com/store/p191/Pen%C3%A9lope_Cruz.html",
+      "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
       "pct_adj": 30,
       "arrow": "same",
       "title": "",
@@ -93,7 +93,7 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p90/A_Odisseia.html",
+      "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 21.5,
       "arrow": "same",
       "title": "",
