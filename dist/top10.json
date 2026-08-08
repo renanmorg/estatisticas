@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-08T21:55:39.157Z",
+  "updated": "2026-08-08T21:56:31.282Z",
   "items": [
     {
       "rank": 1,
-      "url": "https://www.termometrooscar.com/store/p140/Julianne_Moore.html",
+      "url": "https://www.termometrooscar.com/melhor-atriz.html",
       "pct_adj": 59.6,
       "arrow": "same",
       "title": "Julianne Moore",
@@ -23,7 +23,7 @@
     },
     {
       "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p132/Matt_Damon.html",
+      "url": "https://www.termometrooscar.com/melhor-ator.html",
       "pct_adj": 43.4,
       "arrow": "same",
       "title": "Matt Damon",
@@ -33,7 +33,7 @@
     },
     {
       "rank": 4,
-      "url": "https://www.termometrooscar.com/store/p3794/Tom_Cruise.html",
+      "url": "https://www.termometrooscar.com/melhor-ator.html",
       "pct_adj": 41.7,
       "arrow": "same",
       "title": "Tom Cruise",
@@ -73,13 +73,13 @@
     },
     {
       "rank": 8,
-      "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
+      "url": "https://www.termometrooscar.com/store/p162/Colman_Domingo.html",
       "pct_adj": 30.1,
       "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "title": "Colman Domingo",
+      "short": "\"Michael\"",
+      "category": "MELHOR ATOR COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
     },
     {
       "rank": 9,
@@ -93,7 +93,7 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p191/Pen%C3%A9lope_Cruz.html",
+      "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
       "pct_adj": 30,
       "arrow": "same",
       "title": "Penélope Cruz",
