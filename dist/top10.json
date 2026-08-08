@@ -1,41 +1,41 @@
 {
-  "updated": "2026-08-08T00:34:39.924Z",
+  "updated": "2026-08-08T01:34:43.107Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/store/p140/Julianne_Moore.html",
       "pct_adj": 52.9,
       "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "title": "Julianne Moore",
+      "short": "\"The Debut\"",
+      "category": "MELHOR ATRIZ",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p140_i19_w800.png"
     },
     {
       "rank": 2,
-      "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
+      "url": "https://www.termometrooscar.com/store/p3790/O_Bosque_Selvagem.html",
       "pct_adj": 51,
       "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "title": "O Bosque Selvagem",
+      "short": "Travis Knight",
+      "category": "MELHOR ANIMAÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3790_i3_w1200.jpeg"
     },
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/store/p3289/Christopher_Nolan.html",
       "pct_adj": 43.8,
       "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "title": "Christopher Nolan",
+      "short": "\"A Odisseia\"",
+      "category": "MELHOR DIREÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3289_i3_w800.png"
     },
     {
       "rank": 4,
       "url": "https://www.termometrooscar.com/store/p3794/Tom_Cruise.html",
       "pct_adj": 42.4,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Tom Cruise",
       "short": "\"Digger\"",
       "category": "MELHOR ATOR",
@@ -43,7 +43,7 @@
     },
     {
       "rank": 5,
-      "url": "https://www.termometrooscar.com/store/p132/Matt_Damon.html",
+      "url": "https://www.termometrooscar.com/melhor-ator.html",
       "pct_adj": 35.4,
       "arrow": "same",
       "title": "",
@@ -63,13 +63,13 @@
     },
     {
       "rank": 7,
-      "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
+      "url": "https://www.termometrooscar.com/store/p191/Pen%C3%A9lope_Cruz.html",
       "pct_adj": 23.1,
       "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "title": "Penélope Cruz",
+      "short": "\"O Convite\"",
+      "category": "MELHOR ATRIZ COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p191_i17_w800.png"
     },
     {
       "rank": 8,
@@ -83,23 +83,23 @@
     },
     {
       "rank": 9,
-      "url": "https://www.termometrooscar.com/melhor-diretor.html",
+      "url": "https://www.termometrooscar.com/store/p109/Denis_Villeneuve.html",
       "pct_adj": 20.7,
       "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "title": "Denis Villeneuve",
+      "short": "\"Duna: Parte 3\"",
+      "category": "MELHOR DIREÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p109_i15_w800.png"
     },
     {
       "rank": 10,
       "url": "https://www.termometrooscar.com/store/p125/Jaafar_Jackson.html",
       "pct_adj": 20.7,
       "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "title": "Jaafar Jackson",
+      "short": "\"Michael\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p125_i18_w800.png"
     }
   ]
 }
