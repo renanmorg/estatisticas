@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T13:34:40.135Z",
+  "updated": "2026-08-08T14:34:51.538Z",
   "items": [
     {
       "rank": 1,
@@ -13,39 +13,39 @@
     },
     {
       "rank": 2,
-      "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
-      "pct_adj": 51,
-      "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "url": "https://www.termometrooscar.com/store/p3794/Tom_Cruise.html",
+      "pct_adj": 45.4,
+      "arrow": "up",
+      "title": "Tom Cruise",
+      "short": "\"Digger\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3794_i2_w800.png"
     },
     {
       "rank": 3,
-      "url": "https://www.termometrooscar.com/store/p3794/Tom_Cruise.html",
-      "pct_adj": 45.4,
-      "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
-    },
-    {
-      "rank": 4,
       "url": "https://www.termometrooscar.com/store/p3289/Christopher_Nolan.html",
       "pct_adj": 43.8,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3289_i3_w800.png"
     },
     {
-      "rank": 5,
-      "url": "https://www.termometrooscar.com/melhor-ator.html",
+      "rank": 4,
+      "url": "https://www.termometrooscar.com/store/p132/Matt_Damon.html",
       "pct_adj": 39.7,
-      "arrow": "same",
+      "arrow": "up",
+      "title": "Matt Damon",
+      "short": "\"A Odisseia\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
+    },
+    {
+      "rank": 5,
+      "url": "https://www.termometrooscar.com/store/p3790/O_Bosque_Selvagem.html",
+      "pct_adj": 37.6,
+      "arrow": "down",
       "title": "",
       "short": "",
       "category": "",
@@ -53,7 +53,7 @@
     },
     {
       "rank": 6,
-      "url": "https://www.termometrooscar.com/store/p242/Como_M%C3%A1gica.html",
+      "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 34.2,
       "arrow": "same",
       "title": "",
@@ -63,43 +63,43 @@
     },
     {
       "rank": 7,
-      "url": "https://www.termometrooscar.com/melhor-filme.html",
+      "url": "https://www.termometrooscar.com/store/p92/Digger.html",
       "pct_adj": 34.2,
       "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "title": "Digger",
+      "short": "Alejandro G. Iñárritu e Tom Cruise",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p92_i21_w509.jpeg"
     },
     {
       "rank": 8,
-      "url": "https://www.termometrooscar.com/store/p162/Colman_Domingo.html",
+      "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
       "pct_adj": 30.1,
       "arrow": "same",
-      "title": "Colman Domingo",
-      "short": "\"Michael\"",
-      "category": "MELHOR ATOR COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
+      "title": "",
+      "short": "",
+      "category": "",
+      "image": ""
     },
     {
       "rank": 9,
-      "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
-      "pct_adj": 30,
-      "arrow": "same",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "url": "https://www.termometrooscar.com/store/p236/Toy_Story_5.html",
+      "pct_adj": 30.1,
+      "arrow": "up",
+      "title": "Toy Story 5",
+      "short": "McKenna Harris e Andrew Stanton",
+      "category": "MELHOR ANIMAÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg"
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p153/Sandra_Huller.html",
-      "pct_adj": 21.3,
-      "arrow": "up",
-      "title": "",
-      "short": "",
-      "category": "",
-      "image": ""
+      "url": "https://www.termometrooscar.com/store/p191/Pen%C3%A9lope_Cruz.html",
+      "pct_adj": 30,
+      "arrow": "down",
+      "title": "Penélope Cruz",
+      "short": "\"O Convite\"",
+      "category": "MELHOR ATRIZ COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p191_i17_w800.png"
     }
   ]
 }
