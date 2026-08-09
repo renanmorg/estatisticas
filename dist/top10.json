@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T08:34:43.951Z",
+  "updated": "2026-08-09T09:34:36.496Z",
   "items": [
     {
       "rank": 1,
@@ -63,9 +63,9 @@
     },
     {
       "rank": 7,
-      "url": "https://www.termometrooscar.com/store/p149/Rachel_Brosnahan.html",
+      "url": "https://www.termometrooscar.com/melhor-atriz.html",
       "pct_adj": 34.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Rachel Brosnahan",
       "short": "\"Saturn Return\"",
       "category": "MELHOR ATRIZ",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 34.2,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Como Mágica",
       "short": "Nathan Greno",
       "category": "MELHOR ANIMAÇÃO",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
       "pct_adj": 30.1,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Colman Domingo",
       "short": "\"Michael\"",
       "category": "MELHOR ATOR COADJUVANTE",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 30.1,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR ANIMAÇÃO",
