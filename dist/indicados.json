@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T20:41:19.792Z",
+  "updatedAt": "2026-08-09T02:52:11.946Z",
   "indicados": [
     {
       "film": "A Odisseia",
@@ -72,9 +72,9 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p654_i12_w800.jpeg?width=320"
     },
     {
-      "film": "Behemoth!",
+      "film": "Behemoth! Uma Vida Composta em Peças",
       "count": 1,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p73_i21_w1600.jpeg?width=640"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p371_i14_w800.jpeg?width=320"
     },
     {
       "film": "Cara-de-Barro",
@@ -85,6 +85,11 @@
       "film": "Dia D",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p77_i18_w947.jpeg?width=640"
+    },
+    {
+      "film": "Dua",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p623_i6_w1880.jpeg?width=320"
     },
     {
       "film": "Elsinore",
@@ -99,7 +104,7 @@
     {
       "film": "Godzilla Minus Zero",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p405_i12_w800.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p405_i13_w800.jpeg?width=320"
     },
     {
       "film": "Homem-Aranha: Um Novo Dia",
@@ -115,11 +120,6 @@
       "film": "Iron Boy",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p254_i14_w520.jpeg?width=320"
-    },
-    {
-      "film": "Like a Limbless Tree",
-      "count": 1,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p555_i11_w378.jpeg"
     },
     {
       "film": "O Bosque Selvagem",
