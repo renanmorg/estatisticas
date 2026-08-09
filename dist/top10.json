@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T04:34:35.723Z",
+  "updated": "2026-08-09T05:34:36.172Z",
   "items": [
     {
       "rank": 1,
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
       "pct_adj": 30.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Colman Domingo",
       "short": "\"Michael\"",
       "category": "MELHOR ATOR COADJUVANTE",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 30.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR ANIMAÇÃO",
@@ -93,9 +93,9 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p90/A_Odisseia.html",
+      "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 23.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
