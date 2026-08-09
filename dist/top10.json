@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T03:34:48.157Z",
+  "updated": "2026-08-09T04:34:35.723Z",
   "items": [
     {
       "rank": 1,
@@ -73,33 +73,33 @@
     },
     {
       "rank": 8,
-      "url": "https://www.termometrooscar.com/melhor-filme.html",
-      "pct_adj": 34.2,
-      "arrow": "same",
-      "title": "Digger",
-      "short": "Alejandro G. Iñárritu e Tom Cruise",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p92_i21_w509.jpeg"
-    },
-    {
-      "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
       "pct_adj": 30.1,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Colman Domingo",
       "short": "\"Michael\"",
       "category": "MELHOR ATOR COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 30.1,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR ANIMAÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg"
+    },
+    {
+      "rank": 10,
+      "url": "https://www.termometrooscar.com/store/p90/A_Odisseia.html",
+      "pct_adj": 23.7,
+      "arrow": "up",
+      "title": "A Odisseia",
+      "short": "Christopher Nolan e Emma Thomas",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
     }
   ]
 }
