@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T00:34:34.305Z",
+  "updated": "2026-08-09T01:34:33.589Z",
   "items": [
     {
       "rank": 1,
@@ -14,8 +14,8 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
-      "pct_adj": 43.8,
-      "arrow": "same",
+      "pct_adj": 51,
+      "arrow": "up",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
@@ -53,53 +53,53 @@
     },
     {
       "rank": 6,
+      "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
+      "pct_adj": 35.9,
+      "arrow": "up",
+      "title": "Penélope Cruz",
+      "short": "\"O Convite\"",
+      "category": "MELHOR ATRIZ COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p191_i17_w800.png"
+    },
+    {
+      "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 34.2,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Como Mágica",
       "short": "Nathan Greno",
       "category": "MELHOR ANIMAÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p242_i14_w1012.jpeg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 34.2,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Digger",
       "short": "Alejandro G. Iñárritu e Tom Cruise",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p92_i21_w509.jpeg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
       "pct_adj": 30.1,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Colman Domingo",
       "short": "\"Michael\"",
       "category": "MELHOR ATOR COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 30.1,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR ANIMAÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
-      "pct_adj": 30,
-      "arrow": "same",
-      "title": "Penélope Cruz",
-      "short": "\"O Convite\"",
-      "category": "MELHOR ATRIZ COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p191_i17_w800.png"
     }
   ]
 }
