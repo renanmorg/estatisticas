@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T07:34:41.214Z",
+  "updated": "2026-08-09T08:34:43.951Z",
   "items": [
     {
       "rank": 1,
@@ -63,43 +63,43 @@
     },
     {
       "rank": 7,
+      "url": "https://www.termometrooscar.com/store/p149/Rachel_Brosnahan.html",
+      "pct_adj": 34.2,
+      "arrow": "up",
+      "title": "Rachel Brosnahan",
+      "short": "\"Saturn Return\"",
+      "category": "MELHOR ATRIZ",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p149_i16_w800.png"
+    },
+    {
+      "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 34.2,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Como Mágica",
       "short": "Nathan Greno",
       "category": "MELHOR ANIMAÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p242_i14_w1012.jpeg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
       "pct_adj": 30.1,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Colman Domingo",
       "short": "\"Michael\"",
       "category": "MELHOR ATOR COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 30.1,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR ANIMAÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/melhor-filme.html",
-      "pct_adj": 23.7,
-      "arrow": "same",
-      "title": "A Odisseia",
-      "short": "Christopher Nolan e Emma Thomas",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
     }
   ]
 }
