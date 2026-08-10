@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T04:34:37.158Z",
+  "updated": "2026-08-10T05:34:35.607Z",
   "items": [
     {
       "rank": 1,
@@ -73,33 +73,33 @@
     },
     {
       "rank": 8,
-      "url": "https://www.termometrooscar.com/store/p90/A_Odisseia.html",
-      "pct_adj": 35.5,
-      "arrow": "up",
-      "title": "A Odisseia",
-      "short": "Christopher Nolan e Emma Thomas",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
-    },
-    {
-      "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-atriz.html",
       "pct_adj": 34.2,
-      "arrow": "down",
+      "arrow": "up",
       "title": "Rachel Brosnahan",
       "short": "\"Saturn Return\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p149_i16_w800.png"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
       "pct_adj": 34.2,
-      "arrow": "down",
+      "arrow": "up",
       "title": "Michael",
       "short": "John Warhurst",
       "category": "MELHOR SOM",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p356_i11_w800.jpeg"
+    },
+    {
+      "rank": 10,
+      "url": "https://www.termometrooscar.com/store/p3786/Super_Mario_Galaxy%3A_O_Filme.html",
+      "pct_adj": 34.2,
+      "arrow": "up",
+      "title": "Super Mario Galaxy: O Filme",
+      "short": "Aaron Horvath e Michael Jelenic",
+      "category": "MELHOR ANIMAÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3786_i2_w477.jpeg"
     }
   ]
 }
