@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T05:34:35.607Z",
+  "updated": "2026-08-10T06:34:36.287Z",
   "items": [
     {
       "rank": 1,
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-atriz.html",
       "pct_adj": 34.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Rachel Brosnahan",
       "short": "\"Saturn Return\"",
       "category": "MELHOR ATRIZ",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
       "pct_adj": 34.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Michael",
       "short": "John Warhurst",
       "category": "MELHOR SOM",
@@ -93,9 +93,9 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p3786/Super_Mario_Galaxy%3A_O_Filme.html",
+      "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 34.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Super Mario Galaxy: O Filme",
       "short": "Aaron Horvath e Michael Jelenic",
       "category": "MELHOR ANIMAÇÃO",
