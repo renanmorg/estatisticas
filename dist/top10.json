@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-17T20:34:36.140Z",
+  "updated": "2026-08-17T21:34:34.894Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/melhor-atriz.html",
       "pct_adj": 70.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Julianne Moore",
       "short": "\"The Debut\"",
       "category": "MELHOR ATRIZ",
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 38.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
       "pct_adj": 35.9,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Penélope Cruz",
       "short": "\"O Convite\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
