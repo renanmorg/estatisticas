@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T23:34:35.550Z",
+  "updated": "2026-08-21T00:34:35.465Z",
   "items": [
     {
       "rank": 1,
@@ -23,23 +23,23 @@
     },
     {
       "rank": 3,
-      "url": "https://www.termometrooscar.com/melhor-ator.html",
-      "pct_adj": 45.4,
-      "arrow": "same",
-      "title": "Matt Damon",
-      "short": "\"A Odisseia\"",
-      "category": "MELHOR ATOR",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
-    },
-    {
-      "rank": 4,
       "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
-      "pct_adj": 43.6,
-      "arrow": "same",
+      "pct_adj": 48.7,
+      "arrow": "up",
       "title": "Colman Domingo",
       "short": "\"Michael\"",
       "category": "MELHOR ATOR COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
+    },
+    {
+      "rank": 4,
+      "url": "https://www.termometrooscar.com/melhor-ator.html",
+      "pct_adj": 45.4,
+      "arrow": "down",
+      "title": "Matt Damon",
+      "short": "\"A Odisseia\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
     },
     {
       "rank": 5,
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 41.3,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 40.9,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR ANIMAÇÃO",
