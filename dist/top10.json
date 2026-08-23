@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T22:34:33.541Z",
+  "updated": "2026-08-23T23:34:50.476Z",
   "items": [
     {
       "rank": 1,
@@ -53,23 +53,23 @@
     },
     {
       "rank": 6,
-      "url": "https://www.termometrooscar.com/melhor-filme.html",
-      "pct_adj": 41.3,
-      "arrow": "same",
-      "title": "A Odisseia",
-      "short": "Christopher Nolan e Emma Thomas",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
-    },
-    {
-      "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-ator.html",
       "pct_adj": 38.6,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Tom Cruise",
       "short": "\"Digger\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3794_i2_w800.png"
+    },
+    {
+      "rank": 7,
+      "url": "https://www.termometrooscar.com/melhor-filme.html",
+      "pct_adj": 38.6,
+      "arrow": "down",
+      "title": "A Odisseia",
+      "short": "Christopher Nolan e Emma Thomas",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
     },
     {
       "rank": 8,
