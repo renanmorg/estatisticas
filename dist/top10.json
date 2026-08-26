@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T19:34:38.299Z",
+  "updated": "2026-08-26T20:34:39.903Z",
   "items": [
     {
       "rank": 1,
@@ -53,53 +53,53 @@
     },
     {
       "rank": 6,
+      "url": "https://www.termometrooscar.com/store/p3789/Cara_de_Um%2C_Focinho_de_Outro.html",
+      "pct_adj": 43.8,
+      "arrow": "up",
+      "title": "Cara de Um, Focinho de Outro",
+      "short": "Daniel Chong",
+      "category": "MELHOR ANIMAÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3789_i2_w1012.jpeg"
+    },
+    {
+      "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 36.3,
-      "arrow": "same",
+      "arrow": "down",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-ator.html",
       "pct_adj": 36,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Tom Cruise",
       "short": "\"Digger\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3794_i2_w800.png"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
       "pct_adj": 35.9,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Penélope Cruz",
       "short": "\"O Convite\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p191_i17_w800.png"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://www.termometrooscar.com/melhor-roteiro-adaptado.html",
       "pct_adj": 34.2,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Devoradores de Estrelas",
       "short": "Drew Goddard",
       "category": "MELHOR ROTEIRO ADAPTADO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p219_i15_w800.jpeg"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo.html",
-      "pct_adj": 34.2,
-      "arrow": "same",
-      "title": "Michael",
-      "short": "Tom Cross",
-      "category": "MELHOR EDIÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p340_i17_w800.jpeg"
     }
   ]
 }
