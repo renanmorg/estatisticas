@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T13:34:34.547Z",
+  "updated": "2026-08-27T14:34:37.766Z",
   "items": [
     {
       "rank": 1,
@@ -24,8 +24,8 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/melhor-ator.html",
-      "pct_adj": 52.7,
-      "arrow": "same",
+      "pct_adj": 49.1,
+      "arrow": "down",
       "title": "Matt Damon",
       "short": "\"A Odisseia\"",
       "category": "MELHOR ATOR",
@@ -74,8 +74,8 @@
     {
       "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-ator.html",
-      "pct_adj": 36,
-      "arrow": "same",
+      "pct_adj": 38.6,
+      "arrow": "up",
       "title": "Tom Cruise",
       "short": "\"Digger\"",
       "category": "MELHOR ATOR",
