@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T16:34:38.140Z",
+  "updated": "2026-08-27T17:34:42.818Z",
   "items": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-ator.html",
       "pct_adj": 38.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Tom Cruise",
       "short": "\"Digger\"",
       "category": "MELHOR ATOR",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 36.5,
-      "arrow": "down",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
