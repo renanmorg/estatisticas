@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-28T12:34:48.884Z",
+  "updated": "2026-08-28T13:34:38.511Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/melhor-atriz.html",
-      "pct_adj": 73,
-      "arrow": "same",
+      "pct_adj": 74.2,
+      "arrow": "up",
       "title": "Julianne Moore",
       "short": "\"The Debut\"",
       "category": "MELHOR ATRIZ",
@@ -13,23 +13,23 @@
     },
     {
       "rank": 2,
-      "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
-      "pct_adj": 52.3,
-      "arrow": "same",
-      "title": "Toy Story 5",
-      "short": "McKenna Harris e Andrew Stanton",
-      "category": "MELHOR ANIMAÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg"
-    },
-    {
-      "rank": 3,
       "url": "https://www.termometrooscar.com/melhor-ator.html",
-      "pct_adj": 51.2,
-      "arrow": "same",
+      "pct_adj": 53.1,
+      "arrow": "up",
       "title": "Matt Damon",
       "short": "\"A Odisseia\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
+    },
+    {
+      "rank": 3,
+      "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
+      "pct_adj": 52.3,
+      "arrow": "down",
+      "title": "Toy Story 5",
+      "short": "McKenna Harris e Andrew Stanton",
+      "category": "MELHOR ANIMAÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg"
     },
     {
       "rank": 4,
@@ -53,9 +53,9 @@
     },
     {
       "rank": 6,
-      "url": "https://www.termometrooscar.com/store/p219/Devoradores_de_Estrelas.html",
+      "url": "https://www.termometrooscar.com/melhor-roteiro-adaptado.html",
       "pct_adj": 43.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Devoradores de Estrelas",
       "short": "Drew Goddard",
       "category": "MELHOR ROTEIRO ADAPTADO",
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
       "pct_adj": 43.8,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Michael",
       "short": "John Warhurst",
       "category": "MELHOR SOM",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 43.8,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Cara de Um, Focinho de Outro",
       "short": "Daniel Chong",
       "category": "MELHOR ANIMAÇÃO",
@@ -83,9 +83,9 @@
     },
     {
       "rank": 9,
-      "url": "https://www.termometrooscar.com/store/p3798/Devoradores_de_Estrelas.html",
+      "url": "https://www.termometrooscar.com/melhor-efeitos-visuais.html",
       "pct_adj": 43.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Devoradores de Estrelas",
       "short": "Paul Lambert",
       "category": "MELHOR EFEITOS VISUAIS",
@@ -93,13 +93,13 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/melhor-filme.html",
-      "pct_adj": 38.7,
-      "arrow": "down",
-      "title": "A Odisseia",
-      "short": "Christopher Nolan e Emma Thomas",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
+      "url": "https://www.termometrooscar.com/store/p3794/Tom_Cruise.html",
+      "pct_adj": 41,
+      "arrow": "up",
+      "title": "Tom Cruise",
+      "short": "\"Digger\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3794_i2_w800.png"
     }
   ]
 }
