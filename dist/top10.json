@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-28T00:34:39.067Z",
+  "updated": "2026-08-28T01:34:43.999Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/melhor-atriz.html",
       "pct_adj": 73,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Julianne Moore",
       "short": "\"The Debut\"",
       "category": "MELHOR ATRIZ",
@@ -13,26 +13,16 @@
     },
     {
       "rank": 2,
-      "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
-      "pct_adj": 52.3,
-      "arrow": "up",
-      "title": "Toy Story 5",
-      "short": "McKenna Harris e Andrew Stanton",
-      "category": "MELHOR ANIMAÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg"
-    },
-    {
-      "rank": 3,
       "url": "https://www.termometrooscar.com/melhor-ator.html",
       "pct_adj": 51.2,
-      "arrow": "down",
+      "arrow": "up",
       "title": "Matt Damon",
       "short": "\"A Odisseia\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
       "pct_adj": 49,
       "arrow": "up",
@@ -42,10 +32,20 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
     },
     {
+      "rank": 4,
+      "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
+      "pct_adj": 49,
+      "arrow": "down",
+      "title": "Toy Story 5",
+      "short": "McKenna Harris e Andrew Stanton",
+      "category": "MELHOR ANIMAÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg"
+    },
+    {
       "rank": 5,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
       "pct_adj": 48.7,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
@@ -53,53 +53,53 @@
     },
     {
       "rank": 6,
+      "url": "https://www.termometrooscar.com/store/p356/Michael.html",
+      "pct_adj": 43.8,
+      "arrow": "up",
+      "title": "Michael",
+      "short": "John Warhurst",
+      "category": "MELHOR SOM",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p356_i11_w800.jpeg"
+    },
+    {
+      "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 43.8,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Cara de Um, Focinho de Outro",
       "short": "Daniel Chong",
       "category": "MELHOR ANIMAÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3789_i2_w1012.jpeg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 38.7,
-      "arrow": "same",
+      "arrow": "down",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-ator.html",
       "pct_adj": 38.6,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Tom Cruise",
       "short": "\"Digger\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3794_i2_w800.png"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
       "pct_adj": 35.4,
-      "arrow": "up",
+      "arrow": "down",
       "title": "Penélope Cruz",
       "short": "\"La Bola Negra\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p176_i15_w800.png"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p184/Scarlett_Johansson.html",
-      "pct_adj": 34.2,
-      "arrow": "up",
-      "title": "Scarlett Johansson",
-      "short": "\"Paper Tiger\"",
-      "category": "MELHOR ATRIZ COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p184_i17_w800.png"
     }
   ]
 }
