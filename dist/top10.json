@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T13:34:47.254Z",
+  "updated": "2026-08-30T14:34:39.207Z",
   "items": [
     {
       "rank": 1,
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/melhor-ator.html",
       "pct_adj": 54.9,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Matt Damon",
       "short": "\"A Odisseia\"",
       "category": "MELHOR ATOR",
@@ -93,9 +93,9 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p90/A_Odisseia.html",
+      "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 38.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
