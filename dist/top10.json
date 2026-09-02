@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-02T16:34:41.128Z",
+  "updated": "2026-09-02T17:34:37.940Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/melhor-atriz.html",
-      "pct_adj": 76.4,
-      "arrow": "same",
+      "pct_adj": 77.3,
+      "arrow": "up",
       "title": "Julianne Moore",
       "short": "\"The Debut\"",
       "category": "MELHOR ATRIZ",
@@ -14,8 +14,8 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
-      "pct_adj": 65.7,
-      "arrow": "same",
+      "pct_adj": 60.8,
+      "arrow": "down",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR ANIMAÇÃO",
@@ -43,63 +43,63 @@
     },
     {
       "rank": 5,
-      "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
-      "pct_adj": 55.2,
-      "arrow": "same",
-      "title": "Colman Domingo",
-      "short": "\"Michael\"",
-      "category": "MELHOR ATOR COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
-    },
-    {
-      "rank": 6,
       "url": "https://www.termometrooscar.com/melhor-roteiro-adaptado.html",
       "pct_adj": 51,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Devoradores de Estrelas",
       "short": "Drew Goddard",
       "category": "MELHOR ROTEIRO ADAPTADO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p219_i15_w800.jpeg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo.html",
       "pct_adj": 51,
-      "arrow": "same",
+      "arrow": "up",
       "title": "A Odisseia",
       "short": "Jennifer Lame",
       "category": "MELHOR EDIÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p337_i14_w800.jpeg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 51,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Cara de Um, Focinho de Outro",
       "short": "Daniel Chong",
       "category": "MELHOR ANIMAÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3789_i2_w1012.jpeg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-efeitos-visuais.html",
       "pct_adj": 51,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Devoradores de Estrelas",
       "short": "Paul Lambert",
       "category": "MELHOR EFEITOS VISUAIS",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3798_i2_w800.jpeg"
     },
     {
+      "rank": 9,
+      "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
+      "pct_adj": 49.7,
+      "arrow": "down",
+      "title": "Colman Domingo",
+      "short": "\"Michael\"",
+      "category": "MELHOR ATOR COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
+    },
+    {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo.html",
+      "url": "https://www.termometrooscar.com/store/p216/A_Odisseia.html",
       "pct_adj": 43.8,
-      "arrow": "same",
-      "title": "Michael",
-      "short": "Tom Cross",
-      "category": "MELHOR EDIÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p340_i17_w800.jpeg"
+      "arrow": "up",
+      "title": "A Odisseia",
+      "short": "Christopher Nolan",
+      "category": "MELHOR ROTEIRO ADAPTADO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p216_i14_w800.jpeg"
     }
   ]
 }
