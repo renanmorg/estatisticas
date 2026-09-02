@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T03:34:36.765Z",
+  "updated": "2026-09-02T04:34:41.010Z",
   "items": [
     {
       "rank": 1,
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
       "pct_adj": 59.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/melhor-ator.html",
       "pct_adj": 59.5,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Matt Damon",
       "short": "\"A Odisseia\"",
       "category": "MELHOR ATOR",
