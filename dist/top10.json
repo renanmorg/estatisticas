@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T02:34:34.013Z",
+  "updated": "2026-09-02T03:34:36.765Z",
   "items": [
     {
       "rank": 1,
@@ -23,23 +23,23 @@
     },
     {
       "rank": 3,
-      "url": "https://www.termometrooscar.com/melhor-ator.html",
-      "pct_adj": 58.1,
-      "arrow": "same",
-      "title": "Matt Damon",
-      "short": "\"A Odisseia\"",
-      "category": "MELHOR ATOR",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
-    },
-    {
-      "rank": 4,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
-      "pct_adj": 56.5,
-      "arrow": "same",
+      "pct_adj": 59.6,
+      "arrow": "up",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3289_i3_w800.png"
+    },
+    {
+      "rank": 4,
+      "url": "https://www.termometrooscar.com/melhor-ator.html",
+      "pct_adj": 59.5,
+      "arrow": "down",
+      "title": "Matt Damon",
+      "short": "\"A Odisseia\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
     },
     {
       "rank": 5,
