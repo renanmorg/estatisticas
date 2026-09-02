@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-02T22:39:35.531Z",
+  "updated": "2026-09-02T23:34:43.085Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/melhor-atriz.html",
-      "pct_adj": 77.3,
+      "pct_adj": 78.2,
       "arrow": "same",
       "title": "Julianne Moore",
       "short": "\"The Debut\"",
@@ -23,6 +23,16 @@
     },
     {
       "rank": 3,
+      "url": "https://www.termometrooscar.com/melhor-ator.html",
+      "pct_adj": 60.9,
+      "arrow": "same",
+      "title": "Matt Damon",
+      "short": "\"A Odisseia\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
+    },
+    {
+      "rank": 4,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
       "pct_adj": 59.6,
       "arrow": "same",
@@ -32,17 +42,17 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3289_i3_w800.png"
     },
     {
-      "rank": 4,
-      "url": "https://www.termometrooscar.com/melhor-ator.html",
-      "pct_adj": 59.5,
+      "rank": 5,
+      "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
+      "pct_adj": 56.6,
       "arrow": "same",
-      "title": "Matt Damon",
-      "short": "\"A Odisseia\"",
-      "category": "MELHOR ATOR",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
+      "title": "Cara de Um, Focinho de Outro",
+      "short": "Daniel Chong",
+      "category": "MELHOR ANIMAÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3789_i2_w1012.jpeg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo.html",
       "pct_adj": 51,
       "arrow": "same",
@@ -50,16 +60,6 @@
       "short": "Jennifer Lame",
       "category": "MELHOR EDIÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p337_i14_w800.jpeg"
-    },
-    {
-      "rank": 6,
-      "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
-      "pct_adj": 51,
-      "arrow": "same",
-      "title": "Cara de Um, Focinho de Outro",
-      "short": "Daniel Chong",
-      "category": "MELHOR ANIMAÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3789_i2_w1012.jpeg"
     },
     {
       "rank": 7,
