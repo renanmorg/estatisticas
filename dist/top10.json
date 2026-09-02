@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T18:34:41.884Z",
+  "updated": "2026-09-02T19:34:40.593Z",
   "items": [
     {
       "rank": 1,
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
       "pct_adj": 49.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Colman Domingo",
       "short": "\"Michael\"",
       "category": "MELHOR ATOR COADJUVANTE",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-roteiro-adaptado.html",
       "pct_adj": 43.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan",
       "category": "MELHOR ROTEIRO ADAPTADO",
@@ -93,9 +93,9 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p340/Michael.html",
+      "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo.html",
       "pct_adj": 43.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Michael",
       "short": "Tom Cross",
       "category": "MELHOR EDIÇÃO",
