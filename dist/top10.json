@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T12:34:45.642Z",
+  "updated": "2026-09-03T13:34:39.962Z",
   "items": [
     {
       "rank": 1,
@@ -73,9 +73,9 @@
     },
     {
       "rank": 8,
-      "url": "https://www.termometrooscar.com/store/p412/Vingadores%3A_Doutor_Destino.html",
+      "url": "https://www.termometrooscar.com/melhor-efeitos-visuais.html",
       "pct_adj": 51,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Vingadores: Doutor Destino",
       "short": "Christopher Townsend",
       "category": "MELHOR EFEITOS VISUAIS",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
       "pct_adj": 46.8,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Penélope Cruz",
       "short": "\"La Bola Negra\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
       "pct_adj": 43.8,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Scarlett Johansson",
       "short": "\"Paper Tiger\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
