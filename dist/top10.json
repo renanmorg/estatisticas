@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T15:35:33.762Z",
+  "updated": "2026-09-03T16:34:53.082Z",
   "items": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo.html",
       "pct_adj": 56.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Jennifer Lame",
       "category": "MELHOR EDIÇÃO",
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 56.6,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Cara de Um, Focinho de Outro",
       "short": "Daniel Chong",
       "category": "MELHOR ANIMAÇÃO",
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
       "pct_adj": 52.4,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Colman Domingo",
       "short": "\"Michael\"",
       "category": "MELHOR ATOR COADJUVANTE",
@@ -73,16 +73,6 @@
     },
     {
       "rank": 8,
-      "url": "https://www.termometrooscar.com/melhor-efeitos-visuais.html",
-      "pct_adj": 51,
-      "arrow": "same",
-      "title": "Vingadores: Doutor Destino",
-      "short": "Christopher Townsend",
-      "category": "MELHOR EFEITOS VISUAIS",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p412_i14_w800.jpeg"
-    },
-    {
-      "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
       "pct_adj": 46.8,
       "arrow": "same",
@@ -92,7 +82,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p176_i15_w800.png"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
       "pct_adj": 43.8,
       "arrow": "same",
@@ -100,6 +90,16 @@
       "short": "\"Paper Tiger\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p184_i17_w800.png"
+    },
+    {
+      "rank": 10,
+      "url": "https://www.termometrooscar.com/store/p359/Duna%3A_Parte_3.html",
+      "pct_adj": 43.8,
+      "arrow": "same",
+      "title": "Duna: Parte 3",
+      "short": "Gareth John",
+      "category": "MELHOR SOM",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p359_i13_w800.jpeg"
     }
   ]
 }
