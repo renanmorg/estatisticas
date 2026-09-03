@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T23:34:43.085Z",
+  "updated": "2026-09-03T00:34:42.398Z",
   "items": [
     {
       "rank": 1,
@@ -53,23 +53,23 @@
     },
     {
       "rank": 6,
-      "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo.html",
-      "pct_adj": 51,
-      "arrow": "same",
-      "title": "A Odisseia",
-      "short": "Jennifer Lame",
-      "category": "MELHOR EDIÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p337_i14_w800.jpeg"
-    },
-    {
-      "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
-      "pct_adj": 49.7,
-      "arrow": "same",
+      "pct_adj": 52.4,
+      "arrow": "up",
       "title": "Colman Domingo",
       "short": "\"Michael\"",
       "category": "MELHOR ATOR COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
+    },
+    {
+      "rank": 7,
+      "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo.html",
+      "pct_adj": 51,
+      "arrow": "down",
+      "title": "A Odisseia",
+      "short": "Jennifer Lame",
+      "category": "MELHOR EDIÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p337_i14_w800.jpeg"
     },
     {
       "rank": 8,
