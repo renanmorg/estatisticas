@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-07T12:34:36.446Z",
+  "updated": "2026-09-07T13:34:44.706Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/melhor-atriz.html",
       "pct_adj": 71,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Julianne Moore",
       "short": "\"The Debut\"",
       "category": "MELHOR ATRIZ",
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
       "pct_adj": 59.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/melhor-ator.html",
       "pct_adj": 57.9,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Matt Damon",
       "short": "\"A Odisseia\"",
       "category": "MELHOR ATOR",
@@ -63,16 +63,26 @@
     },
     {
       "rank": 7,
+      "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
+      "pct_adj": 52.4,
+      "arrow": "up",
+      "title": "Penélope Cruz",
+      "short": "\"La Bola Negra\"",
+      "category": "MELHOR ATRIZ COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p176_i15_w800.png"
+    },
+    {
+      "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 51,
-      "arrow": "up",
+      "arrow": "down",
       "title": "Super Mario Galaxy: O Filme",
       "short": "Aaron Horvath e Michael Jelenic",
       "category": "MELHOR ANIMAÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3786_i2_w477.jpeg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
       "pct_adj": 50.5,
       "arrow": "down",
@@ -80,16 +90,6 @@
       "short": "\"Michael\"",
       "category": "MELHOR ATOR COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
-    },
-    {
-      "rank": 9,
-      "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
-      "pct_adj": 49.7,
-      "arrow": "same",
-      "title": "Penélope Cruz",
-      "short": "\"La Bola Negra\"",
-      "category": "MELHOR ATRIZ COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p176_i15_w800.png"
     },
     {
       "rank": 10,
