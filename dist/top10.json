@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T13:34:44.706Z",
+  "updated": "2026-09-07T14:34:39.652Z",
   "items": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
       "pct_adj": 52.4,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Penélope Cruz",
       "short": "\"La Bola Negra\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 51,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Super Mario Galaxy: O Filme",
       "short": "Aaron Horvath e Michael Jelenic",
       "category": "MELHOR ANIMAÇÃO",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
       "pct_adj": 50.5,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Colman Domingo",
       "short": "\"Michael\"",
       "category": "MELHOR ATOR COADJUVANTE",
