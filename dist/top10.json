@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T01:34:42.508Z",
+  "updated": "2026-09-11T02:34:40.969Z",
   "items": [
     {
       "rank": 1,
@@ -15,7 +15,7 @@
       "rank": 2,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 69,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR ANIMAÇÃO",
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
       "pct_adj": 68.5,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
@@ -93,13 +93,13 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/melhor-efeitos-visuais.html",
-      "pct_adj": 51,
-      "arrow": "same",
-      "title": "Dentro da Baleia",
-      "short": "Guillaume Rocheron",
-      "category": "MELHOR EFEITOS VISUAIS",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p402_i14_w800.jpeg"
+      "url": "https://www.termometrooscar.com/store/p356/Michael.html",
+      "pct_adj": 52.9,
+      "arrow": "up",
+      "title": "Michael",
+      "short": "John Warhurst",
+      "category": "MELHOR SOM",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p356_i11_w800.jpeg"
     }
   ]
 }
