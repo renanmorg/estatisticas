@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T03:34:40.909Z",
+  "updated": "2026-09-12T04:34:50.673Z",
   "items": [
     {
       "rank": 1,
@@ -83,23 +83,23 @@
     },
     {
       "rank": 9,
+      "url": "https://www.termometrooscar.com/store/p90/A_Odisseia.html",
+      "pct_adj": 53,
+      "arrow": "up",
+      "title": "A Odisseia",
+      "short": "Christopher Nolan e Emma Thomas",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
+    },
+    {
+      "rank": 10,
       "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
       "pct_adj": 52.9,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Michael",
       "short": "John Warhurst",
       "category": "MELHOR SOM",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p356_i11_w800.jpeg"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/melhor-efeitos-visuais.html",
-      "pct_adj": 52.9,
-      "arrow": "same",
-      "title": "Devoradores de Estrelas",
-      "short": "Paul Lambert",
-      "category": "MELHOR EFEITOS VISUAIS",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3798_i2_w800.jpeg"
     }
   ]
 }
