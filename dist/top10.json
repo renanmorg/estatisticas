@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T20:34:41.324Z",
+  "updated": "2026-09-16T21:34:42.967Z",
   "items": [
     {
       "rank": 1,
@@ -43,63 +43,63 @@
     },
     {
       "rank": 5,
+      "url": "https://www.termometrooscar.com/melhor-filme-estrangeiro.html",
+      "pct_adj": 59.6,
+      "arrow": "up",
+      "title": "Fjord",
+      "short": "Romênia",
+      "category": "MELHOR FILME INTERNACIONAL",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p553_i11_w1944.jpeg"
+    },
+    {
+      "rank": 6,
       "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
       "pct_adj": 59,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Penélope Cruz",
       "short": "\"La Bola Negra\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p176_i15_w800.png"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-ator.html",
       "pct_adj": 57.9,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Matt Damon",
       "short": "\"A Odisseia\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 56.6,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Super Mario Galaxy: O Filme",
       "short": "Aaron Horvath e Michael Jelenic",
       "category": "MELHOR ANIMAÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3786_i2_w477.jpeg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 56.6,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p82_i19_w1011.jpeg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
       "pct_adj": 56.5,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Michael",
       "short": "John Warhurst",
       "category": "MELHOR SOM",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p356_i11_w800.jpeg"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/melhor-filme-estrangeiro.html",
-      "pct_adj": 56.5,
-      "arrow": "same",
-      "title": "Fjord",
-      "short": "Romênia",
-      "category": "MELHOR FILME INTERNACIONAL",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p553_i11_w1944.jpeg"
     }
   ]
 }
