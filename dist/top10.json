@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T18:34:46.268Z",
+  "updated": "2026-09-18T19:34:42.878Z",
   "items": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/melhor-ator.html",
       "pct_adj": 61,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Matt Damon",
       "short": "\"A Odisseia\"",
       "category": "MELHOR ATOR",
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
       "pct_adj": 60.8,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Penélope Cruz",
       "short": "\"La Bola Negra\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
