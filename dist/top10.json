@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-18T21:34:51.834Z",
+  "updated": "2026-09-18T22:34:54.346Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
       "pct_adj": 73,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
@@ -15,7 +15,7 @@
       "rank": 2,
       "url": "https://www.termometrooscar.com/melhor-atriz.html",
       "pct_adj": 72.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Julianne Moore",
       "short": "\"The Debut\"",
       "category": "MELHOR ATRIZ",
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 72.7,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR ANIMAÇÃO",
