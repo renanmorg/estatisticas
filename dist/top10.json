@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-18T17:34:49.327Z",
+  "updated": "2026-09-18T18:34:46.268Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 75.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR ANIMAÇÃO",
@@ -15,7 +15,7 @@
       "rank": 2,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
       "pct_adj": 73,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/melhor-atriz.html",
       "pct_adj": 72.7,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Julianne Moore",
       "short": "\"The Debut\"",
       "category": "MELHOR ATRIZ",
@@ -43,23 +43,23 @@
     },
     {
       "rank": 5,
-      "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
-      "pct_adj": 60.8,
-      "arrow": "same",
-      "title": "Penélope Cruz",
-      "short": "\"La Bola Negra\"",
-      "category": "MELHOR ATRIZ COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p176_i15_w800.png"
-    },
-    {
-      "rank": 6,
       "url": "https://www.termometrooscar.com/melhor-ator.html",
-      "pct_adj": 60,
+      "pct_adj": 61,
       "arrow": "up",
       "title": "Matt Damon",
       "short": "\"A Odisseia\"",
       "category": "MELHOR ATOR",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
+    },
+    {
+      "rank": 6,
+      "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
+      "pct_adj": 60.8,
+      "arrow": "down",
+      "title": "Penélope Cruz",
+      "short": "\"La Bola Negra\"",
+      "category": "MELHOR ATRIZ COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p176_i15_w800.png"
     },
     {
       "rank": 7,
