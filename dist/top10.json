@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T19:34:41.416Z",
+  "updated": "2026-09-20T20:34:52.252Z",
   "items": [
     {
       "rank": 1,
@@ -83,23 +83,23 @@
     },
     {
       "rank": 9,
+      "url": "https://www.termometrooscar.com/store/p3785/Duna%3A_Parte_3.html",
+      "pct_adj": 56.6,
+      "arrow": "up",
+      "title": "Duna: Parte 3",
+      "short": "Paul Lambert",
+      "category": "MELHOR EFEITOS VISUAIS",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3785_i2_w800.jpeg"
+    },
+    {
+      "rank": 10,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 56.6,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p82_i19_w1011.jpeg"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
-      "pct_adj": 56.5,
-      "arrow": "same",
-      "title": "Michael",
-      "short": "John Warhurst",
-      "category": "MELHOR SOM",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p356_i11_w800.jpeg"
     }
   ]
 }
