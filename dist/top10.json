@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T16:34:53.692Z",
+  "updated": "2026-09-20T17:34:42.577Z",
   "items": [
     {
       "rank": 1,
@@ -13,6 +13,16 @@
     },
     {
       "rank": 2,
+      "url": "https://www.termometrooscar.com/melhor-atriz.html",
+      "pct_adj": 73.4,
+      "arrow": "same",
+      "title": "Julianne Moore",
+      "short": "\"The Debut\"",
+      "category": "MELHOR ATRIZ",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p140_i19_w800.png"
+    },
+    {
+      "rank": 3,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
       "pct_adj": 73,
       "arrow": "same",
@@ -20,16 +30,6 @@
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3289_i3_w800.png"
-    },
-    {
-      "rank": 3,
-      "url": "https://www.termometrooscar.com/melhor-atriz.html",
-      "pct_adj": 72.7,
-      "arrow": "same",
-      "title": "Julianne Moore",
-      "short": "\"The Debut\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p140_i19_w800.png"
     },
     {
       "rank": 4,
