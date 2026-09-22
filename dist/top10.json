@@ -1,25 +1,25 @@
 {
-  "updated": "2026-09-22T19:34:40.719Z",
+  "updated": "2026-09-22T20:34:50.116Z",
   "items": [
     {
       "rank": 1,
-      "url": "https://www.termometrooscar.com/melhor-diretor.html",
-      "pct_adj": 74.2,
-      "arrow": "same",
-      "title": "Christopher Nolan",
-      "short": "\"A Odisseia\"",
-      "category": "MELHOR DIREÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3289_i3_w800.png"
-    },
-    {
-      "rank": 2,
       "url": "https://www.termometrooscar.com/melhor-atriz.html",
-      "pct_adj": 74,
-      "arrow": "same",
+      "pct_adj": 74.7,
+      "arrow": "up",
       "title": "Julianne Moore",
       "short": "\"The Debut\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p140_i19_w800.png"
+    },
+    {
+      "rank": 2,
+      "url": "https://www.termometrooscar.com/melhor-diretor.html",
+      "pct_adj": 74.2,
+      "arrow": "down",
+      "title": "Christopher Nolan",
+      "short": "\"A Odisseia\"",
+      "category": "MELHOR DIREÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3289_i3_w800.png"
     },
     {
       "rank": 3,
