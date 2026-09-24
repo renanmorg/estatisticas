@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T17:34:44.398Z",
+  "updated": "2026-09-24T18:34:39.182Z",
   "items": [
     {
       "rank": 1,
@@ -13,23 +13,23 @@
     },
     {
       "rank": 2,
-      "url": "https://www.termometrooscar.com/melhor-atriz.html",
-      "pct_adj": 74.7,
-      "arrow": "same",
-      "title": "Julianne Moore",
-      "short": "\"The Debut\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p140_i19_w800.png"
-    },
-    {
-      "rank": 3,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 74.5,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR ANIMAÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg"
+    },
+    {
+      "rank": 3,
+      "url": "https://www.termometrooscar.com/melhor-atriz.html",
+      "pct_adj": 72,
+      "arrow": "down",
+      "title": "Julianne Moore",
+      "short": "\"The Debut\"",
+      "category": "MELHOR ATRIZ",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p140_i19_w800.png"
     },
     {
       "rank": 4,
