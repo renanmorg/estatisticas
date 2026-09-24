@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T06:35:03.657Z",
+  "updated": "2026-09-24T07:34:39.525Z",
   "items": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/melhor-ator.html",
       "pct_adj": 62.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Matt Damon",
       "short": "\"A Odisseia\"",
       "category": "MELHOR ATOR",
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/melhor-roteiro-adaptado.html",
       "pct_adj": 62.3,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Devoradores de Estrelas",
       "short": "Drew Goddard",
       "category": "MELHOR ROTEIRO ADAPTADO",
