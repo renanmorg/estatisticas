@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T04:38:28.951Z",
+  "updated": "2026-09-28T05:34:40.579Z",
   "items": [
     {
       "rank": 1,
@@ -63,16 +63,6 @@
     },
     {
       "rank": 7,
-      "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
-      "pct_adj": 61.5,
-      "arrow": "same",
-      "title": "Colman Domingo",
-      "short": "\"Michael\"",
-      "category": "MELHOR ATOR COADJUVANTE",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p162_i21_w800.png"
-    },
-    {
-      "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 61,
       "arrow": "same",
@@ -82,7 +72,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p82_i19_w1011.jpeg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
       "pct_adj": 60.8,
       "arrow": "same",
@@ -92,7 +82,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p176_i15_w800.png"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 59.9,
       "arrow": "same",
@@ -100,6 +90,16 @@
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
+    },
+    {
+      "rank": 10,
+      "url": "https://www.termometrooscar.com/store/p356/Michael.html",
+      "pct_adj": 59.6,
+      "arrow": "same",
+      "title": "Michael",
+      "short": "John Warhurst",
+      "category": "MELHOR SOM",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p356_i11_w800.jpeg"
     }
   ]
 }
