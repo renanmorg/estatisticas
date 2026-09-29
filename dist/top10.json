@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T19:34:45.605Z",
+  "updated": "2026-09-29T20:34:49.111Z",
   "items": [
     {
       "rank": 1,
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 60.4,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
@@ -93,9 +93,9 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p356/Michael.html",
+      "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
       "pct_adj": 59.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Michael",
       "short": "John Warhurst",
       "category": "MELHOR SOM",
