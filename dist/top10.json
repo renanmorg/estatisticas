@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T17:34:38.271Z",
+  "updated": "2026-10-01T18:34:44.454Z",
   "items": [
     {
       "rank": 1,
@@ -24,8 +24,8 @@
     {
       "rank": 3,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
-      "pct_adj": 70.6,
-      "arrow": "same",
+      "pct_adj": 71.2,
+      "arrow": "up",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR ANIMAÇÃO",
@@ -44,8 +44,8 @@
     {
       "rank": 5,
       "url": "https://www.termometrooscar.com/melhor-ator.html",
-      "pct_adj": 64.5,
-      "arrow": "same",
+      "pct_adj": 62.5,
+      "arrow": "down",
       "title": "Matt Damon",
       "short": "\"A Odisseia\"",
       "category": "MELHOR ATOR",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 62,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
