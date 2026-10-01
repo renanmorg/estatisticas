@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-01T00:34:42.463Z",
+  "updated": "2026-10-01T01:34:50.267Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
       "pct_adj": 73.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 61,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
@@ -93,13 +93,13 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
-      "pct_adj": 59.6,
-      "arrow": "same",
-      "title": "Michael",
-      "short": "John Warhurst",
-      "category": "MELHOR SOM",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p356_i11_w800.jpeg"
+      "url": "https://www.termometrooscar.com/store/p441/A_Odisseia.html",
+      "pct_adj": 60.1,
+      "arrow": "up",
+      "title": "A Odisseia",
+      "short": "Ludwig Göransson",
+      "category": "MELHOR TRILHA SONORA",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p441_i19_w800.jpeg"
     }
   ]
 }
