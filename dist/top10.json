@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-01T09:34:38.838Z",
+  "updated": "2026-10-01T10:34:52.124Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
-      "pct_adj": 73.2,
-      "arrow": "same",
+      "pct_adj": 74.2,
+      "arrow": "up",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
@@ -64,42 +64,42 @@
     {
       "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-trilha-sonora.html",
+      "pct_adj": 62.1,
+      "arrow": "up",
+      "title": "A Odisseia",
+      "short": "Ludwig Göransson",
+      "category": "MELHOR TRILHA SONORA",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p441_i19_w800.jpeg"
+    },
+    {
+      "rank": 8,
+      "url": "https://www.termometrooscar.com/melhor-trilha-sonora.html",
       "pct_adj": 61,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Toy Story 5",
       "short": "Randy Newman",
       "category": "MELHOR TRILHA SONORA",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p451_i17_w800.jpeg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 61,
-      "arrow": "same",
+      "arrow": "down",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p82_i19_w1011.jpeg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 61,
-      "arrow": "same",
+      "arrow": "down",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/melhor-trilha-sonora.html",
-      "pct_adj": 60.1,
-      "arrow": "same",
-      "title": "A Odisseia",
-      "short": "Ludwig Göransson",
-      "category": "MELHOR TRILHA SONORA",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p441_i19_w800.jpeg"
     }
   ]
 }
