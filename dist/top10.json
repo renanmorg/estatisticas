@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T15:35:00.319Z",
+  "updated": "2026-10-01T16:34:42.596Z",
   "items": [
     {
       "rank": 1,
@@ -73,6 +73,16 @@
     },
     {
       "rank": 8,
+      "url": "https://www.termometrooscar.com/melhor-filme.html",
+      "pct_adj": 61.5,
+      "arrow": "same",
+      "title": "A Odisseia",
+      "short": "Christopher Nolan e Emma Thomas",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
+    },
+    {
+      "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-trilha-sonora.html",
       "pct_adj": 61,
       "arrow": "same",
@@ -82,7 +92,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p451_i17_w800.jpeg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 61,
       "arrow": "same",
@@ -90,16 +100,6 @@
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p82_i19_w1011.jpeg"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/melhor-filme.html",
-      "pct_adj": 61,
-      "arrow": "same",
-      "title": "A Odisseia",
-      "short": "Christopher Nolan e Emma Thomas",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
     }
   ]
 }
