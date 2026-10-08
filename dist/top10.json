@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-08T18:34:57.283Z",
+  "updated": "2026-10-08T19:34:52.525Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
       "pct_adj": 75.9,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/melhor-ator.html",
       "pct_adj": 64.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Matt Damon",
       "short": "\"A Odisseia\"",
       "category": "MELHOR ATOR",
@@ -83,9 +83,9 @@
     },
     {
       "rank": 9,
-      "url": "https://www.termometrooscar.com/store/p176/Pen%C3%A9lope_Cruz.html",
+      "url": "https://www.termometrooscar.com/melhor-atriz-coadjuvante.html",
       "pct_adj": 61.5,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Penélope Cruz",
       "short": "\"La Bola Negra\"",
       "category": "MELHOR ATRIZ COADJUVANTE",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/melhor-trilha-sonora.html",
       "pct_adj": 61,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Toy Story 5",
       "short": "Randy Newman",
       "category": "MELHOR TRILHA SONORA",
