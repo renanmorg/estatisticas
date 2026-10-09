@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T02:34:42.183Z",
+  "updated": "2026-10-09T03:34:46.226Z",
   "items": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 62.4,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/melhor-roteiro-adaptado.html",
       "pct_adj": 62.3,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Devoradores de Estrelas",
       "short": "Drew Goddard",
       "category": "MELHOR ROTEIRO ADAPTADO",
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
       "pct_adj": 62.3,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Michael",
       "short": "John Warhurst",
       "category": "MELHOR SOM",
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-trilha-sonora.html",
       "pct_adj": 62.1,
-      "arrow": "down",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Ludwig Göransson",
       "category": "MELHOR TRILHA SONORA",
