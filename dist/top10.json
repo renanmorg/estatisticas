@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T12:35:50.369Z",
+  "updated": "2026-10-10T13:34:50.313Z",
   "items": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/melhor-atriz.html",
-      "pct_adj": 72.2,
+      "pct_adj": 72.7,
       "arrow": "same",
       "title": "Julianne Moore",
       "short": "\"The Debut\"",
@@ -33,16 +33,6 @@
     },
     {
       "rank": 4,
-      "url": "https://www.termometrooscar.com/melhor-ator.html",
-      "pct_adj": 64.1,
-      "arrow": "same",
-      "title": "Matt Damon",
-      "short": "\"A Odisseia\"",
-      "category": "MELHOR ATOR",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
-    },
-    {
-      "rank": 5,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 62.4,
       "arrow": "same",
@@ -52,7 +42,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "url": "https://www.termometrooscar.com/melhor-roteiro-adaptado.html",
       "pct_adj": 62.3,
       "arrow": "same",
@@ -62,7 +52,7 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p219_i15_w800.jpeg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
       "pct_adj": 62.3,
       "arrow": "same",
@@ -70,6 +60,16 @@
       "short": "John Warhurst",
       "category": "MELHOR SOM",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p356_i11_w800.jpeg"
+    },
+    {
+      "rank": 7,
+      "url": "https://www.termometrooscar.com/melhor-ator.html",
+      "pct_adj": 62.3,
+      "arrow": "same",
+      "title": "Matt Damon",
+      "short": "\"A Odisseia\"",
+      "category": "MELHOR ATOR",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p132_i21_w800.png"
     },
     {
       "rank": 8,
