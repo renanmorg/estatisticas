@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-03T15:33:51.694Z",
+  "updatedAt": "2026-10-11T03:42:06.486Z",
   "indicados": [
     {
       "film": "A Odisseia",
-      "count": 13,
+      "count": 12,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i14_w947.jpeg?width=640"
     },
     {
@@ -59,7 +59,7 @@
     {
       "film": "As Novas Desventuras de Cliff Booth",
       "count": 3,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p229_i19_w800.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p229_i20_w800.jpeg?width=320"
     },
     {
       "film": "O Convite",
@@ -67,14 +67,19 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p71_i17_w961.jpeg?width=640"
     },
     {
+      "film": "Amor Possível",
+      "count": 2,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p149_i17_w800.png?width=320"
+    },
+    {
       "film": "A Pescadora Solitária",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p654_i12_w800.jpeg?width=320"
     },
     {
-      "film": "Amor Possível",
+      "film": "Artificial",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p577_i10_w960.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i17_w800.png?width=320"
     },
     {
       "film": "Behemoth! Uma Vida Composta em Peças",
@@ -152,11 +157,6 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3790_i2_w1067.jpeg?width=640"
     },
     {
-      "film": "Tender Loving Care",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p139_i20_w800.png?width=320"
-    },
-    {
       "film": "Toy Story 5",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg?width=640"
@@ -175,13 +175,8 @@
     },
     {
       "film": "A Grande Estreia",
-      "count": 2,
+      "count": 3,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p80_i17_w1312.jpeg?width=640"
-    },
-    {
-      "film": "A Terra do Meu Pai",
-      "count": 1,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p78_i18_w2700.jpeg?width=640"
     },
     {
       "film": "Elsinore",
