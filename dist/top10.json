@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T15:35:02.829Z",
+  "updated": "2026-10-12T16:34:43.123Z",
   "items": [
     {
       "rank": 1,
@@ -15,7 +15,7 @@
       "rank": 2,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 72.9,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR ANIMAÇÃO",
@@ -25,7 +25,7 @@
       "rank": 3,
       "url": "https://www.termometrooscar.com/melhor-atriz.html",
       "pct_adj": 72.7,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Julianne Moore",
       "short": "\"The Debut\"",
       "category": "MELHOR ATRIZ",
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
       "pct_adj": 66.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Michael",
       "short": "John Warhurst",
       "category": "MELHOR SOM",
