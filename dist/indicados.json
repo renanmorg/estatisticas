@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T03:42:06.486Z",
+  "updatedAt": "2026-10-17T14:20:38.319Z",
   "indicados": [
     {
       "film": "A Odisseia",
@@ -32,11 +32,6 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p93_i19_w800.jpeg?width=640"
     },
     {
-      "film": "A Terra do Meu Pai",
-      "count": 5,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p78_i18_w2700.jpeg?width=640"
-    },
-    {
       "film": "La Bola Negra",
       "count": 5,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p60_i15_w800.jpeg?width=640"
@@ -47,19 +42,24 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p80_i17_w1312.jpeg?width=640"
     },
     {
+      "film": "A Terra do Meu Pai",
+      "count": 4,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p78_i18_w2700.jpeg?width=640"
+    },
+    {
       "film": "Lobis-Homem",
       "count": 4,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p67_i19_w1080.jpeg?width=640"
     },
     {
-      "film": "Michael",
-      "count": 4,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p85_i17_w510.jpeg"
-    },
-    {
       "film": "As Novas Desventuras de Cliff Booth",
       "count": 3,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p229_i20_w800.jpeg?width=320"
+    },
+    {
+      "film": "Michael",
+      "count": 3,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p85_i17_w510.jpeg"
     },
     {
       "film": "O Convite",
@@ -72,14 +72,19 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p149_i17_w800.png?width=320"
     },
     {
+      "film": "Artificial",
+      "count": 2,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i17_w800.png?width=320"
+    },
+    {
+      "film": "O Outro Lado das Redes",
+      "count": 2,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p56_i18_w1080.jpeg?width=640"
+    },
+    {
       "film": "A Pescadora Solitária",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p654_i12_w800.jpeg?width=320"
-    },
-    {
-      "film": "Artificial",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i17_w800.png?width=320"
     },
     {
       "film": "Behemoth! Uma Vida Composta em Peças",
@@ -132,16 +137,6 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3790_i2_w1067.jpeg?width=640"
     },
     {
-      "film": "O Drama",
-      "count": 1,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i16_w961.jpeg?width=640"
-    },
-    {
-      "film": "O Outro Lado das Redes",
-      "count": 1,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p56_i18_w1080.jpeg?width=640"
-    },
-    {
       "film": "Obsessão",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p94_i20_w1013.jpeg?width=640"
@@ -160,6 +155,11 @@
       "film": "Toy Story 5",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg?width=640"
+    },
+    {
+      "film": "You Can See Everything",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p64_i18_w1382.jpeg?width=320"
     }
   ],
   "vencedores": [
