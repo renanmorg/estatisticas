@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T11:35:04.927Z",
+  "updated": "2026-10-21T12:34:59.520Z",
   "items": [
     {
       "rank": 1,
@@ -63,6 +63,16 @@
     },
     {
       "rank": 7,
+      "url": "https://www.termometrooscar.com/melhor-trilha-sonora.html",
+      "pct_adj": 65.7,
+      "arrow": "same",
+      "title": "A Odisseia",
+      "short": "Ludwig Göransson",
+      "category": "MELHOR TRILHA SONORA",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p441_i19_w800.jpeg"
+    },
+    {
+      "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 64.6,
       "arrow": "same",
@@ -70,16 +80,6 @@
       "short": "Daniel Chong",
       "category": "MELHOR ANIMAÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3789_i2_w1012.jpeg"
-    },
-    {
-      "rank": 8,
-      "url": "https://www.termometrooscar.com/melhor-trilha-sonora.html",
-      "pct_adj": 64,
-      "arrow": "same",
-      "title": "A Odisseia",
-      "short": "Ludwig Göransson",
-      "category": "MELHOR TRILHA SONORA",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p441_i19_w800.jpeg"
     },
     {
       "rank": 9,
