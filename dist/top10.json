@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T22:34:43.352Z",
+  "updated": "2026-10-27T23:35:08.308Z",
   "items": [
     {
       "rank": 1,
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/melhor-trilha-sonora.html",
       "pct_adj": 67.2,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Ludwig Göransson",
       "category": "MELHOR TRILHA SONORA",
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
       "pct_adj": 66.7,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Michael",
       "short": "John Warhurst",
       "category": "MELHOR SOM",
