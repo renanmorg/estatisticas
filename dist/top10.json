@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T21:34:47.771Z",
+  "updated": "2026-10-27T22:34:43.352Z",
   "items": [
     {
       "rank": 1,
@@ -53,23 +53,23 @@
     },
     {
       "rank": 6,
-      "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
-      "pct_adj": 66.7,
-      "arrow": "same",
-      "title": "Michael",
-      "short": "John Warhurst",
-      "category": "MELHOR SOM",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p356_i11_w800.jpeg"
-    },
-    {
-      "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-trilha-sonora.html",
-      "pct_adj": 65.7,
-      "arrow": "same",
+      "pct_adj": 67.2,
+      "arrow": "up",
       "title": "A Odisseia",
       "short": "Ludwig Göransson",
       "category": "MELHOR TRILHA SONORA",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p441_i19_w800.jpeg"
+    },
+    {
+      "rank": 7,
+      "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
+      "pct_adj": 66.7,
+      "arrow": "down",
+      "title": "Michael",
+      "short": "John Warhurst",
+      "category": "MELHOR SOM",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p356_i11_w800.jpeg"
     },
     {
       "rank": 8,
