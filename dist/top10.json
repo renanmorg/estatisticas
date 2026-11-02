@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T21:34:43.728Z",
+  "updated": "2026-11-02T22:34:48.503Z",
   "items": [
     {
       "rank": 1,
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 64.9,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-roteiro-adaptado.html",
       "pct_adj": 64.6,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Devoradores de Estrelas",
       "short": "Drew Goddard",
       "category": "MELHOR ROTEIRO ADAPTADO",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/melhor-efeitos-visuais.html",
       "pct_adj": 64.6,
-      "arrow": "down",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Andrew Jackson",
       "category": "MELHOR EFEITOS VISUAIS",
