@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-12T10:34:59.170Z",
+  "updated": "2026-11-12T11:34:43.923Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
       "pct_adj": 75.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
@@ -15,7 +15,7 @@
       "rank": 2,
       "url": "https://www.termometrooscar.com/melhor-atriz.html",
       "pct_adj": 73.8,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Julianne Moore",
       "short": "\"The Debut\"",
       "category": "MELHOR ATRIZ",
@@ -53,9 +53,9 @@
     },
     {
       "rank": 6,
-      "url": "https://www.termometrooscar.com/store/p3785/Duna%3A_Parte_3.html",
+      "url": "https://www.termometrooscar.com/melhor-efeitos-visuais.html",
       "pct_adj": 67.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Duna: Parte 3",
       "short": "Paul Lambert",
       "category": "MELHOR EFEITOS VISUAIS",
@@ -83,9 +83,9 @@
     },
     {
       "rank": 9,
-      "url": "https://www.termometrooscar.com/store/p655/Michael.html",
+      "url": "https://www.termometrooscar.com/melhor-maquiagem.html",
       "pct_adj": 64.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Michael",
       "short": "Bill Corso",
       "category": "MELHOR MAQUIAGEM",
@@ -93,9 +93,9 @@
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/store/p90/A_Odisseia.html",
+      "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 62.6,
-      "arrow": "down",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
