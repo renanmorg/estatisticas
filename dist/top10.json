@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-12T09:34:47.498Z",
+  "updated": "2026-11-12T10:34:59.170Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
-      "pct_adj": 75.1,
-      "arrow": "same",
+      "pct_adj": 75.8,
+      "arrow": "up",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
@@ -14,8 +14,8 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/melhor-atriz.html",
-      "pct_adj": 73.4,
-      "arrow": "same",
+      "pct_adj": 73.8,
+      "arrow": "up",
       "title": "Julianne Moore",
       "short": "\"The Debut\"",
       "category": "MELHOR ATRIZ",
@@ -53,13 +53,13 @@
     },
     {
       "rank": 6,
-      "url": "https://www.termometrooscar.com/melhor-trilha-sonora.html",
-      "pct_adj": 67.2,
-      "arrow": "same",
-      "title": "A Odisseia",
-      "short": "Ludwig Göransson",
-      "category": "MELHOR TRILHA SONORA",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p441_i19_w800.jpeg"
+      "url": "https://www.termometrooscar.com/store/p3785/Duna%3A_Parte_3.html",
+      "pct_adj": 67.6,
+      "arrow": "up",
+      "title": "Duna: Parte 3",
+      "short": "Paul Lambert",
+      "category": "MELHOR EFEITOS VISUAIS",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3785_i2_w800.jpeg"
     },
     {
       "rank": 7,
@@ -83,23 +83,23 @@
     },
     {
       "rank": 9,
-      "url": "https://www.termometrooscar.com/melhor-efeitos-visuais.html",
+      "url": "https://www.termometrooscar.com/store/p655/Michael.html",
       "pct_adj": 64.6,
-      "arrow": "same",
-      "title": "A Odisseia",
-      "short": "Andrew Jackson",
-      "category": "MELHOR EFEITOS VISUAIS",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3796_i3_w800.jpeg"
+      "arrow": "up",
+      "title": "Michael",
+      "short": "Bill Corso",
+      "category": "MELHOR MAQUIAGEM",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p655_i14_w800.jpeg"
     },
     {
       "rank": 10,
-      "url": "https://www.termometrooscar.com/melhor-efeitos-visuais.html",
-      "pct_adj": 64.6,
-      "arrow": "same",
-      "title": "Devoradores de Estrelas",
-      "short": "Paul Lambert",
-      "category": "MELHOR EFEITOS VISUAIS",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3798_i2_w800.jpeg"
+      "url": "https://www.termometrooscar.com/store/p90/A_Odisseia.html",
+      "pct_adj": 62.6,
+      "arrow": "down",
+      "title": "A Odisseia",
+      "short": "Christopher Nolan e Emma Thomas",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
     }
   ]
 }
