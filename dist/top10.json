@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T14:34:38.528Z",
+  "updated": "2026-11-13T15:34:57.698Z",
   "items": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/melhor-efeitos-visuais.html",
       "pct_adj": 67.6,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Duna: Parte 3",
       "short": "Paul Lambert",
       "category": "MELHOR EFEITOS VISUAIS",
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
       "pct_adj": 66.7,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR ANIMAÇÃO",
@@ -95,7 +95,7 @@
       "rank": 10,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 63.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
