@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T14:34:43.248Z",
+  "updated": "2026-11-15T15:34:57.912Z",
   "items": [
     {
       "rank": 1,
@@ -55,7 +55,7 @@
       "rank": 6,
       "url": "https://www.termometrooscar.com/melhor-roteiro-adaptado.html",
       "pct_adj": 66.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Devoradores de Estrelas",
       "short": "Drew Goddard",
       "category": "MELHOR ROTEIRO ADAPTADO",
@@ -65,7 +65,7 @@
       "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
       "pct_adj": 66.7,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Michael",
       "short": "John Warhurst",
       "category": "MELHOR SOM",
