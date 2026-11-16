@@ -1,18 +1,8 @@
 {
-  "updated": "2026-11-16T06:34:44.133Z",
+  "updated": "2026-11-16T07:34:44.547Z",
   "items": [
     {
       "rank": 1,
-      "url": "https://www.termometrooscar.com/melhor-diretor.html",
-      "pct_adj": 77,
-      "arrow": "same",
-      "title": "Christopher Nolan",
-      "short": "\"A Odisseia\"",
-      "category": "MELHOR DIREÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3289_i3_w800.png"
-    },
-    {
-      "rank": 2,
       "url": "https://www.termometrooscar.com/melhor-atriz.html",
       "pct_adj": 75.1,
       "arrow": "up",
@@ -20,6 +10,16 @@
       "short": "\"The Debut\"",
       "category": "MELHOR ATRIZ",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p140_i19_w800.png"
+    },
+    {
+      "rank": 2,
+      "url": "https://www.termometrooscar.com/melhor-diretor.html",
+      "pct_adj": 74,
+      "arrow": "down",
+      "title": "Christopher Nolan",
+      "short": "\"A Odisseia\"",
+      "category": "MELHOR DIREÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3289_i3_w800.png"
     },
     {
       "rank": 3,
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 65,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
