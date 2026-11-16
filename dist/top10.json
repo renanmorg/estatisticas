@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T13:34:48.468Z",
+  "updated": "2026-11-16T14:34:47.924Z",
   "items": [
     {
       "rank": 1,
@@ -15,7 +15,7 @@
       "rank": 2,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
       "pct_adj": 74.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
@@ -85,7 +85,7 @@
       "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 65.4,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
