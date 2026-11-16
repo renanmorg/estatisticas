@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-16T04:34:40.255Z",
+  "updated": "2026-11-16T05:34:56.529Z",
   "items": [
     {
       "rank": 1,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
       "pct_adj": 77,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
@@ -35,7 +35,7 @@
       "rank": 4,
       "url": "https://www.termometrooscar.com/melhor-efeitos-visuais.html",
       "pct_adj": 70.1,
-      "arrow": "up",
+      "arrow": "same",
       "title": "Duna: Parte 3",
       "short": "Paul Lambert",
       "category": "MELHOR EFEITOS VISUAIS",
@@ -45,7 +45,7 @@
       "rank": 5,
       "url": "https://www.termometrooscar.com/melhor-trilha-sonora.html",
       "pct_adj": 70.1,
-      "arrow": "down",
+      "arrow": "same",
       "title": "Toy Story 5",
       "short": "Randy Newman",
       "category": "MELHOR TRILHA SONORA",
