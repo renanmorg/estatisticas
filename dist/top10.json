@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T16:35:12.614Z",
+  "updated": "2026-11-17T17:35:02.818Z",
   "items": [
     {
       "rank": 1,
@@ -74,32 +74,32 @@
     {
       "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
-      "pct_adj": 64.8,
-      "arrow": "same",
-      "title": "Toy Story 5",
-      "short": "McKenna Harris e Andrew Stanton",
-      "category": "MELHOR ANIMAÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg"
-    },
-    {
-      "rank": 9,
-      "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 64.6,
-      "arrow": "same",
-      "title": "A Odisseia",
-      "short": "Christopher Nolan e Emma Thomas",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
-    },
-    {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
-      "pct_adj": 64.6,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Super Mario Galaxy: O Filme",
       "short": "Aaron Horvath e Michael Jelenic",
       "category": "MELHOR ANIMAÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3786_i2_w477.jpeg"
+    },
+    {
+      "rank": 9,
+      "url": "https://www.termometrooscar.com/store/p161/Andrew_Garfield.html",
+      "pct_adj": 64.6,
+      "arrow": "up",
+      "title": "Andrew Garfield",
+      "short": "\"Artificial\"",
+      "category": "MELHOR ATOR COADJUVANTE",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i17_w800.png"
+    },
+    {
+      "rank": 10,
+      "url": "https://www.termometrooscar.com/store/p655/Michael.html",
+      "pct_adj": 64.6,
+      "arrow": "up",
+      "title": "Michael",
+      "short": "Bill Corso",
+      "category": "MELHOR MAQUIAGEM",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p655_i14_w800.jpeg"
     }
   ]
 }
