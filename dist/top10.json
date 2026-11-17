@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T05:34:45.109Z",
+  "updated": "2026-11-17T06:35:00.982Z",
   "items": [
     {
       "rank": 1,
@@ -13,23 +13,23 @@
     },
     {
       "rank": 2,
-      "url": "https://www.termometrooscar.com/melhor-filme.html",
-      "pct_adj": 72.2,
-      "arrow": "same",
-      "title": "Toy Story 5",
-      "short": "McKenna Harris e Andrew Stanton",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p82_i19_w1011.jpeg"
-    },
-    {
-      "rank": 3,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
-      "pct_adj": 72,
-      "arrow": "same",
+      "pct_adj": 72.7,
+      "arrow": "up",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3289_i3_w800.png"
+    },
+    {
+      "rank": 3,
+      "url": "https://www.termometrooscar.com/melhor-filme.html",
+      "pct_adj": 72.2,
+      "arrow": "down",
+      "title": "Toy Story 5",
+      "short": "McKenna Harris e Andrew Stanton",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p82_i19_w1011.jpeg"
     },
     {
       "rank": 4,
