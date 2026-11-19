@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-17T14:20:38.319Z",
+  "updatedAt": "2026-11-19T16:52:50.157Z",
   "indicados": [
     {
       "film": "A Odisseia",
-      "count": 12,
+      "count": 14,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i14_w947.jpeg?width=640"
     },
     {
@@ -13,8 +13,13 @@
     },
     {
       "film": "Digger",
-      "count": 10,
+      "count": 8,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p92_i20_w849.jpeg?width=640"
+    },
+    {
+      "film": "A Bola Preta",
+      "count": 7,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p114_i13_w800.png?width=320"
     },
     {
       "film": "Cavalo Selvagem Nove",
@@ -32,24 +37,19 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p93_i19_w800.jpeg?width=640"
     },
     {
-      "film": "La Bola Negra",
-      "count": 5,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p60_i15_w800.jpeg?width=640"
-    },
-    {
       "film": "A Grande Estreia",
-      "count": 4,
+      "count": 5,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p80_i17_w1312.jpeg?width=640"
-    },
-    {
-      "film": "A Terra do Meu Pai",
-      "count": 4,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p78_i18_w2700.jpeg?width=640"
     },
     {
       "film": "Lobis-Homem",
       "count": 4,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p67_i19_w1080.jpeg?width=640"
+    },
+    {
+      "film": "A Terra do Meu Pai",
+      "count": 3,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p78_i18_w2700.jpeg?width=640"
     },
     {
       "film": "As Novas Desventuras de Cliff Booth",
@@ -67,6 +67,11 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p71_i17_w961.jpeg?width=640"
     },
     {
+      "film": "Tudo Pode Ser Visto",
+      "count": 3,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p100_i15_w800.png?width=320"
+    },
+    {
       "film": "Amor Possível",
       "count": 2,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p149_i17_w800.png?width=320"
@@ -80,6 +85,11 @@
       "film": "O Outro Lado das Redes",
       "count": 2,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p56_i18_w1080.jpeg?width=640"
+    },
+    {
+      "film": "Toy Story 5",
+      "count": 2,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg?width=640"
     },
     {
       "film": "A Pescadora Solitária",
@@ -97,6 +107,11 @@
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p546_i14_w800.jpeg?width=320"
     },
     {
+      "film": "Coyote vs Acme",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p247_i10_w510.jpeg?width=320"
+    },
+    {
       "film": "Dia D",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p77_i18_w947.jpeg?width=640"
@@ -105,6 +120,11 @@
       "film": "Elsinore",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p122_i16_w800.png?width=320"
+    },
+    {
+      "film": "Everybody to Kenmure Street",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p273_i10_w2000.jpeg?width=320"
     },
     {
       "film": "Godzilla Minus Zero",
@@ -124,12 +144,22 @@
     {
       "film": "Iron Boy",
       "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p254_i14_w520.jpeg?width=320"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p254_i15_w720.jpeg?width=320"
+    },
+    {
+      "film": "Maserati: The Brothers",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p429_i8_w800.jpeg?width=320"
     },
     {
       "film": "Minotaur",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p619_i10_w2000.jpeg?width=320"
+    },
+    {
+      "film": "NAZA",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i9_w1000.jpeg?width=320"
     },
     {
       "film": "O Bosque Selvagem",
@@ -142,24 +172,19 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p94_i20_w1013.jpeg?width=640"
     },
     {
-      "film": "Ray Gunn",
+      "film": "Once Upon a Time in Harlem",
       "count": 1,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3792_i2_w184.jpeg"
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p271_i13_w1600.jpeg?width=320"
+    },
+    {
+      "film": "Rehearsals for a Revolution",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p269_i15_w1000.jpeg?width=320"
     },
     {
       "film": "Shaun the Sheep: The Beast of Mossy Bottom",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3790_i2_w1067.jpeg?width=640"
-    },
-    {
-      "film": "Toy Story 5",
-      "count": 1,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg?width=640"
-    },
-    {
-      "film": "You Can See Everything",
-      "count": 1,
-      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p64_i18_w1382.jpeg?width=320"
     }
   ],
   "vencedores": [
@@ -179,14 +204,14 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p80_i17_w1312.jpeg?width=640"
     },
     {
+      "film": "A Bola Preta",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p586_i9_w1080.jpeg?width=320"
+    },
+    {
       "film": "Elsinore",
       "count": 1,
       "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p122_i16_w800.png?width=320"
-    },
-    {
-      "film": "La Bola Negra",
-      "count": 1,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p60_i15_w800.jpeg?width=640"
     },
     {
       "film": "O Bosque Selvagem",
@@ -197,6 +222,16 @@
       "film": "O Convite",
       "count": 1,
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p71_i17_w961.jpeg?width=640"
+    },
+    {
+      "film": "Toy Story 5",
+      "count": 1,
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg?width=640"
+    },
+    {
+      "film": "Tudo Pode Ser Visto",
+      "count": 1,
+      "image": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i11_w1382.jpeg?width=320"
     }
   ]
 }
