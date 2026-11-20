@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T14:34:44.199Z",
+  "updated": "2026-11-20T15:34:42.625Z",
   "items": [
     {
       "rank": 1,
@@ -14,8 +14,8 @@
     {
       "rank": 2,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
-      "pct_adj": 72.7,
-      "arrow": "same",
+      "pct_adj": 73.3,
+      "arrow": "up",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
@@ -23,23 +23,23 @@
     },
     {
       "rank": 3,
-      "url": "https://www.termometrooscar.com/melhor-filme.html",
-      "pct_adj": 72.2,
-      "arrow": "same",
-      "title": "Toy Story 5",
-      "short": "McKenna Harris e Andrew Stanton",
-      "category": "MELHOR FILME",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p82_i19_w1011.jpeg"
-    },
-    {
-      "rank": 4,
       "url": "https://www.termometrooscar.com/melhor-efeitos-visuais.html",
-      "pct_adj": 70.1,
-      "arrow": "same",
+      "pct_adj": 72.2,
+      "arrow": "up",
       "title": "Duna: Parte 3",
       "short": "Paul Lambert",
       "category": "MELHOR EFEITOS VISUAIS",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3785_i2_w800.jpeg"
+    },
+    {
+      "rank": 4,
+      "url": "https://www.termometrooscar.com/melhor-filme.html",
+      "pct_adj": 72.2,
+      "arrow": "down",
+      "title": "Toy Story 5",
+      "short": "McKenna Harris e Andrew Stanton",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p82_i19_w1011.jpeg"
     },
     {
       "rank": 5,
