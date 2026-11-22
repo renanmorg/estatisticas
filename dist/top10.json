@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T21:34:43.221Z",
+  "updated": "2026-11-22T22:34:45.201Z",
   "items": [
     {
       "rank": 1,
@@ -63,43 +63,43 @@
     },
     {
       "rank": 7,
-      "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
-      "pct_adj": 66.7,
-      "arrow": "same",
-      "title": "Michael",
-      "short": "John Warhurst",
-      "category": "MELHOR SOM",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p356_i11_w800.jpeg"
-    },
-    {
-      "rank": 8,
-      "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
-      "pct_adj": 64.6,
-      "arrow": "same",
-      "title": "Super Mario Galaxy: O Filme",
-      "short": "Aaron Horvath e Michael Jelenic",
-      "category": "MELHOR ANIMAÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3786_i2_w477.jpeg"
-    },
-    {
-      "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
-      "pct_adj": 64.6,
-      "arrow": "same",
+      "pct_adj": 67.6,
+      "arrow": "up",
       "title": "Andrew Garfield",
       "short": "\"Artificial\"",
       "category": "MELHOR ATOR COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i17_w800.png"
     },
     {
-      "rank": 10,
-      "url": "https://www.termometrooscar.com/melhor-maquiagem.html",
-      "pct_adj": 64.6,
-      "arrow": "same",
+      "rank": 8,
+      "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
+      "pct_adj": 66.7,
+      "arrow": "down",
       "title": "Michael",
-      "short": "Bill Corso",
-      "category": "MELHOR MAQUIAGEM",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p655_i14_w800.jpeg"
+      "short": "John Warhurst",
+      "category": "MELHOR SOM",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p356_i11_w800.jpeg"
+    },
+    {
+      "rank": 9,
+      "url": "https://www.termometrooscar.com/store/p90/A_Odisseia.html",
+      "pct_adj": 64.9,
+      "arrow": "up",
+      "title": "A Odisseia",
+      "short": "Christopher Nolan e Emma Thomas",
+      "category": "MELHOR FILME",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
+    },
+    {
+      "rank": 10,
+      "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
+      "pct_adj": 64.6,
+      "arrow": "down",
+      "title": "Super Mario Galaxy: O Filme",
+      "short": "Aaron Horvath e Michael Jelenic",
+      "category": "MELHOR ANIMAÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3786_i2_w477.jpeg"
     }
   ]
 }
