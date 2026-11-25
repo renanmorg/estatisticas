@@ -1,105 +1,105 @@
 {
-  "updated": "2026-11-25T10:34:58.376Z",
+  "updated": "2026-11-25T11:34:50.450Z",
   "items": [
     {
       "rank": 1,
-      "url": "https://www.termometrooscar.com/melhor-atriz.html",
-      "pct_adj": 75.5,
-      "arrow": "same",
-      "title": "Julianne Moore",
-      "short": "\"The Debut\"",
-      "category": "MELHOR ATRIZ",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p140_i19_w800.png"
-    },
-    {
-      "rank": 2,
       "url": "https://www.termometrooscar.com/melhor-diretor.html",
-      "pct_adj": 75,
-      "arrow": "same",
+      "pct_adj": 75.5,
+      "arrow": "up",
       "title": "Christopher Nolan",
       "short": "\"A Odisseia\"",
       "category": "MELHOR DIREÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3289_i3_w800.png"
     },
     {
-      "rank": 3,
-      "url": "https://www.termometrooscar.com/melhor-efeitos-visuais.html",
-      "pct_adj": 72.2,
-      "arrow": "same",
-      "title": "Duna: Parte 3",
-      "short": "Paul Lambert",
-      "category": "MELHOR EFEITOS VISUAIS",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3785_i2_w800.jpeg"
+      "rank": 2,
+      "url": "https://www.termometrooscar.com/melhor-atriz.html",
+      "pct_adj": 75.5,
+      "arrow": "down",
+      "title": "Julianne Moore",
+      "short": "\"The Debut\"",
+      "category": "MELHOR ATRIZ",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p140_i19_w800.png"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "url": "https://www.termometrooscar.com/melhor-trilha-sonora.html",
       "pct_adj": 72.2,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Toy Story 5",
       "short": "Randy Newman",
       "category": "MELHOR TRILHA SONORA",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p451_i17_w800.jpeg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 72.2,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p82_i19_w1011.jpeg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "url": "https://www.termometrooscar.com/melhor-roteiro-adaptado.html",
       "pct_adj": 70.2,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Devoradores de Estrelas",
       "short": "Drew Goddard",
       "category": "MELHOR ROTEIRO ADAPTADO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p219_i15_w800.jpeg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "url": "https://www.termometrooscar.com/melhor-ator-coadjuvante.html",
       "pct_adj": 70.1,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Andrew Garfield",
       "short": "\"Artificial\"",
       "category": "MELHOR ATOR COADJUVANTE",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i17_w800.png"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "url": "https://www.termometrooscar.com/melhor-ediccedilatildeo-de-som.html",
       "pct_adj": 66.7,
-      "arrow": "same",
+      "arrow": "up",
       "title": "Michael",
       "short": "John Warhurst",
       "category": "MELHOR SOM",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p356_i11_w800.jpeg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
-      "pct_adj": 64.8,
-      "arrow": "same",
+      "pct_adj": 65.1,
+      "arrow": "up",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p90_i15_w947.jpeg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
-      "pct_adj": 64.6,
-      "arrow": "same",
+      "pct_adj": 65.1,
+      "arrow": "up",
       "title": "Toy Story 5",
       "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR ANIMAÇÃO",
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg"
+    },
+    {
+      "rank": 10,
+      "url": "https://www.termometrooscar.com/store/p3786/Super_Mario_Galaxy%3A_O_Filme.html",
+      "pct_adj": 64.6,
+      "arrow": "up",
+      "title": "Super Mario Galaxy: O Filme",
+      "short": "Aaron Horvath e Michael Jelenic",
+      "category": "MELHOR ANIMAÇÃO",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3786_i2_w477.jpeg"
     }
   ]
 }
