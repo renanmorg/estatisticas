@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T00:34:40.455Z",
+  "updated": "2026-11-26T01:34:54.495Z",
   "items": [
     {
       "rank": 1,
@@ -75,7 +75,7 @@
       "rank": 8,
       "url": "https://www.termometrooscar.com/melhor-filme.html",
       "pct_adj": 65.7,
-      "arrow": "up",
+      "arrow": "same",
       "title": "A Odisseia",
       "short": "Christopher Nolan e Emma Thomas",
       "category": "MELHOR FILME",
@@ -83,23 +83,23 @@
     },
     {
       "rank": 9,
-      "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
-      "pct_adj": 65.1,
-      "arrow": "same",
-      "title": "Toy Story 5",
-      "short": "McKenna Harris e Andrew Stanton",
-      "category": "MELHOR ANIMAÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg"
+      "url": "https://www.termometrooscar.com/store/p655/Michael.html",
+      "pct_adj": 64.6,
+      "arrow": "up",
+      "title": "Michael",
+      "short": "Bill Corso",
+      "category": "MELHOR MAQUIAGEM",
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p655_i14_w800.jpeg"
     },
     {
       "rank": 10,
       "url": "https://www.termometrooscar.com/melhor-animaccedilatildeo.html",
-      "pct_adj": 64.6,
-      "arrow": "same",
-      "title": "Super Mario Galaxy: O Filme",
-      "short": "Aaron Horvath e Michael Jelenic",
+      "pct_adj": 64.1,
+      "arrow": "down",
+      "title": "Toy Story 5",
+      "short": "McKenna Harris e Andrew Stanton",
       "category": "MELHOR ANIMAÇÃO",
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3786_i2_w477.jpeg"
+      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p236_i11_w1011.jpeg"
     }
   ]
 }
